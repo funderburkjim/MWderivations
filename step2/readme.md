@@ -1,5 +1,5 @@
 
-This readme.org provides an overview of the computations and results.
+This readme.md provides an overview of the computations and results. 
 
 ## Independently derived data sources:
 * lexnorm-all.txt
