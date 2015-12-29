@@ -1,0 +1,125 @@
+
+readme_procedure.org
+
+Contains procedural details for the computations.
+
+
+* lexnorm-all.txt
+ From funderburkjim/MWlexnorm repository in directory step1b
+
+ Note to self: lexnorm-all.txt takes the place of '1b.txt' in oldmapnorm.
+ 
+ File has 198467 lines.
+ Each line contains 4 tab-delimited fields:
+ L, key1, key2, lexnorm.
+ NOTE: The H-code is absent.  Only nominal (or ind.) records of MW are
+  present.
+* Corrections to lexnorm-all
+  Errors in MW. These are corrected there, but for convenience,
+  I am correcting them in lexnorm-all also.
+  dev<srs/>Arya -> devA<srs/>rya
+  n/<srs/>ema => ne/<srs/>ma
+  sarva/to--mu<sr1/>KOd<srs/><sr1/>gAtra-prayoga => 
+     sarva/to--mu<sr1/>KO<srs/>d<sr1/>gAtra-prayoga
+  >par/A<srs/>Sraya => par/A<srs/>Sraya
+  ' kram/A<srs/>gata---tva' => 'kram/A<srs/>gata---tva'  (remove space)
+* allnom.txt: normalize key2
+python normkey2.py ../../mwxml/mw.xml lexnorm-all.txt allnom.txt
+198467 records read from lexnorm-all.txt and written to all.txt
+ x = re.sub(r'-+','-',x)  # recode multiple '-' to a single '-'
+ x = re.sub(r'<sr1?/>','~',x) # recode <sr/>, <sr1/> as ~
+ x = re.sub(r'<srs1?/>','@',x) # recode <srs/>, <srs1/> as @
+ x = re.sub(r'<shortlong/>','',x) # remove <shortlong/>
+ x = re.sub(r'</?root>','',x) # remove <root>, </root>
+ x = re.sub(r'[/\^]','',x) # remove accents
+ x = re.sub(r'-?~-?','~',x)  # leave ~, but remove neighboring '-'
+
+
+* extended explanation of changes to key2
+key2, as in lexnorm-all.txt, has several parts that seem to me irrelevant in
+regard to the designation of padas.
+ - vowel accents: The accent of a vowel is represented by a preceding
+   character.  The most common (and perhaps only) accent representative 
+    is a forward slash. Also used is '^' (rarely, only in sv^ar?).
+    These will be removed
+ - gratuitous multiple-dashes ('-' character).  A single such character
+   is used to replace consecutive sequences of such characters.
+ - <sr/>, <sr1/> : these represent the presence in the scanned image of
+   a 'small-circle', used to represent an implied preceding word.
+   These can confound pada identification. For instance:
+   104.1	aMsoccaya	aM--<sr/>so<srs/>ccaya	m:
+   Here, a better marking of key2 is "aMso<srs/>ccaya".
+   It is believed that there is no semantic difference between the 
+   <sr/> and <sr1/>.  
+    In key2, I change these to ~. (See note on stepsr.txt below)
+ - <shortlong/> . indicates preceding vowel may be short or long. Drop this.
+ - <root>.*?</root> . only in substantive  aBi-jYu.  Remove <root>,</root>
+ - <srs/> : This represents a 'single-replacement-sandhi', and is important
+   to the pada-identification of this investigation.  
+   The hypothesis is that a vowel followed by <srs/>  is the result of
+   a sandhi of two vowels;  the two vowels are unspecified.  It might
+   be helpful, technically, to replace this multi-character symbol by 
+   some single-character;  since this phenomenon is represented in the
+   scans by a 'Hat' (circumflex) character over the vowel, and since
+   the '@' character is often called the 'at-sign', I will replace the
+   <srs/> by the '@' character  (this character does not otherwise occur in
+   key2).
+
+Note on sr.txt:
+   The <sr> instances appear to be adequately handled by being ignored.
+   Thus, in stepall.txt I actually delete the '~'.
+   However, for the sake of completeness, I write to a separate file, namely
+   stepsr.txt, the records with the '~' present.
+
+Note: all.txt has 199,005 (199k) records.
+Of these, 140k have a '-'  (indicating a compound)
+13k have no '-' but have '@' (indicating simple srs compound).
+That leaves 46k which are not coded as compounds.
+
+* auxiliary/verb_step0a.txt
+ from repository funderburkjim/MWvlex in directory step0
+ Contains all records of MW identified as verbs (or mentioning verbs).
+ There are 5 categories:
+X 96   : record contains <vlex type="nhw">  (nhw == not headword) (hw not a verb)
+K 6395 : record contains form <key2>.*?</root></key2>
+N 1215 : record contains <vlex>Nom.</vlex>  (denominative verb)
+P 619  : record contains <vlex type="preverb"></vlex> (prefixed roots)
+V 2148 : record contains <vlex type="root"></vlex> (standard root)
+* auxiliary/icf.txt
+python init_icf.py auxiliary/icf_prep1.txt auxiliary/icf.txt
+  auxiliary/icf_prep1.txt ontains records of MW that are 'in compound for' 
+   records.
+  These are subclassified as 
+  OK 665 - definite icf
+  PROBABLE 181 - very likely icf
+  MAYBE 333 - possible icf
+ (+ 665 181 333) = 1179
+* auxiliary/mw_extract.txt
+python mw_extract.py ../../mwxml/mw.xml auxiliary/mw_extract.txt
+286814 records read from ../../mwxml/mw.xml
+202645 records written to auxiliary/mw_extract.txt
+
+* all.txt
+ Merges allnom.txt and other records.
+ Uses allnom.txt
+ Uses ancillary files mw_extract.txt, verb_step0.txt, icf_prep1.txt
+python merge.py auxiliary/mw_extract.txt allnom.txt auxiliary/verb_step0a.txt auxiliary/icf.txt all.txt
+* analysis
+sh analysis.sh
+Initializes analysis.txt and identifies the derivation of words using
+several strategies.  These strategies are applied sequentially.
+
+** init
+python analysis.py init all.txt analysis.txt
+202645 records read from all.txt
+      init  NTD  22033
+      init TODO 180612
+** noparts
+python analysis.py noparts analysis.txt
+** test
+python analysis.py test analysis.txt
+** wsfx
+python analysis.py wsfx analysis.txt
+
+* The End
+
