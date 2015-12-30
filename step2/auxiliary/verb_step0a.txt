@@ -3845,7 +3845,7 @@ gozWa:67709:<H3>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 goDAya:67846:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 gopaya:67940:<H2>:N::<vlex>Nom.</vlex> <vlex>P. A1.</vlex>
 gopAya:67943:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
-govaya:68047:<H1A>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
+govaya:68047:<H1>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 gDa:68425:<H1>:V::<vlex type="root"></vlex> <vlex>A1.</vlex>
 graT:68437:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>cl.1 P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P. A1.</vlex>
 granT:68437.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.9 P.</vlex> <vlex>cl.1 P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P. A1.</vlex>
@@ -4274,7 +4274,7 @@ tuR:85831:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 tuRq:85833:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 A1.</vlex>
 tutTaya:85877:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 tud:85879:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
-tudAdi:85880:<H3>:X::<vlex type="nhw">cl.6.</vlex>
+tudAdi:85880:<H2>:X::<vlex type="nhw">cl.6.</vlex>
 tund:85892:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.</vlex>
 tup:85921:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.6.</vlex>
 tuP:85921.1:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1.6.</vlex>
@@ -7207,7 +7207,7 @@ mAsIkf:163960:<H2>:K:<key2>mAsI-<root>kf</root></key2>:<vlex>P.</vlex>
 mAh:163970:<H1>:V::<vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex>
 mi:164084:<H1>:V::<vlex type="root"></vlex> <vlex>cl.5. P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 mi:164093:<H1>:V::<vlex type="root"></vlex> <vlex></vlex>
-mikz:164094:<H1>:V::<vlex type="root"></vlex> <vlex></vlex>
+mikz:164094:<H1>:V::<vlex type="root"></vlex> <vlex></vlex> <vlex>A1.</vlex>
 mimikz:164094.1:<H1>:V::<vlex type="root"></vlex> <vlex></vlex>
 miC:164101:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 miYj:164102:<H1>:V::<vlex type="root"></vlex> <vlex>cl.10 P.</vlex>
@@ -8513,7 +8513,7 @@ vyard:208933:<H1>:K:<key2>vy-<root>ard</root></key2>:<vlex>P.</vlex>
 vyavakfz:208942:<H1>:K:<key2>vy-ava-<root>kfz</root></key2>:<vlex>P.</vlex>
 vyavakF:208943:<H1>:K:<key2>vy-ava-<root>kF</root></key2>:<vlex>P.</vlex>
 vyavagam:208948:<H1>:K:<key2>vy-ava-<root>gam</root></key2>:<vlex>A1.</vlex>
-vyavagAh:208949:<H1A>:K:<key2>vy-ava-<root>gAh</root></key2>:<vlex>A1.</vlex>
+vyavagAh:208949:<H1>:K:<key2>vy-ava-<root>gAh</root></key2>:<vlex>A1.</vlex>
 vyavacCid:208953:<H1>:P::<vlex type="preverb"><s><root>Cid</root></s></vlex> <vlex>P.</vlex>
 vyavadA:208959:<H1>:K:<key2>vy-ava-<root>dA</root></key2>:
 vyavadE:208961:<H1>:K:<key2>vy-ava-<root>dE</root></key2>:

@@ -1,23 +1,23 @@
 init
-202645 records read from all.txt
-180612 TODO       init
+202644 records read from all.txt
+180611 TODO       init
  22033  NTD       init
 noparts
-202645 records read from analysis.txt
-146232 TODO       init
+202644 records read from analysis.txt
+146230 TODO       init
  22033  NTD       init
- 34380 DONE    noparts
+ 34381 DONE    noparts
 wsfx
-202645 records read from analysis.txt
+202644 records read from analysis.txt
 15 records read from auxiliary/wsfx.txt
 [u'anAgAstva', u'anAgAs-tva', u'anAgAs', u'tva', u'parent=anAgas']
-   314 DONE wsfx:tas:w1098
-139480 TODO       init
+   315 DONE wsfx:tas:w1098
+139478 TODO       init
    329 DONE wsfx:mat:w1235
      8 DONE wsfx:tvana:w1240
      7 DONE wsfx:tana:w1245
   2163 DONE wsfx:tva:w1239
-  1902 DONE wsfx:tA:w1237
+  1901 DONE wsfx:tA:w1237
    214 DONE wsfx:tama:w1242
   1436 DONE wsfx:vat:w1233
    112 DONE wsfx:Sas:w1106
@@ -26,17 +26,17 @@ wsfx
    178 DONE wsfx:tara:w1242
     38 DONE wsfx:ka:w1222
     34 DONE wsfx:vin:w1232
- 34380 DONE    noparts
+ 34381 DONE    noparts
      3 DONE wsfx:min:w1231
 cpd1
-202645 records read from analysis.txt
-   314 DONE wsfx:tas:w1098
- 58553 TODO       init
- 80927 DONE       cpd1
+202644 records read from analysis.txt
+   315 DONE wsfx:tas:w1098
+ 58550 TODO       init
+ 80928 DONE       cpd1
      8 DONE wsfx:tvana:w1240
      7 DONE wsfx:tana:w1245
   2163 DONE wsfx:tva:w1239
-  1902 DONE wsfx:tA:w1237
+  1901 DONE wsfx:tA:w1237
    214 DONE wsfx:tama:w1242
   1436 DONE wsfx:vat:w1233
    112 DONE wsfx:Sas:w1106
@@ -46,47 +46,47 @@ cpd1
    178 DONE wsfx:tara:w1242
     38 DONE wsfx:ka:w1222
     34 DONE wsfx:vin:w1232
- 34380 DONE    noparts
+ 34381 DONE    noparts
      3 DONE wsfx:min:w1231
 srs1
-202645 records read from analysis.txt
-   314 DONE wsfx:tas:w1098
- 45127 TODO       init
+202644 records read from analysis.txt
+   315 DONE wsfx:tas:w1098
+ 45121 TODO       init
     14 DONE wsfx:vala:w1228
- 80927 DONE       cpd1
+ 80928 DONE       cpd1
      8 DONE wsfx:tvana:w1240
      7 DONE wsfx:tana:w1245
   2163 DONE wsfx:tva:w1239
-  1902 DONE wsfx:tA:w1237
+  1901 DONE wsfx:tA:w1237
    214 DONE wsfx:tama:w1242
   1436 DONE wsfx:vat:w1233
    112 DONE wsfx:Sas:w1106
  22033  NTD       init
    329 DONE wsfx:mat:w1235
-  3600 DONE      srs1?
+  3601 DONE      srs1?
    178 DONE wsfx:tara:w1242
-  9826 DONE       srs1
+  9828 DONE       srs1
     38 DONE wsfx:ka:w1222
     34 DONE wsfx:vin:w1232
- 34380 DONE    noparts
+ 34381 DONE    noparts
      3 DONE wsfx:min:w1231
 pfx1
-202645 records read from analysis.txt
- 34008 TODO       init
+202644 records read from analysis.txt
+ 34002 TODO       init
   2684 DONE      pfx:a
- 80927 DONE       cpd1
+ 80928 DONE       cpd1
    641 DONE     pfx:an
    108 DONE  pfx:prati
   2163 DONE wsfx:tva:w1239
-  1902 DONE wsfx:tA:w1237
+  1901 DONE wsfx:tA:w1237
     14 DONE wsfx:vala:w1228
  22033  NTD       init
    329 DONE wsfx:mat:w1235
-  3600 DONE      srs1?
+  3601 DONE      srs1?
    746 DONE    pfx:sam
    401 DONE    pfx:pra
    455 DONE    pfx:ava
-   314 DONE wsfx:tas:w1098
+   315 DONE wsfx:tas:w1098
    504 DONE    pfx:anu
    890 DONE      pfx:A
     93 DONE    pfx:nir
@@ -110,33 +110,33 @@ pfx1
    342 DONE    pfx:apa
    247 DONE     pfx:ut
    113 DONE     pfx:sa
-  9826 DONE       srs1
+  9828 DONE       srs1
     38 DONE wsfx:ka:w1222
     34 DONE wsfx:vin:w1232
- 34380 DONE    noparts
+ 34381 DONE    noparts
 wsfx1
-202645 records read from analysis.txt
+202644 records read from analysis.txt
 15 records read from auxiliary/wsfx.txt
- 33831 TODO       init
+ 33826 TODO       init
   2684 DONE      pfx:a
- 80927 DONE       cpd1
+ 80928 DONE       cpd1
      7 DONE wsfx1:mat:w1235
    641 DONE     pfx:an
      5 DONE wsfx1:Sas:w1106
   2163 DONE wsfx:tva:w1239
-  1902 DONE wsfx:tA:w1237
+  1901 DONE wsfx:tA:w1237
     14 DONE wsfx:vala:w1228
     69 DONE wsfx1:vat:w1233
  22033  NTD       init
    329 DONE wsfx:mat:w1235
-  3600 DONE      srs1?
+  3601 DONE      srs1?
    746 DONE    pfx:sam
    401 DONE    pfx:pra
    455 DONE    pfx:ava
-   314 DONE wsfx:tas:w1098
+   315 DONE wsfx:tas:w1098
    504 DONE    pfx:anu
    890 DONE      pfx:A
-    14 DONE wsfx1:tas:w1098
+    13 DONE wsfx1:tas:w1098
     93 DONE    pfx:nir
      1 DONE wsfx1:tama:w1242
   1436 DONE wsfx:vat:w1233
@@ -167,32 +167,32 @@ wsfx1
    342 DONE    pfx:apa
    247 DONE     pfx:ut
      1 DONE wsfx1:vin:w1232
-  9826 DONE       srs1
+  9828 DONE       srs1
     38 DONE wsfx:ka:w1222
     34 DONE wsfx:vin:w1232
- 34380 DONE    noparts
+ 34381 DONE    noparts
 gender
-202645 records read from analysis.txt
- 30818 TODO       init
+202644 records read from analysis.txt
+ 30813 TODO       init
   2684 DONE      pfx:a
- 80927 DONE       cpd1
+ 80928 DONE       cpd1
      7 DONE wsfx1:mat:w1235
    641 DONE     pfx:an
      5 DONE wsfx1:Sas:w1106
   2163 DONE wsfx:tva:w1239
-  1902 DONE wsfx:tA:w1237
+  1901 DONE wsfx:tA:w1237
     14 DONE wsfx:vala:w1228
     69 DONE wsfx1:vat:w1233
  22033  NTD       init
    329 DONE wsfx:mat:w1235
-  3600 DONE      srs1?
+  3601 DONE      srs1?
    746 DONE    pfx:sam
    401 DONE    pfx:pra
    455 DONE    pfx:ava
-   314 DONE wsfx:tas:w1098
+   315 DONE wsfx:tas:w1098
    504 DONE    pfx:anu
    890 DONE      pfx:A
-    14 DONE wsfx1:tas:w1098
+    13 DONE wsfx1:tas:w1098
     93 DONE    pfx:nir
      1 DONE wsfx1:tama:w1242
   1436 DONE wsfx:vat:w1233
@@ -224,7 +224,7 @@ gender
    342 DONE    pfx:apa
    247 DONE     pfx:ut
      1 DONE wsfx1:vin:w1232
-  9826 DONE       srs1
+  9828 DONE       srs1
     38 DONE wsfx:ka:w1222
     34 DONE wsfx:vin:w1232
- 34380 DONE    noparts
+ 34381 DONE    noparts
