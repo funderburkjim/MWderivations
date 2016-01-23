@@ -10421,7 +10421,7 @@ hil:263382:<H1>:V::<vlex type="root"></vlex> <vlex>cl.6 P.</vlex>
 hillolaya:263399:<H2>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
 hizk:263401:<H1>:V::<vlex type="root"></vlex>
 hIq:263406:<H1>:V::<vlex type="root"></vlex> <vlex>P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
-hiL:263406.1:<H1>:V::<vlex type="root"></vlex> <vlex>P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
+hIL:263406.1:<H1>:V::<vlex type="root"></vlex> <vlex>P. A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 hu:263443:<H1>:V::<vlex type="root"></vlex> <vlex>cl.3 P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex> <vlex>P.</vlex> <vlex>A1.</vlex>
 hutavahAya:263461:<H3>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
 hutASanAya:263487:<H4>:N::<vlex>Nom.</vlex> <vlex>A1.</vlex>
