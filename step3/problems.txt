@@ -1,5 +1,4 @@
 Problems in MW that prevent analysis:
-upakuYcikA, upakumBam
 gUDatayA, 66346.1 -> gUQatayA
 3	204150	vrikAmlikA -> vfkAmlikA
 3	70054	GritAhuta -> GftAhuta
@@ -11,6 +10,7 @@ gUDatayA, 66346.1 -> gUQatayA
 3B	168092	mezaSriNgI	meza-SriNgI  SfNgI (print error)
 3	29007	indratUrIya	indra-tUrIya prob. turIya (print error) cf. PW
 --------------------------------------------
+upakuYcikA, upakumBam
 255919.1	sTavimatas  not appropriate for alternate re sTaviman. Delete
 3	450	akzAgrakIla  Should be H4
 1	686	a-kziyat  kziyat is a participle of kzi, but not in MW
