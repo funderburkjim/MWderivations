@@ -1,0 +1,1179 @@
+885	H1	agnA	agnA	icf	MAYBE for <s>agni</s> in the following comp
+1497	H2	aNgI	aNgI	icf	MAYBE for <s>aNga</s> in comp with <root/> 1 <s>kf</s> and its derivatives
+2442	H2	aRU	aRU	icf	MAYBE for <s>aRu</s> in comp with <root/> <s>BU</s> and its derivatives
+3553	H2	aTarva	aTarva	icf	OK aTarvan
+3822	H2	adma	adma	icf	OK adman
+4222	H1	aDigam	aDi-gam	icf	MAYBE <to/>to go up to , approach , overtake , to approach for sexual intercourse , to fall in with , to meet , find , discover , obtain <msc/> <to/>to accomplish <msc/> <to/>to study , read: Desid <vlex>P </vlex> <s>aDi-jigamizati</s> , <to/>to seek <msc/> <vlex>A1 </vlex> <s>aDi-jigAMsate</s> , <to/>to be desirous of studying or reading
+4733	H2	aDva	aDva	icf	OK aDvan
+4840.1	H2	anaqud	anaq-ud	icf	MAYBE in comp for ~<s>quh</s>
+5493	H2	anAtma	an-Atma	icf	OK an-Atman
+12076	H2	aBimuKI	aBimuKI	icf	MAYBE for <s>aBimuKa</s> in comp with <root/>1 <s>kf</s> and <root/> <s>BU</s>
+12183	H2C	aBirAmam	aBi-rAmam	icf	MAYBE <lex>ind </lex> 1 so as to be agreeable to in comp  ; for <hom>2</hom> <s>aBi-rAmam</s> <see/> s v below
+13022	H1A	aBIkzRa	aBIkzRa	icf	PROBABLE <lex type="inh">mfn </lex> in comp for <s>aBIkzRam</s> <qv/>
+13220	H2	aByantarI	aByantarI	icf	MAYBE for <s>aByantara</s> in comp with <root/>1 <s>kf</s> and its derivatives
+13255	H1	aByarT	aBy-arT	icf	MAYBE <vlex>A1 </vlex> Opt 2 sg <s>-arTayeTAs</s> ; rarely <vlex>P </vlex> e g fut <s>-arTayizyati</s>  <to/>to request , ask for acc or dat or loc or in comp with <s>arTam</s>  <msc/> <see/> also <s>aBy-<root/>art</s>
+13412	H2	aByAtma	aByAtma	icf	OK aByAtm/am
+13588	H1A	aByudyata	aBy-ud-yata	icf	MAYBE <lex type="inh">mfn </lex> prepared for , engaged in , ready for Inf <b> <etc/></b> or dat <b></b> or loc <b></b> or in comp <b></b>
+13810	H2	amanI	a-manI	icf	MAYBE for <s>a-man/as</s> in comp with <root/> <s>BU</s> and its derivatives
+13812	H2	amano	a-mano	icf	OK a-manas
+13964	H2	amarma	a-marma	icf	OK a-marman
+14049	H3	amAtAputra	a-mAtA-putra	icf	MAYBE <lex>mfn </lex> g <s>kAzWA<srs/>di</s> <qv/> <quote> having neither mother nor son </quote> , only in comp e g <phw><dL>514049</dL><s>amAtAputrA<srs/>DyApaka</s> <lex type="phw">m </lex></phw> a teacher who cares for neither mother nor son on account of being entirely absorbed in his work  ,
+14570	H1A	amBas	amBas	icf	PROBABLE <lex type="inh">n </lex> N of a metre consisting of 82 syllables  , <s>asa</s> , instr in comp for <s>amBas</s> e g <s>amBasAkfta</s> <quote> done by water </quote>
+14572	H2	amBaH	amBaH	icf	OK amBas
+14578	H2	amBo	amBo	icf	OK amBas
+14788	H2	ayaH	ayaH	icf	OK ayas
+14805	H2	ayaS	ayaS	icf	OK ayas
+14807	H2	ayo	ayo	icf	OK ayas
+15129	H2	araRye	araRye	icf	PROBABLE in comp for <s>/araRya</s> chiefly used for figurative expressions or as names
+15176	H2	araM	araM	icf	OK /aram
+15399	H1A	aru	aru	icf	MAYBE <lex type="inh">m </lex> for <s>arus</s> <lex type="nhw">n </lex> only in comp with <s>-M-tuda</s>
+15508	H2	aruz	aruz	icf	OK /arus
+16036	H3	arTArTa	arTA@rTa	icf	MAYBE <lex>mfn </lex> effective for the accomplishment of the aim in view
+16080	H2	arTi	arTi	icf	OK arT/in
+16119	H2C	arDe	arDe	icf	MAYBE <lex>ind </lex> in the middle ,  <s>arDa</s> in comp with a subst means <quote> the half part of anything </quote> <b><cf/> </b>, with an adj or past Pass p <b><cf/> </b> <quote> half </quote> ; also with an adj indicating measure <b><cf/> </b> ; a peculiar kind of compound is formed with ordinals <b><cf/>  Comm </b> e g <s>arDa-tftIya</s> , containing a half for its third , i e two and a half ; <s>arDa-caturTa</s> , having a half for its fourth , three and a half
+16390	H2	aryaman	aryaman	icf	MAYBE <lex>m </lex> a bosom friend , play-fellow , companion , especially a friend who asks a woman in marriage for another
+16394	H2	aryama	aryama	icf	OK aryam/an
+16435	H2	arvAg	arvAg	icf	PROBABLE in comp for <s>arvAk</s> ,
+16468	H2	arSo	arSo	icf	OK /arSas
+16598	H2	alaM	alaM	icf	OK /alam
+18139	H2	avaSya	a-vaSya	icf	MAYBE in comp with a fut p p and with some other words for <s>a-vaSyam</s>
+18316	H1	avaso	ava-so	icf	MAYBE <s>-syati</s> Imper 2 du <s>-syatam</s> ; aor Subj <s>-sAt</s> <to/>to loosen , deliver from    <msc/> Imper 2 sg <s>-sya</s> ; aor <s>/avA<srs/>sAt</s>  <etc/> aor 3 pl <s>/avA<srs/>sur</s>  ; ind p <s>-s/Aya</s>  ; Ved Inf <s>-sE</s>  Ved to unharness horses , put up at any one's house , settle , rest  <etc/> <msc/> <to/>to take , one's abode or standing-place in or upon loc   <msc/> <to/>to finish , terminate one's work   <etc/> <msc/> <to/>to be finished , be at an end , be exhausted  <msc/> <to/>to choose or appoint as a place for dwelling or for a sacrifice   <msc/> Pot 2 sg <s>-seyAs</s> ; <cf/>  <to/>to decide  , <to/>to obtain  : Caus <s>-sAyayati</s> ind p <s>-s/Ayya</s> <to/>to cause to take up one's abode in or upon loc    <msc/> ind p <s>-sAyya</s> <to/>to complete  <msc/> Inf <b>in Pass sense</b> <s>-sAyyayitum</s> <to/>to ascertain , clearly distinguish  Pass <s>-sIyate</s> <cf/>  <to/>to be obtained  <msc/> <to/>to be insisted upon  ed Bomb in active sense <quote> to insist upon </quote> <msc/> <to/>to be ascertained
+19721	H2	aSma	aSma	icf	MAYBE in comp for 2 <s>/aSman</s>
+20174	H2	azwa	azwa	icf	OK azwan
+20251	H2	azwA	azwA	icf	OK azwan
+20557	H2	asac	asac	icf	OK asat
+20560	H2	asaj	asaj	icf	OK asat
+20575	H2	asad	asad	icf	OK asat
+20597	H2	asan	asan	icf	OK asat
+21155	H2	asfk	asfk	icf	OK /asfj
+21164	H2	asfg	asfg	icf	OK /asfj
+21173	H2	asfN	asfN	icf	OK /asfj
+21497	H2	asmat	asmat	icf	PROBABLE in comp for <s>asmad</s> below
+21678	H2	ahaM	ahaM	icf	OK ah/am
+21743	H2	ahaH	ahaH	icf	OK /ahar
+21749	H2	ahaS	ahaS	icf	OK /ahar
+22033	H2	AkaRWa	AkaRWa	icf	OK A-kaRWam
+22047	H2	AkarRa	AkarRa	icf	OK A-karRam
+22070	H2	Akalpa	Akalpa	icf	OK A-kalpam
+22084	H1	AkANkz	A-kANkz	icf	MAYBE <vlex>P A1 </vlex> <s>-kANkzati</s> , <s>~te</s> , <to/>to desire , long for , endeavour to gain with acc  , rarely with gen  <msc/> perf <s>-cakANkza</s>   <to/>to expect , wait for or till   <msc/> <to/>to endeavour to reach a place , turn to acc  <msc/> in Gr <to/>to require some word or words to be supplied for the completion of the sense
+22087	H2B	AkANkza	A-kANkza	icf	MAYBE <lex>f </lex> in Gr need of supplying a word or period for the completion of the sense
+22186	H2	AkulI	AkulI	icf	MAYBE for <s>Akula</s> in comp with <root/>1 <s>kf</s> and <s>BU</s> and their derivatives
+22529	H1	AgaRqa	A-gaRqa	icf	PROBABLE <lex>ind </lex> in comp for <s>A-gaRqam</s> as far as the cheeks
+22975	H1	Acit	A-cit	icf	MAYBE Impv 2 sg <s>-cikidDi</s> ; perf 3 sg <s>-ciketa</s> <to/>to attend to , keep in mind  <msc/> Subj 1 sg <s>-ciketam</s> ; perf 3 sg <s>-ciketa</s> , p <lex type="part">m </lex> nom <s>-cikitv/An</s> <to/>to comprehend , understand , know   <msc/> <to/>to invent  <msc/> Subj <s>-cetat</s> or <s>-c/iketat</s> ; perf <vlex>A1 </vlex> 3 pl <s>-cikitre</s> or <s>-cikitrire</s> <to/>to appear , become visible , distinguish one's self  : Desid 1 pl <s>-cikitsAmas</s> to wait for , watch clandestinely , lurk
+23475	H2	Atma	Atma	icf	PROBABLE in comp for <s>Atm/an</s> ; also rarely ifc e g <s>aDy-Atma</s> , <s>aDy-Atm/am</s>
+23700	H2	Atmane	Atmane	icf	PROBABLE dat in comp for <s>Atman</s>
+24098	H1	ADA	A-DA	icf	MAYBE <vlex>P A1 </vlex> <s>-daDAti</s> , <s>-Datte</s> in the later language usually <vlex>A1 </vlex> , 1 sg <s>/A-daDAmi</s>  <msc/> Impv 2 sg <s>A-Dehi</s>  <msc/> pf 3 pl <s>-daD/us</s>  <msc/> aor 3 pl <s>/A<srs/>-Dus</s>  <msc/> p <s>-daDAna</s> , p Pass <s>-DIyamAna</s> in comp e g <s>A-DIyamAna-citta</s>  <msc/> perf <s>-daDO</s> , <etc/> <msc/> <b>see under <root/>1 <s>DA</s></b> , <vlex>P </vlex> and <vlex>A1 </vlex> <to/>to place on , put down , deposit , put <msc/> <to/>to impregnate , instil e g good sentiments , impress , direct <msc/> <to/>to apply , appoint     <etc/> <msc/> <to/>to add fuel to fire     <etc/> <msc/> <to/>to give or deposit in pledge , stake money  <msc/> <to/>to give , supply , lend , deliver     <etc/> <msc/> <to/>to accept , receive     <etc/> <msc/> <to/>to make , constitute , effect    <etc/> <msc/> only <vlex>A1 </vlex> <to/>to keep , preserve , appropriate to one's self , hold , possess , take <msc/> <to/>to conceive as a woman , get children  <etc1/>: Caus <s>-DApayati</s> , <to/>to cause to put: Desid <vlex>A1 </vlex> <s>-Ditsate</s> , <to/>to wish to kindle a fire  : <vlex>P </vlex> p <s>-Ditsat</s> <to/>to be about to take up a stick for punishing
+24869	H2	Apat	Apat	icf	MAYBE in comp for 2 <s>Apad</s> below
+24921	H2	Apo	Apo	icf	MAYBE in comp for 2 and 3 <s>Apas</s>
+24947	H3	ApAnaBUmi	A-pAna-BUmi	icf	MAYBE <lex>f </lex> a place for drinking in company
+25874	H2	AyuH	AyuH	icf	PROBABLE in comp for <s>Ayus</s> below
+25880	H2	Ayur	Ayur	icf	PROBABLE in comp for <s>Ayus</s> below
+25897	H2	Ayuz	Ayuz	icf	PROBABLE in comp for <s>Ayus</s> below
+26513	H1	ArDa	ArDa	icf	MAYBE in comp optionally for <s>arDa-</s> <qv/>
+27145	H2	Avir	Avir	icf	OK Av/is
+27157	H2	Aviz	Aviz	icf	OK Av/is
+27465	H2	ASIr	ASIr	icf	MAYBE in comp for 1 <s>AS/is</s>
+28366	H2	AhutI	AhutI	icf	MAYBE in comp for 1 <s>/A-huti</s>
+28653	H2	iNgya	iNgya	icf	MAYBE <lex>mfn </lex> movable from its place in the <asp0>Pra1tis3a1khyas</asp0><as1><s>prAtiSAKya</s>s</as1> a term for those words or rather parts of a compound word which in certain grammatical operations may be separated from the preceding part , a word which in the <as0>Pada-pa1t2ha</as0><as1><s>pada-pAWa</s></as1> is divided by the <s>avagraha</s> or mark of tmesis
+28731	H3	itaretara	itare@tara	icf	MAYBE <lex>mfn </lex> occurring chiefly in oblique cases of sing and in comp ; perhaps for <s>itaras-itara</s> ; <cf/> <s>anyo'nya</s> , <s>paras-para</s> , one another , one with another , mutual , respective , several
+28747	H1	iti	iti	icf	MAYBE <lex>ind </lex> fr pronominal base 3 <s>i</s> , in this manner , thus in its original signification <s>/iti</s> refers to something that has been said or thought , or lays stress on what precedes ; in the <asp0>Bra1hman2as</asp0><as1><s>brAhmaRa</s>s</as1> it is often equivalent to <quote> as you know </quote> , reminding the hearer or reader of certain customs , conditions , <etc1/> supposed to be known to him In quotations of every kind <s>/iti</s> means that the preceding words are the very words which some person has or might have spoken , and placed thus at the end of a speech it serves the purpose of inverted commas <s>/ity uktvA</s> , having so said ; <s>/iti kftvA</s> , having so considered , having so decided It may often have reference merely to what is passing in the mind e g <s>bAlo 'pi nA<srs/>vamantavyo manuzya /iti BUmipaH</s> , a king , though a child , is not to be despised , saying to one's self , <quote> he is a mortal </quote> ,  In dram <s>/iti taTA karoti</s> means <quote> after these words he acts thus </quote> Sometimes <s>/iti</s> is used to include under one head a number of separate objects aggregated together e g <s>ijyA<srs/>DyayanadAnAni tapaH satyaM kzamA damaH</s> <s>aloBa /iti mArgo 'yam</s> , <quote> sacrificing , studying , liberality , penance , truth , patience , self-restraint , absence of desire </quote> , this course of conduct , <etc1/> <s>/iti</s> is sometimes followed by <s>evam</s>,<s>iva</s> , or a demonstrative pronoun pleonastically e g <s>tAm brUyAd BavatI<srs/>ty evam</s> , her he may call <quote> lady </quote> , thus <s>/iti</s> may form an adverbial compound with the name of an author e g <s>/iti-pARini</s> , thus according to <as0>Pa1n2ini</as0><as1><s>pARini</s></as1> It may also express the act of calling attention lo! behold! It may have some other significations e g something additional as in <s>/ityAdi</s> , et caetera , order , arrangement specific or distinctive , and identity It is used by native commentators after quoting a rule to express <quote> according to such a rule </quote> e g <s>anudAttaNita /ity Atmanepadam Bavati</s> , according to the rule of <as0>Pa1n2ini</as0><as1><s>pARini</s></as1>  , the <as0>A1tmane-pada</as0><as1><s>Atmane-pada</s></as1> takes place <s>kim /iti</s> <eq/> <s>kim</s> , wherefore , why? In the <as0>S3atapatha-bra1hman2a</as0><as1><s>SatapaTa-brAhmaRa</s></as1> <s>ti</s> occurs for <s>/iti</s> ; <cf/> <as0 type="ns">Pra1kr2it</as0><as1>Prakrit</as1> <etym>ti</etym> and <s>tti</s>
+29942	H2	Izad	Izad	icf	OK Izat
+29958	H2	Izan	Izan	icf	OK Izat
+30089	H2	ukza	ukza	icf	OK ukz/an
+30262	H2	uccEH	uccEH	icf	PROBABLE in comp for <s>ucc/Es</s> below
+30278	H2	uccEr	uccEr	icf	PROBABLE in comp for <s>ucc/Es</s> below
+32261	H2	udak	udak	icf	PROBABLE in comp for <s>/udac</s> below ; for 2 <see/> col 2
+32275	H2	udag	udag	icf	PROBABLE in comp for <s>/udac</s> below
+32291	H2	udaN	udaN	icf	PROBABLE in comp for <s>/udac</s> below
+33330	H2	udBij	ud-Bij	icf	MAYBE in comp for 2 <s>ud-B/id</s> below
+35057	H1	upapad	upa-pad	icf	MAYBE <vlex>A1 </vlex> <s>-padyate</s> , rarely <vlex>P </vlex> <s>-ti</s> , <to/>to go towards or against , attack  <msc/> <to/>to approach , come to , arrive at , enter     <msc/> <to/>to approach or come to a teacher as a pupil  <msc/> <to/>to approach for succour or protection <msc/> <to/>to approach or join with in speech  <msc/> <to/>to reach , obtain , partake of <msc/> <to/>to enter into any state    <msc/> <to/>to take place , come forth , be produced , appear , occur , happen <msc/> <to/>to be present , exist  <msc/> <to/>to be possible , be fit for or adequate to with loc     <etc/> <msc/> <to/>to be regular or according to rules <msc/> <to/>to become , be suitable     <etc1/>: Caus <vlex>P </vlex> <s>-pAdayati</s> , <to/>to bring to any state with two acc <msc/> <to/>to cause anything acc <to/>to arrive at loc or dat , cause to come into the possession of , offer , present      <etc/> <msc/> <to/>to cause to come forth or exist <msc/> <to/>to accomplish , effect , cause , produce    <etc/> <msc/> <to/>to get ready , prepare , make fit or adequate for , make conformable to   <msc/> <to/>to furnish or provide or endow with   <etc/> <msc/> <to/>to make anything out of  <msc/> <to/>to examine <msc/> <to/>to find out , ascertain   <etc/> <msc/> <to/>to prove , justify  Comm on   <etc/> <msc/> <to/>to attend on a patient , physic
+35577	H2	uparizwAj	uparizwAj	icf	PROBABLE in comp for <s>up/arizwAt</s> below
+35583	H2	uparizwAd	uparizwAd	icf	PROBABLE in comp for <s>up/arizwAt</s> above
+35589	H2	uparizwAl	uparizwAl	icf	PROBABLE in comp for <s>up/arizwAt</s> above
+36095	H2	upasat	upa-sat	icf	MAYBE in comp for 2 <s>upa-s/ad</s> below
+36261	H2A	upasarjana	upa-sarjana	icf	MAYBE <lex type="inh">n </lex> in Gr <quote> subordinate , secondary </quote> opposed to <s>praDAna</s> , any word which by composition or derivation loses its original independence while it also determines the sense of another word e g the word <s>rAjan</s> in <s>rAjapuruza</s> , <quote> a king's servant or minister </quote> , and the word <s>apiSali</s> in <s>ApiSala</s>  ; in a <as0>Bahu-vri1hi</as0><as1><s>bahu-vrIhi</s></as1> compound both members are <s>upasarjana</s> ; in other compounds generally the first member  ; for exceptions <see/>
+36703	H2	upAnad	upA-nad	icf	PROBABLE in comp for <s>upA-n/ah</s> above
+37095	H2	uBayata	uBayata	icf	PROBABLE in comp for <s>uBay/atas</s> below
+37098	H2	uBayataH	uBayataH	icf	PROBABLE in comp for <s>uBay/atas</s> below
+37114	H2	uBayataS	uBayataS	icf	PROBABLE in comp for <s>uBay/atas</s> below
+37118	H2	uBayato	uBayato	icf	PROBABLE in comp for <s>uBay/atas</s> above
+37140	H2	uBayA	uBayA	icf	PROBABLE in comp for <s>uBaya</s> above
+37151	H2	uBA	uBA	icf	PROBABLE in comp for <s>uBa</s> above
+37252	H2	uraH	uraH	icf	PROBABLE in comp for <s>/uras</s> above
+37262	H2	uraS	uraS	icf	PROBABLE in comp for <s>/uras</s> above
+37267	H2	urasi	urasi	icf	PROBABLE in comp for <s>/uras</s> above
+37279	H2	uro	uro	icf	PROBABLE in comp for <s>/uras</s> above
+37699	H2	uzaH	uzaH	icf	PROBABLE in comp for <s>uz/as</s> below
+37713	H2	uzar	uzar	icf	PROBABLE in comp for <s>uz/as</s> below
+37744	H2	uzAsA	uzAsA	icf	MAYBE in <as0>Dvandva</as0><as1><s>dvaMdva</s></as1> comp for <s>uz/as</s> above
+37748	H2	uzo	uzo	icf	PROBABLE in comp for <s>uz/as</s> above
+37823	H2	uzRI	uzRI	icf	OK uzRa
+37841	H2	uzma	uzma	icf	PROBABLE in comp for <s>uzman</s> below
+37904	H2	uzRig	uzRig	icf	PROBABLE in comp for <s>uzR/ih</s> above
+38355	H2	Uzma	Uzma	icf	PROBABLE in comp for <s>Uzm/an</s> above
+38544	H2	ftI	ftI	icf	PROBABLE in comp for <s>ft/i</s> above
+38617	H3	ftvik	ftv-ik	icf	PROBABLE in comp for <s>ftv/ij</s> below
+38830	H2	fjU	fjU	icf	PROBABLE in comp for <s>fj/u</s> above
+38927	H2	fdU	fdU	icf	PROBABLE in comp for <s>fdu</s> <eq/> <s>mfdu</s>
+38952	H2	fDaN	fDaN	icf	OK /fDak
+39787	H3	ekAdaSa	ekAdaSa	icf	PROBABLE in comp for <s>/ekAdaSan</s> below
+39965	H2	ekI	ekI	icf	OK eka
+40060	H2	etaj	etaj	icf	OK etad
+40062	H2	etat	etat	icf	OK etad
+40124	H2	eno	eno	icf	OK enas
+40646	H2	ojo	ojo	icf	PROBABLE in comp for <s>/ojas</s> above
+40704	H1	om	om	icf	MAYBE <lex>ind </lex> <root/><s>av</s>  ; originally <s>oM</s> <eq/> <s>AM</s> , which may be derived from <s>A</s> , a word of solemn affirmation and respectful assent , sometimes translated by <quote> yes , verily , so be it </quote> and in this sense compared with Amen ; it is placed at the commencement of most <as0 type="ns">Hindu1</as0><as1>Hindu</as1> works , and as a sacred exclamation may be uttered <b>but not so as to be heard by ears profane</b> at the beginning and end of a reading of the <asp0>Vedas</asp0><as1><s>veda</s>s</as1> or previously to any prayer ; it is also regarded as a particle of auspicious salutation <b>Hail!</b> ; <s>om</s> appears first in the <asp0>Upanishads</asp0><as1><s>upanizad</s>s</as1> as a mystic monosyllable , and is there set forth as the object of profound religious meditation , the highest spiritual efficacy being attributed not only to the whole word but also to the three sounds <s>a</s> , <s>u</s> , <s>m</s> , of which it consists ; in later times <s>om</s> is the mystic name for the <as0 type="ns">Hindu1</as0><as1>Hindu</as1> triad , and represents the union of the three gods , viz a <as0>Vishn2u</as0><as1><s>vizRu</s></as1> , <s>u</s> <as0>S3iva</as0><as1><s>Siva</s></as1> , <s>m</s> <as0>Brahma1</as0><as1><s>brahmA</s></as1> ; it may also be typical of the three <asp0>Vedas</asp0><as1><s>veda</s>s</as1> ; <s>om</s> is usually called <s>praRava</s> , more rarely <s>akzara</s> , or <s>ekAkzara</s> , and only in later times <s>oMkAra</s>    <etc/>
+41436	H3	kakudmi	kakud-mi	icf	OK -min
+41446	H2	kakut	kakut	icf	PROBABLE in comp for <s>kak/ud</s> above
+41460	H2	kakun	kakun	icf	PROBABLE in comp for <s>kak/ud</s> above
+41473	H2	kakup	kakup	icf	PROBABLE in comp for <s>kak/uB</s> ,
+41476	H2	kakub	kakub	icf	OK kak/uB
+41570	H2	kakzI	kakzI	icf	OK kakza
+42433	H2	kaRwaki	kaRwaki	icf	PROBABLE in comp for <s>kaRwakin</s> , col 3
+42764	H2	kaTaM	kaTaM	icf	PROBABLE in comp for <s>kaTam</s> ; at the beginning of an adjective compound it may also have the sense of <s>kim</s>
+42855	H2	kat	kat	icf	MAYBE in comp for 2 <s>kad</s> above
+42861	H2	kal	kal	icf	MAYBE in comp for 2 <s>kad</s>
+43015	H1	kana	kana	icf	MAYBE <lex>mfn </lex> substituted for <s>alpa</s> , <quote> little , small </quote> , in forming its comparative and superlative <see/> below ; <cf/> <s>kaRa</s> ; according to  fr <root/> <s>kan</s> , <quote> to shine , be bright or merry </quote> , originally meaning <quote> young , youthful </quote>
+43073	H3	kanyakubja	kanya-kubja	icf	MAYBE <lex>n </lex> <lex type="hwalt">f<s>A</s> </lex>  , N of an ancient city of great note in the north-western provinces of India , situated on the <s>kAlI nadI</s> , a branch of the <as0>Gan3ga1</as0><as1><s>gaNgA</s></as1> , in the modern district of Farrukhabad ; the popular spelling of the name presents , perhaps , greater variations than that of any place in India <b>e g <etym>Kanauj</etym> , <etym>Kunnoj</etym> , <etym>Kunnouj</etym> , <etym>Kinoge</etym> , <etym>Kinnoge</etym> , <etym>Kinnauj</etym> , <etym>Kanoj</etym> , <etym>Kannauj</etym> , <etym>Kunowj</etym> , <etym>Canowj</etym> <etym>Canoje</etym> , <etym>Canauj</etym> , <etc/></b> ; in antiquity this city ranks next to <as0>Ayodhya1</as0><as1><s>ayoDyA</s></as1> in Oude ; it is known in classical geography as Canogyza ; but the name applies also to its dependencies and the surrounding district ; the current etymology <b><s>kanyA</s> , <quote> a girl </quote> , shortened to <s>kanya</s> , and <s>kubja</s> , <quote> round-shouldered or crooked </quote></b> refers to a legend in , relating to the hundred daughters of <as0>Kus3ana1bha</as0><as1><s>kuSanABa</s></as1> , the king of this city , who were all rendered crooked by <as0>Va1yu</as0><as1><s>vAyu</s></as1> for non-compliance with his licentious desires ; the ruins of the ancient city are said to occupy a site larger than that of London
+43768	H1	kam	kam	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 A1 </vlex> not used in the conjugational tenses <s>cakame</s> , <s>kamitA</s> , <s>kamizyate</s> , <s>acakamata</s>  <to/>to wish , desire , long for     <etc/> <msc/> <to/>to love , be in love with , have sexual intercourse with   : Caus <vlex>A1 </vlex> ep also <vlex>P </vlex> <s>kAmayate</s> , <s>-ti</s> , <s>kAmayAM-cakre</s> , <s>acIkamata</s> , <etc/> <msc/> <to/>to wish , desire , long for with acc or inf or Pot  ; e g <s>kAmaye BuYjIta BavAn</s> , I wish your worship may eat ; <s>kAmaye dAtum</s> , I wish to give      <etc/> <msc/> <to/>to love , be in love with , have sexual intercourse with    <etc/> <msc/> <to/>to cause any one to love  in that sense <vlex>P </vlex>  <msc/> with <s>bahu</s> or <s>aty-arTam</s> <to/>to rate or value highly  : Desid <s>cikamizate</s> and <s>cikAmayizate</s>: Intens <s>caMkamyate</s> ; <b>cf Lat <etym>comis</etym> ; also <etym>amo</etym> , with the loss of the initial , for <etym>camo</etym> ; <etym>cA7-rus</etym> for <etym>cam-rus</etym>: Hib <etym>caemh</etym> , <quote> love , desire ; fine , handsome , pleasant </quote> ; <etym>caomhach</etym> , <quote> a friend , companion </quote> ; <etym>caomhaim</etym> , <quote> I save , spare , protect </quote> ; Armen <etym>kamim</etym> </b>
+44302	H2	kari	kari	icf	PROBABLE in comp for <s>karin</s> col 3
+45280	H2	karma	karma	icf	PROBABLE in comp for <s>k/arman</s> above
+45364	H3B	karmapravacanIya	karma-pravacanIya	icf	MAYBE <lex>m </lex> scil <s>Sabda</s> ; in Gr a term for certain prepositions or particles not connected with a verb but generally governing a noun either separated from it or forming a compound with it ; a <as0>Karma-pravacani1ya</as0><as1><s>karma-pravacanIya</s></as1> never loses its accent , and exercises no euphonic influence on the initial letter of a following verb ; <see/> also <s>upa-sarga</s> , <s>gati</s> , and <s>nipAta</s>
+45581	H1	kal	kal	icf	MAYBE <vlex type="root"></vlex> <vlex>P </vlex> rarely <vlex>A1 </vlex> <s>kalayati</s> <s>~te</s> , <to/>to impel , incite , urge on   <etc/> <msc/> <to/>to bear , carry   <etc/> <msc/> <to/>to betake one's self to  <msc/> <to/>to do , make , accomplish   <msc/> <to/>to utter a sound , murmur   <etc/> <msc/> sometimes in connection with nouns merely expressing the verbal conception e g <s>mUrCAM</s> <root/><s>kal</s> , <to/>to swoon  ; <s>culukaM jalasya</s> <root/><s>kal</s> , <to/>to take a draught of water  <msc/> <to/>to tie on , attach , affix  <msc/> <to/>to furnish with <msc/> <to/>to observe , perceive , take notice of <msc/> <to/>to consider , count , take for    <msc/> <see/> 1 <s>kalaya</s> , col 3
+47281	H2	kANkzin	kANkzin	icf	MAYBE <lex>mfn </lex> desiring , longing for , expecting , waiting for acc or in comp
+48320	H2	kAmi	kAmi	icf	OK kAmin
+48357	H2	kAmuka	kAmuka	icf	MAYBE <lex>mf<s>A</s>n </lex> wishing for , desiring , longing after in comp
+48396	H2	kAmyA	kAmyA	icf	MAYBE <lex>f </lex> wish , desire , longing for or striving after gen or in comp e g <s>putra-kAmyayA</s> , through desire for a son
+49359	H1A	kAla	kAla	icf	MAYBE <lex type="inh">m </lex> the proper time or season for gen dat loc , in comp , inf , or Pot with <s>yad</s> e g <s>kAlaH prasTAnasya</s> or <s>~nAya</s> or <s>~ne</s> , time for departure ; <s>kriyA-kAla</s> , time for action  ; <s>nA<srs/>yaM kAlo vilambitum</s> , this is not the time to delay  ; <s>kAlo yad BuYjIta BavAn</s> , it is time for you to eat     <etc/>
+50296	H2	kiM	kiM	icf	OK k/im
+50338	H2	kiM	kiM	icf	OK k/im
+50476	H2	kiyad	kiyad	icf	OK kiyat
+50481	H2	kiyan	kiyan	icf	OK kiyat
+50740	H2	kIdfg	kIdfg	icf	OK kIdfS
+51539	H2	kuwan	kuwan	icf	PROBABLE in comp for <s>kuwat</s> , pr p
+51987	H2	kuto	kuto	icf	OK kutas
+51994	H1A	kutuka	kutuka	icf	MAYBE <lex type="inh">n </lex> eagerness , desire for in comp  <cf/> <s>kOtuka</s>
+52003	H1A	kutUhala	kutUhala	icf	MAYBE <lex type="inh">n </lex> inclination , desire for <s>prati</s> loc or in comp  <etc/>
+52593	H2	kumBi	kumBi	icf	PROBABLE in comp for <s>~Bin</s> <qv/>
+53389	H2	kuSi	kuSi	icf	OK kuSin
+53407	H1A	kuSala	kuSala	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> fit for , competent , able , skilful , clever , conversant with loc <b>   <etc/></b> gen <b> </b> inf <b></b>,or in comp <b><as0>gan2a</as0><as1><s>gaRa</s></as1> <s>SORqA<srs/>di</s> ; Gaut  <etc/></b>
+54148	H1	kf	kf	icf	MAYBE <vlex type="root"></vlex> Ved I <vlex>cl 2 P </vlex> 2 sg <s>k/arzi</s> du <s>kfT/as</s> pl <s>kfT/a</s> ; <vlex>A1 </vlex> 2 sg <s>kfz/e</s> ; impf 2 and 3 sg <s>/akar</s> , 3 sg rarely <s>/akat</s>  Page301,1 ; 3 du <s>/akartAm</s> ; pl <s>/akarma</s> , <s>/akarta</s> also  , <s>/akran</s> aor , according to   ; <vlex>A1 </vlex> <s>/akri</s>  , <s>/akfTAs</s>  , <s>/akfta</s>  ; <s>akrAtAm</s>  , <s>/akrata</s>   : Impv <s>kfD/i</s> also   , <s>kft/am</s>,<s>kft/a</s> ; <vlex>A1 </vlex> <s>kfzv/a</s> , <s>kfDv/am</s> ; Subj 2 and 3 sg <s>kar</s> pl <s>k/arma</s> , <s>k/arta</s> and <s>kartana</s> , <s>kran</s> ; <vlex>A1 </vlex> 3 sg <s>kfta</s>  , 3 pl <s>kr/anta</s>  : Pot <s>kriyAma</s>  ; pr p <vlex>P </vlex> nom pl <s>kr/antas</s> <vlex>A1 </vlex> <s>krAR/a</s> II <vlex>cl 1 P </vlex> <s>k/arasi</s> , <s>k/arati</s> , <s>k/araTas</s> , <s>k/aratas</s> , <s>k/aranti</s> ; <vlex>A1 </vlex> <s>k/arase</s> , <s>k/arate</s> , <s>k/arAmahe</s>: impf <s>/akaram</s> , <s>/akaras</s> , <s>/akarat</s> aor , according to  : Impv <s>k/ara</s> , <s>k/aratam</s> , <s>k/aratAm</s>: Subj <s>k/aram</s> , <s>k/arARi</s> , <s>k/aras</s> , <s>k/arat</s> , <s>k/arAma</s> , <s>k/aran</s> ; <vlex>A1 </vlex> <s>karAmahE</s> ; pr p <lex type="part">f </lex> <s>k/arantI</s>  III <vlex>cl 5 P </vlex> <s>kfR/omi</s> , <s>~R/ozi</s> , <s>~R/oti</s> , <s>kfRuT/as</s> , <s>kfRm/as</s> and <s>kfRmasi</s> , <s>kfRuT/a</s> , <s>kfRv/anti</s> ; <vlex>A1 </vlex> <s>kfRv/e</s> , <s>kfRuz/e</s> , <s>kfRut/e</s> , 3 du <s>kfRv/Ete</s>  ; pl <s>kfRm/ahe</s> , <s>kfRv/ate</s>: impf <s>/akfRos</s> , <s>/akfRot</s> , <s>/akfRutam</s> , <s>/akfRuta</s> and <s>~Rotana</s>  , <s>/akfRvan</s> ; <vlex>A1 </vlex> 3 sg <s>/akfRuta</s> pl <s>/akfRuDvam</s> , <s>/akfRvata</s>: Impv <s>kfR/u</s> or <s>kfRuh/i</s> or <s>kfRut/At</s> , <s>kfR/otu</s> , <s>kfRut/am</s> , <s>kfRut/Am</s> , 2 pl <s>kfRut/a</s> or <s>kfR/ota</s> or <s>kfR/otana</s> , 3 pl <s>kfRv/antu</s> ; <vlex>A1 </vlex> <s>kfRuzv/a</s> , <s>kfRut/Am</s> , <s>kfRv/ATAm</s> , <s>kfRuDv/am</s>: Subj <s>kfR/avas</s> , <s>~R/avat</s> or <s>~R/avAt</s> , <s>kfR/avAva</s> , <s>~R/avAma</s> , <s>~R/avATa</s> , <s>~R/avaTa</s> , <s>~R/avan</s> ; <vlex>A1 </vlex> <s>kfR/avE</s> once <s>~RavA</s>  , <s>kfRavase</s> also  v l <s>~Rvase</s> , <s>kfRavate</s> , <s>kfR/avAvahE</s> , <s>kfR/avAmahE</s> , 3 pl <s>kfR/avanta</s>  or <s>kfRavante</s> or <s>kfRvata</s>  : Pot <vlex>A1 </vlex> <s>kfRvIt/a</s> ; pr p <vlex>P </vlex> <s>kfRv/at</s> <lex type="part">f </lex> <s>~vat/I</s> <vlex>A1 </vlex> <s>kfRvAR/a</s> IV <vlex>cl 8 </vlex> this is the usual formation in the <asp0>Bra1hman2as</asp0><as1><s>brAhmaRa</s>s</as1> ; <asp0>Su1tras</asp0><as1><s>sUtra</s>s</as1> , and in classical <as0 type="ns">Sanskr2it</as0><as1>Sanskrit</as1> <vlex>P </vlex> <s>kar/omi</s> ep <s>kurmi</s>   ; <s>kurv/as</s>,<s>kuruT/as</s>,<s>kurut/as</s>,<s>kurm/as</s> <b><s>kulmas</s> in an interpolation after </b> , <s>kuruT/a</s>,<s>kurv/anti</s> ; <vlex>A1 </vlex> <s>kurv/e</s> , <etc1/> , 3 pl <s>kurv/ate</s>  : impf <s>akaravam</s> , <s>akaros</s> , <s>akarot</s> , <s>akurva</s> , <etc/> ; <vlex>A1 </vlex> 3 sg <s>akuruta</s> pl <s>akurvata</s>: Impv <s>kuru</s> , <s>karotu</s> in the earlier language 2 and 3 sg <s>kurutAt</s> , 3 sg also  , <s>kuruta</s> or <s>kurutana</s>  ; <vlex>A1 </vlex> <s>kuruzva</s> , <s>kuruDvam</s> , <s>kurv/atAm</s>: Subj <s>karavARi</s> , <s>karavas</s> , <s>~vAt</s> , <s>~vAva</s> or <s>~vAvas</s>   , <s>~vAma</s> or <s>~vAmas</s>  , <s>~vATa</s> , <s>~van</s> ; <vlex>A1 </vlex> <s>karavE</s> , <s>kuruTAs</s> , <s>karavAvahE</s>  ; <s>~he</s>  , <s>karavETe</s>,<s>~vEte</s>  ,  , <s>~vAmahE</s><s>~he</s>   : Pot <vlex>P </vlex> <s>kuryAm</s> <vlex>A1 </vlex> <s>kurvIya</s>  ; pr p <vlex>P </vlex> <s>kurv/at</s> <lex type="part">f </lex> <s>~vat/I</s> ; <vlex>A1 </vlex> <s>kurvAR/a</s>: perf <vlex>P </vlex> <s>cak/Ara</s> , <s>cak/arTa</s> , <s>cakfv/a</s> , <s>cakfm/a</s> , <s>cakr/a</s>  ; <vlex>A1 </vlex> <s>cakr/e</s> , <s>cakrir/e</s> ; p <s>cakfvas</s> acc <s>cakr/uzam</s>  ; <vlex>A1 </vlex> <s>cakrARa</s>  : 2nd fut <s>karizy/ati</s> ; Subj 2 sg <s>karizy/As</s>  ; 1st fut <s>k/artA</s>: Prec <s>kriyAsam</s>: aor <vlex>P </vlex> Ved <s>cakaram</s>  , <s>acakrat</s>  , <s>/acakriran</s>  ; <vlex>A1 </vlex> 1 sg <s>kfske</s>  ; Class <s>akArzIt</s>   ; once <s>akArazIt</s>  ; Pass aor reflex <s>akAri</s> and <s>akfta</s>   : Inf <s>k/artum</s> , Ved <s>k/artave</s> , <s>k/artav/E</s> , <s>k/artos</s> <see/> ss vv ; ind p <s>kftv/A</s> , Ved <s>kftv/I</s> <b></b> and <s>kftv/Aya</s> <b></b> <msc/> <to/>to do , make , perform , accomplish , cause , effect , prepare , undertake  <etc/> <msc/> <to/>to do anything for the advantage or injury of another gen or loc   <etc/> <msc/> <to/>to execute , carry out as an order or command  <msc/> <to/>to manufacture , prepare , work at , elaborate , build  <msc/> <to/>to form or construct one thing out of another abl or instr   <etc/> <msc/> <to/>to employ , use , make use of instr    <etc/> <msc/> <to/>to compose , describe  <msc/> <to/>to cultivate  cf  <msc/> <to/>to accomplish any period , bring to completion , spend e g <s>varzARi daSa cakruH</s> , <quote> they spent ten years </quote>  ; <s>kzaRaM kuru</s> , <quote> wait a moment </quote>  ; cf <s>kritakzaRa</s> <msc/> <to/>to place , put , lay , bring , lead , take hold of acc or loc or instr e g <s>arD/aM-<root/>kf</s> , to take to one's own side or party , cause to share in gen ; <see/> 2 <s>arD/a</s> ; <s>haste</s> or <s>pARO-<root/>kf</s> , <to/>to take by the hand , marry  ; <s>hfdayena-<root/>kf</s> , <to/>to place in one's heart , love  ; <s>hfdi-<root/>kf</s> , <to/>to take to heart , mind , think over , consider  ; <s>manasi-<root/>kf</s> id   ; <to/>to determine , purpose <b>ind p <s>~si-kftvA</s> or <s>~si-kftya</s></b>  ; <s>vaSe-<root/>kf</s> , <to/>to place in subjection , become master of  <msc/> <to/>to direct the thoughts , mind , <etc1/> <s>m/anas</s> <b>   <etc/></b> or <s>budDim</s> <b></b> or <s>matim</s> <b> </b> or <s>BAvam</s> <b></b> , <etc1/> towards any object , turn the attention to , resolve upon , determine on loc dat inf , or a sentence with <s>iti</s> e g <s>mA Soke manaH kfTAH</s> , do not turn your mind to grief  Page301,2 ; <s>gamanAya matiM cakre</s> , he resolved upon going  ; <s>alAbuM samutsrazwuM manaS cakre</s> , he resolved to create a gourd  ; <s>drazwA tavA<srs/>smI<srs/>ti matiM cakAra</s> , he determined to see him  <msc/> <to/>to think of acc  <msc/> <to/>to make , render with two acc e g <s>AdityaM kAzWAm akurvata</s> , they made the sun their goal    <etc/> <msc/> <to/>to procure for another , bestow , grant with gen or loc    <etc/> <msc/> <vlex>A1 </vlex> to procure for one's self , appropriate , assume    <msc/> <to/>to give aid , help any one to get anything dat   <msc/> <to/>to make liable to dat   <msc/> <to/>to injure , violate e g <s>kanyAM-<root/>kf</s> , to violate a maiden  <msc/> <to/>to appoint , institute   <msc/> <to/>to give an order , commission   <msc/> <to/>to cause to get rid of , free from abl or <s>-tas</s>   <msc/> <to/>to begin e g <s>cakre SoBayitum purIm</s> , they began to adorn the city  <msc/> <to/>to proceed , act , put in practice    <etc/> <msc/> <to/>to worship , sacrifice    <msc/> <to/>to make a sound <s>svaram</s> or <s>Sabdam</s>     , utter , pronounce often ifc with the sounds <s>Paw</s> , <s>Put</s> , <s>BAR</s> , <s>v/azaw</s> , <s>svaD/A</s> , <s>sv/AhA</s> , <s>hiM</s> , pronounce any formula  <msc/> with numeral adverbs ending in <s>DA</s> <to/>to divide , separate or break up into parts e g <s>dviDA-<root/>kf</s> , to divide into two parts , ind p <s>dviDA kftvA</s> or <s>dviDA-kftya</s> or <s>-kAram</s>  ; <s>sahasraDA-<root/>kf</s> , <to/>to break into a thousand pieces <msc/> with adverbs ending in <s>vat</s> <to/>to make like or similar , consider equivalent e g <s>rAjyaM tfRa-vat kftvA</s> , valuing the kingdom like a straw  <msc/> with adverbs ending in <s>sAt</s> <to/>to reduce anything to , cause to become , make subject <see/> <s>Atma-sAt</s> , <s>Basma-sAt</s>  The above senses of <root/><s>kf</s> may be variously modified or almost infinitely extended according to the noun with which this root is connected , as in the following examples: <s>saKyaM-<root/>kf</s> , to contract friendship with <msc/> <s>pUjAM-<root/>kf</s> , <to/>to honour <msc/> <s>rAjyaM-<root/>kf</s> , <to/>to reign <msc/> <s>snehaM-<root/>kf</s> , <to/>to show affection <msc/> <s>AjYAM</s> or <s>nideSaM</s> or <s>SAsanaM</s> or <s>kAmaM</s> or <s>yAcanAM</s> or <s>vacaH</s> or <s>vacanaM</s> or <s>vAkyaM-<root/>kf</s> , to perform any one's command or wish or request <etc1/> <msc/> <s>DarmaM-<root/>kf</s> , <to/>to do one's duty  <msc/> <s>naKAni-<root/>kf</s> , <quote> to clean one's nails </quote> <see/> <s>kfta-naKa</s> <msc/> <s>udakaM</s> <b>   </b> or <s>salilaM</s> <b></b> <root/><s>kf</s> , to offer a libation of Water to the dead <msc/> <to/>to perform ablutions <msc/> <s>astrARi-<root/>kf</s> , <to/>to practise the use of weapons  <msc/> <s>darduraM-<root/>kf</s> , <to/>to breathe the flute  <msc/> <s>daRqaM-<root/>kf</s> , <to/>to inflict punishment <etc1/>  <msc/> <s>kAlaM-<root/>kf</s> , <to/>to bring one's time to an end i e to die <msc/> <s>ciraM-<root/>kf</s> , <to/>to be long in doing anything , delay <msc/> <s>manasA</s> for <s>~si</s> <see/> above <root/><s>kf</s> , <to/>to place in one's mind , think of , meditate  <msc/> <s>SirasA-<root/>kf</s> , <to/>to place on one's the head <msc/> <s>mUrDnA-<root/>kf</s> , <to/>to place on one's head , obey , honour Very rarely in <as0>Veda</as0><as1><s>veda</s></as1>  , but commonly in the <asp0>Bra1hman2as</asp0><as1><s>brAhmaRa</s>s</as1> , <asp0>Su1tras</asp0><as1><s>sUtra</s>s</as1> , and especially in classical <as0 type="ns">Sanskr2it</as0><as1>Sanskrit</as1> the perf forms <s>cakAra</s>and<s>cakre</s> auxiliarily used to form the periphrastical perfect of verbs , especially of causatives e g <s>AsAM cakre</s> , <quote> he sat down </quote> <msc/> <s>gamay/AM cakAra</s> , <quote> he caused to go </quote> <b>see  ; in <as0>Veda</as0><as1><s>veda</s></as1> some other forms of <root/> <s>kf</s> are used in a similar way , viz pr <s>karoti</s>  ; impf <s>akar</s>  and  ; 3 pl <s>akran</s>  and  ; Prec <s>kriyAt</s>  <see/>  ; according to  , also <s>karotu</s> with <root/><s>vid</s></b> Caus <s>kArayati</s> , <s>~te</s> , to cause to act or do , cause another to perform , have anything made or done by another double acc instr and acc <b>see </b> e g <s>saBAM kAritavAn</s> , he caused an assembly to be made  ; <s>rAja-darSanaM mAM kAraya</s> , cause me to have an audience of the king ; <s>vARijyaM kArayed vESyam</s> , he ought to cause the <as0>Vais3ya</as0><as1><s>vESya</s></as1> to engage in trade  ; <s>na SakzyAmi kiMcit kArayituM tvayA</s> , I shall not be able to have anything done by thee  <msc/> <to/>to cause to manufacture or form or cultivate    <etc/> <msc/> <to/>to cause to place or put , have anything placed , put upon , <etc1/> e g <s>taM citrapawaM vAsa-gfhe BittAv akArayat</s> , he had the picture placed on the wall in his house   Sometimes the Caus of <root/><s>kf</s> is used for the simple verb or without a causal signification e g <s>padaM kArayati</s> , he pronounces a word   Page301,3 ; <s>miTyA k~</s> , he pronounces wrongly  ; <s>kEkeyIm anu rAjAnaM kAraya</s> , treat or deal with <as0>Kaikeyi1</as0><as1><s>kEkeyI</s></as1> as the king does  : Desid <s>c/ikIrzati</s> aor 2 sg <s>acikIrzIs</s>  , ep also <s>~te</s> , to wish to make or do , intend to do , design , intend , begin , strive after     <etc/> <msc/> <to/>to wish to sacrifice or worship  : Intens 3 pl <s>karikrati</s> pr p <s>k/arikrat</s> <see/>   , <to/>to do repeatedly    <msc/> Class <s>carkarti</s> or <s>carikarti</s> or <s>carIkarti</s> <b> </b> , also <s>carkarIti</s> or <s>carikarIti</s> or <s>carIkarIti</s> or <s>cekrIyate</s> <b>ib Sch </b> ; <b>cf Hib <etym>caraim</etym> , <quote> I perform , execute </quote> ; <etym>ceard</etym> , <quote> an art , trade , business , function </quote> ; <etym>sucridh</etym> , <quote> easy </quote> ; Old Germ <etym>karawan</etym> , <quote> to prepare </quote> ; Mod Germ <etym>gar</etym> , <quote> prepared as food </quote> ; Lat <etym>creo</etym> , <etym>ceremonia</etym> ; <gk>1</gk> , <gk>2</gk> </b>
+54217	H3	kftakzaRa	kfta-kzaRa	icf	MAYBE <lex>mfn </lex> one who waits for the right moment , one who waits impatiently for a person or thing loc , or acc with <s>prati</s> , or inf , or in comp ; e g <s>kfta-kzaRA<srs/>haM te gamnaM prati</s> , I am waiting impatiently for thy going  ; <s>te BUmiR gantuM kfta-kzaRAH</s> , they are waiting for the time to proceed to the earth
+54584	H2	kftI	kftI	icf	OK ~ti
+55056	H2	kfSI	kfSI	icf	PROBABLE <lex>ind </lex> in comp for <s>~S/a</s>
+55571	H1	kxp	kxp	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 A1 </vlex> <s>k/alpate</s>  ; perf <s>cakxpe</s> , 3 pl <s>cAkxpr/e</s>  fut <s>kalpizyate</s> and <s>kalpsy~</s> <b>3 du <s>kalpsyete</s>  ; vv ll <s>kxps~</s> and <s>klaps~</s></b> , or <s>kalpsyati</s> ; Cond <s>akalpizyata</s> , or <s>~lpsyat</s> ; 1st fut <s>kalpitA</s> or <s>kalptA</s> <b>see </b> ; aor <s>akxpta</s> or <s>~pat</s> ; pr and perf only <vlex>A1 </vlex>  , <to/>to be well ordered or regulated , be well managed , succeed    <etc/> <msc/> <to/>to bear suitable relation to anything , correspond , be adapted to , in accordance with , suitable to instr   <etc/> <msc/> <to/>to be fit for loc  <msc/> <to/>to accommodate one's self to , be favourable to , subserve , effect with dat     <etc/> <msc/> <to/>to partake of dat    <etc/> <msc/> <to/>to fall to the share , be shared or partaken by loc dat or gen e g <s>yajY/o dev/ezu kalpatAm</s> , <quote> let the sacrifice be shared by the gods </quote>      <msc/> <to/>to become with nom    <msc/> with dat <b> Va1rtt 2</b>   <msc/> <to/>to happen , occur   <msc/> <to/>to prepare , arrange  <msc/> <to/>to produce , cause , effect , create with acc   <msc/> <to/>to declare as , consider as with double acc  perf p <s>kxptavat</s>: Caus <vlex>P A1 </vlex> <s>kalp/ayati</s> , <s>~te</s> , aor <s>acIkxpat</s> or <s>cAkxpat</s> <b></b> Subj <s>cIkxpAti</s>  , <to/>to set in order , arrange , distribute , dispose    <msc/> <to/>to bring into suitable connection with  <msc/> <to/>to prepare , arrange     <etc/> <msc/> <to/>to fit out , furnish with instr  <msc/> <to/>to help any one in obtaining anything dat or loc or gen    <msc/> <to/>to fix , settle  <msc/> <to/>to declare as , consider as with double acc e g <s>mAtaram enAM kalpayantu</s> , <quote> let them consider her as their mother </quote>    <etc/> <msc/> <to/>to make , execute , bring about     <etc/> <msc/> <to/>to frame , form , invent , compose as a poem <etc1/> , imagine  <msc/> <to/>to perform as a ceremony <etc1/>  <msc/> <to/>to trim , cut  <msc/> in <as0 type="ns">Pra1kr2it</as0><as1>Prakrit</as1>  <msc/> <to/>to pronounce a formula or verse which contains the <root/><s>kxp</s>  : Desid <s>cikxpsati</s> or <s>cikalpizate</s>  ; <b>cf Goth <etym>hilpa</etym> ; Eng <etym>help</etym> ; Germ <etym>helfe</etym> ; Lith <etym>gelbmi</etym> </b>
+56061	H2	keSi	keSi	icf	OK keS/in
+56900	H2	kozWaka	kozWaka	icf	MAYBE <lex>mn </lex> a receptacle for in comp
+57096	H1	kOtuka	kOtuka	icf	MAYBE <lex>n </lex> fr <s>kut~</s> ; g <s>yuvA<srs/>di</s> , curiosity , interest in anything , vehement desire for loc or in comp , eagerness , vehemence impatience   ifc <lex type="hwifc">f<s>A</s> </lex> <etc/>
+57122	H2	kOtuki	kOtuki	icf	OK ~kin
+59043	H2A	kzama	kzama	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> adequate , competent , able , fit for loc or inf or in comp , e g <s>vayaM tyaktuM kzamAH</s> , <quote> we are able to quit </quote> ,     <etc/>
+59046	H2A	kzama	kzama	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> fit , appropriate , becoming , suitable , proper for gen dat , loc inf or in comp  e g <s>kzamaM kOravARAm</s> , <quote> proper for the <asp0>Kauravas</asp0><as1><s>kOrava</s>s</as1> </quote> ,   e g <s>na sa kzamaH kopayitum</s> , <quote> he is not a fit object , for anger </quote> ,  <etc1/>
+59422	H2	kzayi	kzayi	icf	PROBABLE in comp for <s>~yin</s> <qv/>
+60073	H2	kzut	kzut	icf	MAYBE in comp for 2 <s>kz/uD</s>
+60088	H2	kzud	kzud	icf	MAYBE in comp for 2 <s>kz/uD</s>
+60113	H2	kzun	kzun	icf	MAYBE in comp for 2 <s>kz/uD</s>
+61479	H2	KariM	KariM	icf	PROBABLE in comp for <s>~rIm</s> acc of <s>~rI</s> <qv/>
+61853	H2	KAriM	KAriM	icf	PROBABLE in comp for <s>~rim</s> acc of <s>~ri</s> <qv/> , or shortened acc of <s>~rI</s>
+62216	H1	gaNga	gaNga	icf	OK ~NgA
+62725	H2	gaRi	gaRi	icf	OK ~Rin
+63595	H2	gantu	gantu	icf	PROBABLE in comp for <s>~tum</s> inf <root/><s>gam</s>
+63819	H2	garud	garud	icf	PROBABLE in comp for <s>~rut</s> <qv/>
+64291	H2	galv	galv	icf	OK ~lU
+64318	H1	gav	gav	icf	MAYBE in Ved comp for <s>g/o</s>
+64340	H2	gava	gava	icf	MAYBE <lex>mf<s>I</s>n </lex> in comp before a word beginning with a vowel <b></b> and ifc <b> ; <lex type="hwifc">f<s>I</s> </lex> <cf/> <s>guru-gav/I</s> , <s>brahma-gavI</s> , <s>brAhmaRa-</s> , <s>Billa-</s> , <s>strI-</s></b> for <s>g/o</s> , a cow , cattle <cf/> <s>zaq-gav/a</s> , <s>dvAdaSa-gav/a</s> <etc/>
+64578	H2	gATi	gATi	icf	PROBABLE in comp for <s>~Tin</s> <qv/>
+64631	H2	gAyatri	gAyatri	icf	MAYBE in comp , for <s>~trin</s> <qv/>
+65079	H2	gI	gI	icf	MAYBE in comp for 1 <s>g/ir</s>
+65081	H2	gIH	gIH	icf	MAYBE in comp for 1 <s>g/ir</s>
+65084	H2	gIr	gIr	icf	MAYBE in comp for 1 <s>g/ir</s>
+65091	H2	gIz	gIz	icf	MAYBE in comp for 1 <s>g/ir</s>
+65094	H2	gIs	gIs	icf	MAYBE in comp for 1 <s>g/ir</s>
+65790	H2	guRi	guRi	icf	OK ~Rin
+65809	H2	guRI	guRI	icf	OK ~R/a
+65962	H2	guM	guM	icf	OK gum
+66160	H2	gurv	gurv	icf	PROBABLE in comp for <s>~r/u</s> <qv/>
+66438	H3	gfdDitva	gfdDi-tva	icf	MAYBE <lex>n </lex> eagerly longing for in comp
+66450	H3A	gfDnutA	gfDnu-tA	icf	MAYBE <lex type="inh">f </lex> great desire for in comp
+66453	H2B	gfDyA	gfDyA	icf	MAYBE <lex>f </lex> greediness after , desire for in comp
+66455	H2A	gfDra	gfDra	icf	MAYBE <lex type="inh">mfn </lex> eager for , desirous of in comp
+66884	H1	go	go	icf	MAYBE <s>g/Os</s> acc <s>g/Am</s> instr <s>g/avA</s> dat <s>g/ave</s> , gen abl <s>g/os</s> loc <s>g/avi</s> ; du <s>g/AvA</s> <b>Ved </b> , <s>g/AvO</s> ; pl nom <s>g/Avas</s> acc <s>g/As</s> <b>rarely <s>g/Avas</s>    </b> instr <s>g/oBis</s> dat abl <s>g/oByas</s> , gen <s>g/avAm</s> <b>once at the end of a <as0>Pa1da</as0><as1><s>pAda</s></as1> </b> and <b>in  at the end of <asp0>Pa1das</asp0><as1><s>pAda</s>s</as1> only <cf/> </b> <s>g/onAm</s> loc <s>g/ozu</s> <lex>m </lex> an ox <lex type="hw">f </lex> a cow , pl cattle , kine , herd of cattle  <etc1/> in comp before vowels <b><cf/> </b> <s>gav</s> , <s>gava</s> , qq vv ; <cf/> also <s>gavAm</s> , <s>gavi</s> , <s>gAM</s> ss vv ; <s>gavAM vrata</s> N of a <as0>Sa1man</as0><as1><s>sAman</s></as1> ; <s>gavAM tIrTa</s> <see/> <s>go t~</s> ; <s>g/ozu-<root/>gam</s> , <to/>to set out for a battle <b>to conquer cows</b>
+68312	H2	gOri	gOri	icf	PROBABLE in comp for <s>~r/I</s> <qv/>
+68782	H2	grAhi	grAhi	icf	OK ~hin
+68978	H2	grAmi	grAmi	icf	PROBABLE in comp for <s>~m/in</s> <qv/>
+69061	H1	grAva	grAva	icf	OK ~van
+69219	H1	Gaw	Gaw	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 A1 </vlex> <s>~wate</s> exceptionally <vlex>P </vlex> <s>~ti</s>   ; <s>jaGawe</s> , <s>Gawizyate</s> <b></b> , <s>aGawizwa</s>  , <to/>to be intently occupied about , be busy with , strive or endeavour after , exert one's self for loc dat acc <b></b> , <s>prati</s> , <s>-arTam</s> and <s>arTe</s> ; inf   <msc/> <to/>to reach , come to loc  <msc/> <to/>to fall to the share of loc  <msc/> <to/>to take effect , answer   <msc/> <to/>to happen , take place , be possible , suit       <etc/> <msc/> <to/>to be in connection or united with instr    <msc/> for <root/> <s>Gaww</s> <to/>to hurt with words , speak of malignantly  : Caus <vlex>P </vlex> <s>Gawayati</s>  ; exceptionally <vlex>A1 </vlex> <s>~te</s>  , <to/>to join together , connect , bring together , unite     <msc/> <to/>to shut  v l <msc/> <to/>to put or place or lay on loc  <msc/> <to/>to bring near , procure     <msc/> <to/>to effect , accomplish , produce , make , form , fashion    <etc/> <msc/> <to/>to do a service acc to any one gen  <msc/> <to/>to impel  <msc/> <to/>to exert one's self  <msc/> for <root/> <s>Gaww</s> , Caus <to/>to rub , graze , touch , move , agitate  : Caus <s>GAwayati</s> , to hurt , injure  <msc/> <to/>to unite or put together  <msc/> <quote> to speak </quote> or <quote> to shine </quote>
+69314	H2	Gawi	Gawi	icf	OK ~win
+69377	H3A	GaRwAkarRa	GaRwA-karRa	icf	MAYBE <lex type="inh">m </lex> of an attendant of <as0>S3iva</as0><as1><s>Siva</s></as1> supposed to preside over cutaneous complaints , and worshipped for exemption from them in the month <as0>Caitra</as0><as1><s>cEtra</s></as1>
+69412	H2	GaRwi	GaRwi	icf	OK ~win
+69761	H2	GAti	GAti	icf	OK ~tin
+70095	H2	GfRi	GfRi	icf	OK ~Rin
+70659	H2	cakzuH	cakzuH	icf	OK ~kzus
+70664	H2	cakzur	cakzur	icf	OK ~kzus
+70687	H2	cakzuS	cakzuS	icf	MAYBE in comp , for <s>~kzus</s>
+70689	H2	cakzuz	cakzuz	icf	OK ~kzus
+70729	H2	cakzU	cakzU	icf	OK ~kzus
+70808	H3	caYcutva	caYcu-tva	icf	MAYBE <lex>n </lex> the being famous for in comp
+70886	H3	caRatva	caRa-tva	icf	MAYBE <lex>n </lex> the being famous for in comp
+71077	H2	catu	catu	icf	PROBABLE in comp for <s>~t/ur</s> before <s>s</s> followed by a surd dental and <s>z</s> followed by a surd lingual
+71083	H2	catuH	catuH	icf	PROBABLE in comp for <s>~t/ur</s> <amp/> <s>~t/us</s>
+71377	H2	catuS	catuS	icf	OK ~t/ur
+71391	H2	catuz	catuz	icf	OK ~t/ur
+71459	H2	catus	catus	icf	OK ~t/ur
+71467	H2	catU	catU	icf	PROBABLE in comp for <s>~t/ur</s> before <s>r</s>
+71524	H2	cano	cano	icf	OK c/anas
+72445	H1	carma	carma	icf	MAYBE <lex>mfn </lex> in comp and twice ifc <see/> <s>fzaBa-</s> and <s>sa-</s> for <s>c/arman</s>
+72583	H2	carzaRI	carzaRI	icf	OK ~R/i
+72632	H2	calad	calad	icf	OK ~lat
+72753	H1	cAYcava	cAYcava	icf	MAYBE <lex>n </lex> fr <s>caYcu</s> celebrity for in comp  v l
+73237	H2	cArv	cArv	icf	OK ~ru
+73386	H3A	cikIrzA	cikIrzA	icf	MAYBE <lex type="inh">f </lex> desire for gen or in comp
+73474	H1	cit	cit	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 </vlex> <s>c/etati</s> impf <s>acetat</s>  ; p <s>c/etat</s>  <vlex>cl 2 </vlex> <vlex>A1 </vlex> Pass 3 sg <s>cit/e</s> ,  ; p <lex type="part">f </lex> instr <s>citantyA</s> ,  ; <vlex>A1 </vlex> <s>citAna</s> ,   <vlex>cl 3 </vlex> irreg <s>cIhetati</s>  ; Subj <s>ciketat</s>  ; Impv 2 sg <s>cikidDi</s>  ; p <s>cikitAn/a</s>  ; perf <s>cik/eta</s>  <etc/> ; <s>ciceta</s>  ; 3 du <s>cetatur</s>  ; <vlex>A1 </vlex> and Pass <s>cikit/e</s>  <etc/> ; 3 pl <s>~tre</s>  ; for p <s>cikitv/as</s> <see/> s v ; <vlex>A1 </vlex> Pass <s>cicite</s>  ; aor <s>acetIt</s>  ; <vlex>A1 </vlex> Pass <s>/aceti</s> and <s>c/eti</s>  ; for <s>acEt</s> <see/> <root/>2 <s>ci</s> ; fut 1st <s>c/ettA</s> ,  <to/>to perceive , fix the mind upon , attend to , be attentive , observe , take notice of acc or gen     <msc/> <to/>to aim at , intend , design with dat  <msc/> <to/>to be anxious about , care for acc or gen ,  <msc/> <to/>to resolve ,  <msc/> <to/>to understand , comprehend , know perf often in the sense of pr   <msc/> <vlex>P A1 </vlex> <to/>to become perceptible , appear , be regarded as , be known   : Caus <s>cet/ayati</s> , <s>~te</s> 2 pl <s>cet/ayaDvam</s> Subj <s>cetayat</s> Impv 2 du <s>cetayeTAm</s> impf <s>/acetayat</s>  ; 3 pl <s>cit/ayante</s>  ; p <s>cit/ayat</s>  eleven times ; <s>cet/ayat</s> ,  ; <vlex>A1 </vlex> <s>cetayAna</s> <see/> s v <to/>to cause to attend , make attentive , remind of  <msc/> <to/>to cause to comprehend , instruct , teach  <msc/> <to/>to observe , perceive , be intent upon    <msc/> <vlex>A1 </vlex> once <vlex>P </vlex>  <to/>to form an idea in the mind , be conscious of , understand , comprehend , think , reflect upon       <msc/> <vlex>P </vlex> <to/>to have a right notion of know  <msc/> <vlex>P </vlex> <quote> to recover consciousness </quote> , awake  <msc/> <vlex>A1 </vlex> <to/>to remember , have consciousness of acc    <msc/> <to/>to appear , be conspicuous , shine   : Desid <s>c/ikitsati</s> fr <root/><s>kit</s>   ; exceptionally <vlex>A1 </vlex>  ; Impv <s>~tsatu</s> Subj <s>~tsAt</s> aor 2 sg <s>/acikitsIs</s>  ; Pass p <s>cikitsyamAna</s>   <to/>to have in view , aim at , be desirous  <msc/> <to/>to care for , be anxious about ,  <msc/>   <to/>to treat medically , cure      <msc/> <to/>to wish to appear : Caus of Desid fut <s>cikitsayizyati</s> <to/>to cure  : Intens <s>cekite</s> fr <root/>2 <s>ci</s>? , or for <s>~tte</s>  ; p <s>c/ekitat</s> ,  ; <vlex>A1 </vlex> <s>c/ekitAna</s>  eight times <to/>to appear , be conspicuous , shine
+73512	H2	cic	cic	icf	OK cit
+74007	H2	cid	cid	icf	OK cit
+74029	H2	cin	cin	icf	OK cit
+74075	H2	cetI	cetI	icf	PROBABLE <lex>ind </lex> in comp for <s>~tas</s>
+74078	H2	ceto	ceto	icf	OK ~tas
+74849	H2	cUrRI	cUrRI	icf	PROBABLE <lex>ind </lex> in comp for <s>~Ra</s>
+75273	H2B	cyavana	cyavana	icf	MAYBE <lex type="inh">n </lex> the being deprived of in comp  falling from any divine existence for being re-born as a man
+75453	H2	CattrI	CattrI	icf	PROBABLE <lex>ind </lex> in comp for <s>~ttra</s>
+75490	H2	Cadma	Cadma	icf	OK ~dman
+75591	H2	CandaH	CandaH	icf	OK ~das
+75630	H2	Cando	Cando	icf	OK ~das
+76204	H2	jagac	jagac	icf	OK ~gat
+76211	H2	jagaj	jagaj	icf	OK ~gat
+76296	H2	jagad	jagad	icf	OK ~gat
+76366	H2	jagan	jagan	icf	OK ~gat
+76918	H2	janar	janar	icf	OK ~nas
+76999	H2	jano	jano	icf	OK ~nas
+77033	H2	janma	janma	icf	OK ~nman
+77533	H2	jayad	jayad	icf	OK ~yat
+77647	H2	jarad	jarad	icf	PROBABLE in comp for <s>~rat</s> =
+78743	H2	jAty	jAty	icf	OK ~ti
+78761	H2	jAtU	jAtU	icf	PROBABLE in comp for <s>~tu</s> <eq/> <s>aS/ani</s>
+78848	H2	jAnv	jAnv	icf	OK ~nu
+79405	H1	jimBa	jimBa	icf	MAYBE for <s>jfmBa</s> ? , in comp
+79817	H2	jIvad	jIvad	icf	OK ~vat
+79820	H2	jIvan	jIvan	icf	OK ~vat
+79890	H2A	jIvanti	jIvanti	icf	PROBABLE <lex type="inh">m </lex> also in comp for <s>~tI</s>
+80158	H1	jeta	jeta	icf	MAYBE in comp irr for <s>~tf</s>
+80315	H2	jYu	jYu	icf	MAYBE in comp and ifc <see/> <s>aBi-</s> and <s>asita-jY/u</s> , <s>UrDv/a-</s> , <s>pra-</s> , <s>mit/a-</s> , <s>saM-</s> for <s>j/Anu</s>
+80673	H2	jyotiH	jyotiH	icf	OK ~tis
+80686	H2	jyotir	jyotir	icf	OK ~tis
+80725	H2	jyotiS	jyotiS	icf	OK ~tis
+80729	H2	jyotiz	jyotiz	icf	OK ~tis
+80800	H2	jyotI	jyotI	icf	OK ~tis
+80843	H2	jyog	jyog	icf	OK jyok
+80900	H2	jvalan	jvalan	icf	OK ~lat
+81344	H2	qamaru	qamaru	icf	MAYBE <lex>m </lex> a sacred drum, shaped like an hour, glass, used by the god <as0>S3iva </as0><as1><s>Siva</s></as1> and by Buddhist mendicant monks for a musical accompaniment in chanting, cf 384, 385
+81607	H2	takza	takza	icf	PROBABLE in comp for <s>~kzan</s> ,
+81696	H2	taqid	taqid	icf	OK ~qit
+81699	H2	taqin	taqin	icf	OK ~qit
+81803	H2	tato	tato	icf	OK ~tas
+81811	H1	tat	tat	icf	OK t/ad
+81964	H2	tac	tac	icf	OK t/ad
+81967	H2	taj	taj	icf	OK t/ad
+82046	H2	tad	tad	icf	MAYBE nom and acc sg <lex type="hwinfo">n </lex> of and base in comp for 2 <s>t/a</s> from which latter all the cases of this pron are formed except nom sg <lex type="hwinfo">m </lex> <s>s/as</s> or <s>s/a</s> <amp/> <lex type="hwinfo">f </lex> <s>s/A</s> ; instr pl <s>t/Es</s>  <etc/> ; Ved <s>t/eBis</s>   <etc/> <lex type="hwinfo">m </lex> he <lex type="hwinfo">f </lex> she <lex type="hwinfo">n </lex> it , that , this often correlative of <s>y/a</s> generally standing in the preceding clause e g <s>yasya budDiH sa balavAn</s> , <quote> of whom there is intellect he is strong </quote> ; sometimes , for the sake of emphasis , connected with the 1st and 2nd personal pronouns , with other demonstratives and with relatives e g <s>so 'ham</s> , <quote> I that very person , I myself </quote> <b><s>tasya</s> <eq/> <s>mama</s> </b> ; <s>tAv imO</s> , <quote> those very two </quote> ; <s>tad etad AKyAnam</s> , <quote> that very tale </quote>  ; <s>yat tat kAraRam</s> , <quote> that very reason which </quote>  ; <s>yA sA SrI</s> , <quote> that very fortune which </quote>   <etc/>
+82177	H2	tadAnIM	tadAnIM	icf	OK ~nIm
+82186	H2	tan	tan	icf	OK t/ad
+82362	H2	tanU	tanU	icf	OK ~n/u
+82562	H2	tantv	tantv	icf	OK ~tu
+82567	H2	tanv	tanv	icf	OK ~n/u
+82627	H2	tapaH	tapaH	icf	OK ~pas
+82694	H2	tapaS	tapaS	icf	OK ~pas
+82751	H2	tapur	tapur	icf	OK ~pus
+82765	H2	tapo	tapo	icf	OK ~pas
+82879	H2	tamaH	tamaH	icf	OK ~mas
+82948	H2	tamo	tamo	icf	OK ~mas
+83484	H1	tarza	tarza	icf	MAYBE <lex>m </lex> <root/> <s>tfz</s> thirst , wish , desire for in comp    <s>ati-</s> , <quote> excessive desire </quote>
+83818	H2	tAdfg	tAdfg	icf	OK ~d/fS
+84678	H1	tAvac	tAvac	icf	OK ~vat
+84707	H2	tAvad	tAvad	icf	OK ~vat
+84715	H2	tAvan	tAvan	icf	OK ~vat
+84936	H2	tiTy	tiTy	icf	OK ~Ti
+85042	H1	tiraH	tiraH	icf	OK ~r/as
+85089	H2	tiro	tiro	icf	OK ~r/as
+85106	H2	tirya	tirya	icf	MAYBE for <s>~yag</s> in comp
+85109.1	H2A	tiryak	tiryak	icf	MAYBE in comp also for <s>~y/aYc</s>
+85128	H2	tiryag	tiryag	icf	PROBABLE in comp for <s>~y/ak</s> and <s>~y/aYc</s>
+85174	H2	tiryaN	tiryaN	icf	PROBABLE in comp for <s>~y/ak</s> and <s>~y/aYc</s>
+85640	H2	tIrTI	tIrTI	icf	OK ~Ta
+85701	H2	tIvrI	tIvrI	icf	OK ~vr/a
+86410	H1	tUr	tUr	icf	MAYBE in comp for 2 <s>t/ur</s>
+88433	H3	trizwuk	tri-zwuk	icf	PROBABLE <etc1/> in the nom and before consonantic terminations as well as in comp for <s>-zw/up</s> <etc/>
+88932	H2	tvakat	tvakat	icf	MAYBE dimin for <s>tvat</s> , in comp
+88935	H2	tvat	tvat	icf	MAYBE in comp for 2 <s>tv/a</s>
+88992	H2	tvak	tvak	icf	MAYBE in comp for 2 <s>tv/ac</s>
+89306	H2	daMsu	daMsu	icf	MAYBE <lex>mfn </lex> only in comp , = <gk>1</gk> , Lat <etym>densus</etym> for the change of meaning cf <s>gur/u</s> <amp/> <gk>2</gk> <etc1/>
+89990	H2	daDy	daDy	icf	OK ~Di
+90343	H2	dayA	dayA	icf	MAYBE <lex>f </lex> sympathy , compassion , pity for loc    <etc/> Page470,1 ; gen   ; in comp    <s>~yAM</s> <root/> <s>kf</s> , <quote> to take pity on </quote> <b>loc   gen </b>
+90809	H1	daSa	daSa	icf	PROBABLE <lex>mfn </lex> ifc <s>tri-</s> , <s>dvi-</s> , <s>nir-</s> and in comp for <s>~San</s>
+91426	H2	dAma	dAma	icf	PROBABLE in comp for <s>dAman</s> , p 475
+92376	H2	divo	divo	icf	OK ~vas
+92473	H2	dik	dik	icf	MAYBE in comp for 2 <s>diS</s> , p 480
+92511	H2	dig	dig	icf	MAYBE in comp for 2 <s>diS</s>
+92576	H2	diN	diN	icf	MAYBE in comp for 2 <s>diS</s>
+93272	H2	dIrGI	dIrGI	icf	PROBABLE <lex>ind </lex> in comp for <s>~Ga</s>
+93288	H1	duH	duH	icf	PROBABLE in comp for <s>dus</s> p 488 ; for <s>duH-k~</s> , <s>duH-p~</s> <see/> <s>duz-k~</s> , <s>duz-p~</s>
+93630	H1	dur	dur	icf	PROBABLE in comp for <s>dus</s> p 488 , denoting <quote> bad </quote> or <quote> difficult </quote> <etc1/>
+94505	H2	duS	duS	icf	PROBABLE in comp for <s>dus</s> p 488
+94542	H2	duz	duz	icf	PROBABLE in comp for <s>dus</s> p 488
+94693	H2	dU	dU	icf	PROBABLE in comp for <s>dus</s> above
+94740	H2	duvo	duvo	icf	PROBABLE in comp for <s>d/uvas</s> above
+95011	H2	dUrI	dUrI	icf	PROBABLE <lex>ind </lex> in comp for <s>dUra</s>
+95210	H2	dfQI	dfQI	icf	PROBABLE <lex>ind </lex> , in comp for <s>~Qa</s>
+95264	H2	dfk	dfk	icf	MAYBE in comp for 2 <s>dfS</s>
+95283	H2	dfg	dfg	icf	MAYBE in comp for 2 <s>driS</s>
+95306	H2	dfN	dfN	icf	MAYBE in comp for 2 <s>dfS</s>
+95467	H2	dfzac	dfzac	icf	PROBABLE in comp for <s>dfzad</s> below
+95469	H2	dfzat	dfzat	icf	PROBABLE in comp for <s>dfzad</s> below
+95491	H2	dfzan	dfzan	icf	OK dfzad
+96421	H2	devi	devi	icf	OK ~vI
+96507	H2	devy	devy	icf	PROBABLE in comp for <s>devI</s> before vowels
+97104	H2	doH	doH	icf	OK dos
+97109	H2	dor	dor	icf	OK dos
+97166	H1	dOH	dOH	icf	PROBABLE <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>duH</s> , in comp for <s>dus</s> <qv/>
+97281	H1	dyu	dyu	icf	MAYBE for 3 <s>div</s> as inflected stem and in comp before consonants
+97619	H2	draviRo	draviRo	icf	OK ~Ras
+97626	H2	dravI	dravI	icf	OK drava
+98156	H1	dvA	dvA	icf	MAYBE old nom du of <s>dva</s> , substituted for <s>dvi</s> in comp before other numerals <etc1/>
+98211	H2	dvAdaSa	dvA-daSa	icf	MAYBE for <s>-daSan</s> in comp
+98309	H1	dvAH	dvAH	icf	OK dvAr
+98923	H2	dvir	dvir	icf	PROBABLE in comp for <s>dvis</s> below
+98954	H2	dviz	dviz	icf	PROBABLE in comp for <s>dvis</s> below
+98963	H2	dviw	dviw	icf	MAYBE in comp for 3 <s>dviz</s>
+99052	H1	dvE	dvE	icf	MAYBE <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form for <s>dvi</s> in comp
+99121	H2	dvEDI	dvEDI	icf	OK ~Da
+99146	H1	dvy	dvy	icf	MAYBE in comp before vowels for <s>dvi</s> <see/> p 504
+99539	H2	DanuH	DanuH	icf	OK ~nus
+99549	H2	Danur	Danur	icf	OK ~nus
+99604	H2	Danuz	Danuz	icf	OK ~nus
+99679	H2	DanvA	DanvA	icf	OK ~van
+100472	H2	Darma	Darma	icf	PROBABLE in comp for <s>~man</s> <qv/> 2
+100600	H2	DavalI	DavalI	icf	OK ~vala
+100855	H2	DAma	DAma	icf	PROBABLE in comp for <s>~man</s> , below
+101202	H2	Dig	Dig	icf	OK Dik
+101738	H1	DUr	DUr	icf	OK Dur
+101815	H1	Df	Df	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 P A1 </vlex> <s>Darati</s> , <s>~te</s>  ; <vlex>A1 </vlex> Pot <s>Dareran</s> , but more commonly in the same sense the Caus form <s>DArayati</s> , <s>~te</s> perf <vlex>P </vlex> <s>dA<shortlong/>D/Ara</s> , <s>~D/arTa</s> <b>Impv <s>daDartu</s> </b> ; <vlex>A1 </vlex> <s>daDr/e</s> , 3 pl <s>~Drir/e</s>  <etcetc/> ; aor <s>aDAram</s>  ; <s>aDfta</s>,<s>DfTAs</s>  ; <s>/adIDarat</s>  <etcetc/> <b><s>dIDar</s>,<s>diDftam</s>,<s>~ta</s>  ; 3 pl <s>~rata</s> </b> ; <s>adArzIt</s> Gr ; fut <s>Darizyati</s>  ; <s>~zy/e</s>  ; <s>DartA</s>  ; inf <s>Dartum</s>  , <s>~tavE</s>  <b><s>Dart/ari</s> <see/> under <s>~tf</s></b> ; ind p <s>DftvA</s> , <s>-Dftya</s>  <to/>to hold , bear also bring forth , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo  <etcetc/> <msc/> with or scil <s>AtmAnam</s> , <s>jIvitam</s> , <s>prARAn</s> , <s>deham</s> , <s>SarIram</s> <etc/> to preserve soul or body , continue living , survive   <etc1/> esp fut <s>Darizyati</s> ; cf Pass below <msc/> <to/>to hold back , keep down , stop , restrain , suppress , resist   <etc1/> <msc/> <to/>to place or fix in , bestow or confer on loc    <etc/> <msc/> <to/>to destine for dat ; <vlex>A1 </vlex> also to be destined for or belong to  <msc/> <to/>to present to gen  <msc/> <to/>to direct or turn attention , mind , <etc1/> towards , fix or resolve upon loc or dat    <msc/> <vlex>A1 </vlex> to be ready or prepared for  <msc/> <vlex>P A1 </vlex> <to/>to owe anything acc <to/>to dat or gen  cf  <msc/> <to/>to prolong in pronunciation   <msc/> <to/>to quote , cite  <msc/> with <s>garBam</s> <to/>to conceive , be pregnant older <s>~Bam-<root/>Bf</s>   <etc/> <msc/> with <s>daRqam</s> <to/>to inflict punishment on loc    also <s>damam</s> <msc/> with <s>keSAn</s> , or <s>SmaSru</s> <to/>to let the hair or beard grow  <msc/> with <s>raSmIn</s> <b></b> or <s>praharAn</s> <b></b> <to/>to draw the reins tight <msc/> with <s>Daramam</s> <to/>to fulfil a duty  <msc/> with <s>vrat/am</s> <to/>to observe or keep a vow  <etcetc/> <msc/> with <s>DAraRAm</s> <to/>to practise self-control  <msc/> wit <s>ipas</s> <to/>to perform penance  <msc/> with <s>mUrDnA</s> or <s>~Dni</s> , <s>SirasA</s> or <s>~si</s> <to/>to bear on the head , honour highly  <msc/> with or scil <s>tulayA</s> <to/>to hold in a balance , weigh , measure   <etc/> <msc/> with or scil <s>manasA</s> <to/>to bear in mind , recollect , remember  <msc/> with <s>samaye</s> <to/>to hold to an agreement , cause to make a compact  B <s>dfzwvA</s> for <s>DftvA</s>: Pass <s>Driy/ate</s> ep also <s>~yati</s> ; pf <s>daDr/e</s> <etc1/> = <vlex>A1 </vlex> ; aor <s>aDAri</s> <to/>to be borne <etc1/> <msc/> so be firm , keep steady  <etcetc/> <msc/> continue living , exist , remain    <etc1/> also <s>DAryate</s>  <msc/> <to/>to begin , resolve upon , undertake dat ; acc or inf    : Caus <s>DAr/ayati</s> , <s>~te</s> <see/> above: Desid <s>diDIrzati</s> <see/> <s>~zA</s> , <s>diDarizate</s>  <msc/> <s>diDArayizati</s> , <to/>to wish to keep up or preserve <s>AtmAnam</s>  : Intens <s>d/arDarti</s>  and<s>dADarti</s> 3 pl <s>~Drati</s>  ; cf  <to/>to hold fast , bear firmly , fasten <b>cf Zd <etym>dar</etym> Page519,2 ; Gk <gk>1</gk> , <gk>2</gk> , <gk>3</gk>; Lat <etym>fre1-tus</etym> , <etym>fre1-num</etym> </b>
+102242	H2	DyAni	DyAni	icf	OK ~nin
+102491	H2	DvajI	DvajI	icf	OK ~ja
+102532	H2	Dvany	Dvany	icf	OK ~ni
+102675	H3	nAti	nA@ti	icf	MAYBE for <s>na</s> + <s>ati</s> , in comp ; <cf/> <s>an-ati-</s> , not very or much , not too
+103161	H2	nagnI	nagnI	icf	OK ~na
+103227	H2	naq	naq	icf	MAYBE in comp and word-formation for <s>naqa</s>
+103712	H2	naBaH	naBaH	icf	OK ~Bas
+103739	H2	naBaS	naBaS	icf	OK ~Bas
+103784	H2	naBo	naBo	icf	OK ~Bas
+103874	H2	namo	namo	icf	OK ~mas
+104224	H2	narI	narI	icf	OK ~ra
+104323	H2	narma	narma	icf	OK ~man
+104582	H2	navI	navI	icf	MAYBE in comp for 1 <s>nava</s>
+105217	H2	nAgI	nAgI	icf	PROBABLE in comp for <s>nAga</s> <root/>
+105607	H2	nAndi	nAndi	icf	MAYBE for <s>~ndI</s> in comp
+105726	H2	nAma	nAma	icf	PROBABLE in comp for <s>nAman</s> <qv/> sometimes ifc as in <s>satya-</s> <qv/>
+106494	H3	niHsvIkfta	niH-svI-kfta	icf	PROBABLE <lex>mfn </lex> <s>svI</s> in comp for <s>-sva</s> deprived of one's property , impoverished
+107820	H2	nikawI	nikawI	icf	OK nikawa
+108852	H1	nibiqa	ni-biqa	icf	MAYBE <lex>mf<s>A</s>n </lex> or <s>ni-viqa</s> prob fr <s>biqa</s> <eq/> <s>bila</s> , a hole ; <cf/> <s>ni-Kila</s> without spaces or interstices , close , compact , thick , dense , firm   <etc1/> full of abounding in instr or comp   v l for <s>ni-cita</s>
+108993	H2	nimittI	nimittI	icf	MAYBE for <s>~tta</s> in comp
+110072	H1	nirvft	nir-vft	icf	MAYBE <vlex>A1 </vlex> <s>-vartate</s> <vlex>P </vlex> only in fut <s>-vartsyAmi</s> , <to/>to cause to roll out or cast as dice  ; fut <s>-vartsyati</s> and cond <s>-avartsyat</s> , <to/>to take place , happen  , <to/>to come forth , originate , develop , become   <etc/> <msc/> <to/>to be accomplished or effected or finished , come off <msc/> take place <cf/> above    <etc/> <msc/> often w r for <s>ni-vft</s> <qv/>: Caus <s>-vartayati</s> ind p <s>-vartya</s> ; Pass <s>-vartyate</s> , <to/>to cause to come forth , bring out , turn out , do away with , remove   <msc/> <to/>to bring about , complete , finish , perform , make , produce , create  <etcetc/> <msc/> <to/>to gladden , satisfy <s>a-nirvartya</s> v l for <s>a-nirvftya</s>
+110355	H1	nivft	ni-vft	icf	MAYBE <vlex>A1 </vlex> <s>-vartate</s> ind p <s>-vftya</s>  ; infin <s>-vartitum</s>  ; rarely <vlex>P </vlex> e g Pot <s>-vartet</s>   ; impf or subj <s>-vartat</s>  ; pf <s>-vAvftur</s>  ; fut <s>-vartizyati</s>  ; <s>-vartsyan</s>  ; aor <s>-avftat</s>  , <to/>to turn back , stop trans and intrans  <etc/> <msc/> <to/>to return from abl to acc with or without <s>prati</s> , or dat <msc/> <to/>to return into life , revive , be born again   <etc/> <msc/> <to/>to turn away , retreat , flee , escape , abstain or desist from , get rid of abl  <msc/> <to/>to fall back , rebound  <msc/> <to/>to leave off <s>sAmi</s> , in the midst or when anything is half finished , cease , end , disappear , vanish    <etc/> <msc/> <to/>to be withheld from , not belong to abl <msc/> <to/>to be omitted , not to occur    <msc/> <to/>to be ineffective or useless   <msc/> <to/>to be wanting , not to exist <s>yato vAco nivartante</s> , for which there are no words  <msc/> <to/>to pass over to loc  <msc/> <to/>to be turned upon loc or <s>tatra</s>  : Caus <s>-vartayati</s> , <s>~te</s> <vlex>A1 </vlex> Pot <s>-vartayIta</s>  ; Pass <s>-vartyate</s>  , <to/>to turn downwards , let sink the head  <msc/> <to/>to turn back i e shorten the hair  <msc/> <to/>to lead or bring back , reconduct , return  <etcetc/> <msc/> <to/>to turn away , avert or keep back from abl   <etc/> <msc/> <to/>to give up , abandon , suppress , withhold , refuse , deny <msc/> <to/>to annul , remove , destroy     <msc/> <to/>to bring to an end i e perform , accomplish a sacrifice <etc1/>   <msc/> <to/>to procure , bestow   <msc/> <to/>to desist from abl
+110457	H1	niS	niS	icf	MAYBE for <s>nis</s> , in comp <see/> <pcol>p 542 , col 3</pcol>
+110651	H1	niz	niz	icf	MAYBE for <s>nis</s> in comp <see/> <pcol>p 542 , col 3</pcol>
+111348	H2	nIcEH	nIcEH	icf	OK ~cEs
+111353	H2	nIcEr	nIcEr	icf	OK ~cEs
+112407	H1	nEH	nEH	icf	MAYBE <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>niH</s> for <s>nis</s> in comp
+112417	H2	nEr	nEr	icf	MAYBE <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>nir</s> for <s>nis</s> in comp
+112477	H2	nES	nES	icf	MAYBE <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>niS</s> for <s>nis</s> in comp
+112481	H2	nEz	nEz	icf	MAYBE <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>niz</s> for <s>nis</s> in comp
+112648	H2	nAv	nAv	icf	MAYBE in comp for 2 <s>nO</s> before vowels
+112687	H2	nyak	nyak	icf	MAYBE in comp for 2 <s>ny-aYc</s> below
+112699	H2	nyag	nyag	icf	MAYBE in comp for 2 <s>ny-aYc</s>
+113022	H2	nyUnI	nyUnI	icf	OK nyUna
+113220	H2	pakzi	pakzi	icf	OK ~kzin
+113263	H2	pakzma	pakzma	icf	PROBABLE in comp for <s>~man</s> ,
+113390	H2	paNktI	paNktI	icf	MAYBE for <s>paNkti</s> in comp
+113536	H1	paYca	paYca	icf	PROBABLE in comp for <s>paYcan</s> <see/> p 578
+113672	H3	paYcadaSa	paYca-daSa	icf	MAYBE for <s>~San</s> in comp
+113977	H3	paYcasapta	paYca-sapta	icf	PROBABLE in comp for <s>~ptan</s> ,
+114201	H2	paYcASac	paYcASac	icf	OK ~Sat
+114212	H2	paYcASad	paYcASad	icf	OK ~Sat
+114222	H2	paYcI	paYcI	icf	PROBABLE in comp for <s>~ca</s> <eq/> <s>~can</s>
+114545	H1	paq	paq	icf	PROBABLE in comp for <s>pad</s> , or <s>pal</s> <qv/>
+114563	H3	paRakriyA	paRa-kriyA	icf	MAYBE <lex>f </lex> putting in a stake , play or contest for comp
+114659	H2	paRqita	paRqita	icf	MAYBE <lex>mfn </lex> according to some , for <s>spandita</s> learned , wise , shrewd , clever , skilful in , conversant with loc or comp ; <cf/>     <etc/>
+114755	H2	patatri	patatri	icf	OK ~trin
+114766	H2	patad	patad	icf	OK ~tat
+115117	H2	paTi	paTi	icf	MAYBE for <s>paTin</s> in comp
+115171	H2	pac	pac	icf	MAYBE in comp for 3 <s>pad</s>
+115175	H2	paj	paj	icf	MAYBE in comp for 3 <s>pad</s>
+115177	H2	pat	pat	icf	MAYBE in comp for 3 <s>pad</s>
+115892	H1	paya	paya	icf	OK ~yas
+115897	H2	payaH	payaH	icf	OK ~yas
+115909	H2	payaS	payaS	icf	OK ~yas
+115951	H2	payo	payo	icf	OK ~yas
+116437	H2	para	para	icf	OK ~ras
+116441	H2	paraH	paraH	icf	OK ~ras
+116640	H2	paraS	paraS	icf	OK ~ras
+116675	H2	parA	parA	icf	MAYBE for 2 <see/> col 2 <lex>f </lex> of <s>para</s> in comp
+116695	H2	pare	pare	icf	MAYBE for 2 <see/> <pcol>p 606 , col 1</pcol> loc of <s>para</s> in comp
+116700	H2	paro	paro	icf	OK ~ras
+116807	H2	parAk	parAk	icf	OK ~rAYc
+116812	H2	parAg	parAg	icf	OK ~rAYc
+116815	H2	parAN	parAN	icf	MAYBE in comp for , <s>~rAYc</s>
+117094	H1	parikxp	pari-kxp	icf	MAYBE Caus <s>-kalpayati</s> Pass <s>-kalpyate</s> , to fix , settle , determine , destine for with acc , <s>arTam</s> ifc , loc or an inf with pass sense    <etc/> <msc/> <to/>to choose  <msc/> <to/>to perform , execute , accomplish , contrive , arrange , make    <msc/> <to/>to distribute , divide with an adv in <s>DA</s>    <msc/> <to/>to admit or invite to loc  <msc/> <to/>to suppose , presuppose
+117120	H1	parikrI	pari-krI	icf	MAYBE <vlex>A1 </vlex> <s>-krIRIte</s>  ; really more frequent in <vlex>P </vlex> e g impf <s>-akrIRam</s>  ; Pot <s>-krIRIyAt</s>  ; ind p <s>-krIya</s>  , <to/>to purchase , buy , barter , gain , acquire     with instr or dat of the price e g <s>Satena</s> , or <s>SatAya</s> , to buy for a hundred  <msc/> <to/>to hire , engage for stipulated wages   <msc/> <to/>to recompense , reward only p <vlex>A1 </vlex> <s>-krIRAna</s>
+119207	H1	parI	parI	icf	OK pari
+119411	H2	paruzI	paruzI	icf	OK ~za
+119924	H2	parva	parva	icf	OK ~van
+120488	H2	pavitrI	pavitrI	icf	PROBABLE <lex>ind </lex> in comp for <s>~tra</s>
+120516	H1	paS	paS	icf	MAYBE <vlex type="root"></vlex> only Pres <vlex>P A1 </vlex> <s>p/aSyati</s> , <s>~te</s> <cf/> <root/> <s>dfS</s> and  , <to/>to see with <s>na</s> <quote> to be blind </quote> , behold , look at , observe , perceive , notice  <etcetc/> <msc/> <to/>to be a spectator , look on esp p e g <s>tasya paSyataH</s> , while he looks on , before his eyes  ; <s>paSyantI tizWati</s> , she stands ind p looks on  <msc/> <to/>to see a person either <quote> visit </quote> or <quote> receive as a visitor </quote>   <etc/> <msc/> <to/>to live to see , experience , partake of undergo , incur   <etc/> <msc/> <to/>to learn , find out  <msc/> <to/>to regard or consider as , take for acc with acc or adv in <s>vat</s>  <msc/> <to/>to see with the spiritual eye , compose , invent hymns , rites <etc1/>    <msc/> also with <s>sADu</s> to have insight or discernment   <etc/> <msc/> <to/>to consider , think over , examine  <msc/> <to/>to foresee  <msc/> <s>paSyAmi</s> , <quote> I <see/> or l am convinced </quote> , and <s>paSya</s> , <s>~Syata</s> , <quote> see , behold , look here! </quote> often employed parenthetically or interjectionally   <b>Orig identical with <root/> <s>spaS</s> , <qv/></b>
+120679	H2	paSv	paSv	icf	PROBABLE in comp for <s>paSu</s> before vowels
+120706	H2	paScAc	paScAc	icf	OK ~cAt
+120726	H2	paScAd	paScAd	icf	OK ~cAt
+120742	H2	paScAn	paScAn	icf	OK ~cAt
+120746	H2	paScAl	paScAl	icf	OK ~cAt
+120802	H2A	pAtra	pAtra	icf	MAYBE <lex type="inh">n </lex> met a capable or competent person , an adept in , master of gen , any one worthy of or fit for or abounding in gen loc , inf or comp   <etc/>
+120856	H2	pAtrI	pAtrI	icf	PROBABLE <lex>ind </lex> in comp for <s>~tra</s>
+121513	H2	pARI	pARI	icf	MAYBE in comp for 2 <s>pARi</s>
+121517	H2	pARy	pARy	icf	MAYBE in comp for 2 <s>pARi</s> before vowels
+121709	H2	pARqv	pARqv	icf	PROBABLE in comp for <s>pARqu</s> before vowels
+121851	H2	pATo	pATo	icf	OK ~Tas
+122331	H2	pAma	pAma	icf	OK ~man
+122432	H3B	pAramitA	pAra-m-itA	icf	MAYBE <lex type="inh">mfn </lex> <lex>f </lex> for <s>~ta-tA</s>? coming or leading to the <abE>opp</abE>oppositive <abE>sh</abE>shore , complete attainment , perfection in comp
+122499	H1	pAra	pAra	icf	MAYBE for 1 <see/> p 619 , <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>para</s> in comp
+122817	H2	pAry	pAry	icf	PROBABLE in comp for <s>pAri</s> before vowels
+123953	H2	piRqI	piRqI	icf	PROBABLE <lex>ind </lex> in comp for <s>piRqa</s>
+124175	H2	pitr	pitr	icf	PROBABLE in comp for <s>pitf</s> before vowels
+124291	H2	pinAki	pinAki	icf	OK ~kin
+125035	H2	puM	puM	icf	MAYBE in comp for 2 <s>puMs</s>
+125095	H2	puMS	puMS	icf	MAYBE in comp for 2 <s>puMs</s> <cf/>
+125104	H2	puMsa	puMsa	icf	MAYBE in comp for 2 <s>puMs</s>
+125111	H2	pum	pum	icf	MAYBE in comp for 2 <s>puMs</s>
+125186	H2	puYjI	puYjI	icf	OK puYja
+125631	H2	putrI	putrI	icf	PROBABLE in comp for <s>putra</s> ,
+125805	H2	punaH	punaH	icf	OK punar
+125842	H2	punaS	punaS	icf	OK punar
+125847	H2	punas	punas	icf	OK punar
+125850	H2	punA	punA	icf	OK punar
+125868	H2	pura	pura	icf	PROBABLE for 2 <see/> p 635 , in comp for <s>puras</s>
+125875	H2	puraH	puraH	icf	OK puras
+125892	H2	puraS	puraS	icf	OK puras
+125924	H2	purastAj	purastAj	icf	OK ~tAt
+125939	H2	purastAd	purastAd	icf	OK ~tAt
+125955	H2	purastAn	purastAn	icf	OK ~tAt
+125957	H2	purastAl	purastAl	icf	OK ~tAt
+126037	H2	puro	puro	icf	OK puras
+126231	H2	pUr	pUr	icf	MAYBE in comp for 3 <s>pur</s> before cons
+126425	H2	purU	purU	icf	OK ~ru
+126739	H2	puloma	puloma	icf	OK ~man
+127307	H1	pU	pU	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 9 P A1 </vlex>  <s>pun/Ati</s> , <s>punIt/e</s> 3 pl <vlex>A1 </vlex> <s>pun/ate</s>  , <s>punat/e</s>  ; 2 sg Impv <vlex>P </vlex> <s>punIhi</s>  <etc/> , <s>punAh/i</s>  <msc/> <vlex>cl 1 A1 </vlex>  <s>p/avate</s> of <vlex>P </vlex> only Impv <s>-pava</s>  , and p gen pl <s>pavatAm</s>  ; p <vlex>A1 </vlex> <s>punAn/a</s> below , <s>p/avamAna</s> <see/> <pcol>p 610 , col 3</pcol> ; 1 sg <vlex>A1 </vlex> <s>punIze</s>  ; pf <s>pupuvuh</s> <s>~ve</s>  ; <s>apupot</s>  ; aor <s>apAvizuH</s> Subj <s>apavizwa</s>  ; fut <s>pavizyati</s> , <s>pavitA</s> Gr ; ind p <s>pUtv/A</s>  ; <s>pUtv/I</s>  ; <s>pavitvA</s> Gr ; <s>-p/Uya</s> and <s>-pAvam</s>  <etc/> ; inf <s>pavitum</s>  , <to/>to make clean or clear or pure or bright , cleanse , purify , purge , clarify , illustrate , illume with <s>s/aktum</s> , <quote> to cleanse from chaff , winnow </quote> ; with <s>kr/atum</s> or <s>manIz/Am</s> , <quote> to enlighten the understanding </quote> ; with <s>hiraRyam</s> , <quote> to wash gold </quote>  <etcetc/> <msc/> met <to/>to sift , discriminate , discern <msc/> <to/>to think of or out , invent , compose as a hymn   <msc/> <vlex>A1 </vlex> <s>p/avate</s> <to/>to purify one's self be or become clear or bright <msc/> esp <to/>to flow off clearly said of the <as0>Soma</as0><as1><s>soma</s></as1>  <msc/> <to/>to expiate , atone for  <msc/> <to/>to pass so as to purify <msc/> <to/>to purify in passing or pervading , ventilate  <etc/> cf <root/> <s>pav</s>: Pass <s>pUy/ate</s> , to be cleaned or washed or purified <msc/> <to/>to be freed or delivered from abl   <etc1/>: Caus <s>pav/ayati</s> or <s>pAvayati</s> ep also <s>~te</s> ; aor <s>apIpavat</s> Gr ; Pass <s>pAvyate</s>  , <to/>to cleanse , purify    : Desid , <s>pupUzati</s> , <s>pipavizate</s> Gr : Desid of Caus <s>pipAvayizati</s> Gr <b>cf Gk <gk>1</gk> ; Umbr <etym>pir</etym> ; Germ <etym>Feuer</etym> ; Eng <etym>fire</etym> </b>
+128281	H2	pUza	pUza	icf	OK ~zan
+128291	H2	pUzaR	pUzaR	icf	OK ~zan
+128412	H2	pfTag	pfTag	icf	OK ~Tak
+128453	H2	pfTaN	pfTaN	icf	OK ~Tak
+128519	H2	pfTivy	pfTivy	icf	PROBABLE in comp for <s>~vI</s> before vowels
+128756	H2	pfza	pfza	icf	OK ~zat
+128784	H2	pfzad	pfzad	icf	OK ~zat
+129316	H2	potri	potri	icf	OK ~trin
+130443	H2	praguRI	pra-guRI	icf	OK ~guRa
+130749	H2	pracurI	pracurI	icf	OK ~ra
+131398.64	H1A	prati	prati	icf	MAYBE <lex type="inh">ind </lex> or as prep with abl in return or as compensation for , instead or in the place of
+131604	H3	pratipApa	prati-pApa	icf	MAYBE <lex>mfn </lex> wicked or evil in return , recompensing evil for evil
+131935	H2	praty	praty	icf	MAYBE in comp before vowels for <s>prati</s> above
+132505	H1	pratipad	prati-pad	icf	MAYBE <vlex>A1 </vlex> <s>-padyate</s> ep fut also <s>-patsyati</s> , <to/>to set foot upon , enter , go or resort to , arrive at , reach , attain  <etcetc/> <msc/> <to/>to walk , wander , roam  <msc/> <to/>to come back to acc , return  <msc/> <to/>to happen , occur , take place   <msc/> <to/>to get into acc , meet , with , find , obtain , receive , take in or upon one's self  <etcetc/> <msc/> <to/>to receive back , recover   <msc/> <to/>to restore to favour  <msc/> <to/>to undertake , begin acc dat or inf , practise , perform , accomplish    <etc/> <msc/> <to/>to do anything to any person , act or proceed or behave towards or against loc gen or acc    <msc/> <to/>to make , render  <msc/> <to/>to fall to a person's acc lot or share ,  <msc/> <to/>to let a person dat have anything  <msc/> <to/>to give back , restore  <msc/> <to/>to perceive , find out , discover , become aware of or acquainted with , understand , learn   <etc/> <msc/> <to/>to deem , consider , regard   <msc/> <to/>to answer affirmatively say yes with or scil <s>taTA</s> , or <s>taTe<srs/>ti</s> , acknowledge , assent , agree , promise   <etc/> <msc/> <to/>to begin to speak , commence with acc or instr   <msc/> <to/>to answer  also with <s>uttaram</s>  : Caus <s>-pAdayati</s> , <to/>to convey or lead to , procure , cause to partake of 2 acc give a present to , bestow on loc dat or gen    <etc/> <msc/> <to/>to give in marriage  <msc/> <to/>to spend  <msc/> <to/>to present with instr  <msc/> <to/>to put in , appoint to loc  <msc/> <to/>to produce , cause , effect   <etc/> <msc/> <to/>to establish , substantiate , prove , set forth , explain , teach , impart   <etc/> <msc/> <to/>to deem , consider , regard as 2 acc  v l <s>-vadasi</s> for <s>-pAdayasi</s>: Desid <s>-pitsate</s>  , to wish to attain  <msc/> <to/>to wish to know  : Desid of Caus <s>-pipAdayizati</s> , <to/>to wish or intend to explain or analyze
+133559	H1	pratI	pratI	icf	PROBABLE in comp for <s>prati</s> <cf/>  Va1rtt 3
+133865	H2	pratyakzI	pratyakzI	icf	OK ~kza
+133929	H2	pratyak	pratyak	icf	OK ~tyaYc
+133952	H2	pratyag	pratyag	icf	OK ~tyaYc
+133977	H2	pratyaN	pratyaN	icf	OK ~tyaYc
+133982	H1	pratyad	praty-ad	icf	MAYBE <vlex>P </vlex> <s>-atti</s> , <to/>to eat in return or in compensation for anything
+134290	H2A	pratyAhAra	praty-AhAra	icf	MAYBE <lex type="inh">m </lex> in gram the comprehension of a series of letters or roots <etc1/> into one syllable by combining for shortness the first member with the <as0>Anubandha</as0><as1><s>anubanDa</s></as1> s v of the last member
+135311	H2	prabalI	prabalI	icf	OK ~bala
+135876	H2	pramARI	pramARI	icf	OK ~Ra
+136273	H1	prayuj	pra-yuj	icf	MAYBE <vlex>A1 </vlex> <s>-yuNkte</s> rarely <vlex>P </vlex> <s>-yunakti</s> ; <cf/>  , <to/>to yoke or join or harness to loc  <msc/> <to/>to unite with instr  <msc/> <to/>to turn the mind to loc  <msc/> <to/>to prepare for dat  <msc/> <to/>to set in motion , throw , cast also dice , discharge , hurl at loc or dat   <etc/> <msc/> <to/>to utter , pronounce , speak , recite  <msc/> <to/>to fix , place in or on loc  <msc/> <to/>to direct , order , urge to dat or loc   <etc/> <msc/> <to/>to choose for two acc  <msc/> <to/>to lead towards , bring into acc  <msc/> <to/>to use , employ , practise , display , exhibit , perform , accomplish , contrive , do  <etcetc/> <msc/> <to/>to undertake , commence , begin   <msc/> <to/>to cause , effect , produce    <msc/> <to/>to represent on the stage , act   <msc/> <to/>to lend for use or interest   : Pass <s>-yujyate</s> , <to/>to be fit or suitable , conduce to dat   : Caus <s>-yojayati</s> , <to/>to throw , discharge , hurl at or against loc  <msc/> <to/>to utter , pronounce  <msc/> <to/>to show , display , exhibit  <msc/> with <s>manas</s> <to/>to concentrate the mind  <msc/> <to/>to urge , direct , appoint to loc   <msc/> <to/>to transfer or entrust to dat  <msc/> <to/>to undertake , begin  <msc/> <to/>to represent on the stage   <msc/> <to/>to cause to be represented by instr  <msc/> <to/>to use , employ    <etc/> <msc/> <to/>to perform , practise  <msc/> with <s>vfdDim</s> <to/>to take interest  <msc/> with <s>prayogam</s> <to/>to invest capital  <msc/> <to/>to be applicable g <s>kzuBnA<srs/>di</s> <msc/> <to/>to aim at , have in view : Desid <s>-yuyukzate</s> , <to/>to wish to use , want , require
+136735	H2	pravad	pravad	icf	OK ~vat
+137215	H1	pravft	pra-vft	icf	MAYBE <vlex>A1 </vlex> <s>-vartate</s> , ep also <vlex>P </vlex> <s>~ti</s> , <to/>to roll or go onwards as a carriage , be set in motion or going   <etc/> <msc/> <to/>to set out , depart , betake one's self   <etc/> <msc/> <to/>to proceed <s>vartmanA</s> , or <s>~ni</s> , on a path ; <s>apaTena</s> , on a wrong path   <msc/> <to/>to come forth , issue , originate , arise , be produced , result , occur , happen , take place    <etc/> <msc/> <to/>to commence , begin to inf , set about , engage in , be intent upon or occupied with dat loc , or <s>arTam</s> ifc   <etc/> <msc/> <to/>to proceed against , do injury to loc    Page693,3 <msc/> <to/>to debauch <s>anyo 'nyam</s> , <quote> one another </quote>  <msc/> <to/>to act or proceed according to or with instr or abl   <etc/> <msc/> <to/>to behave or conduct one's self towards , deal with loc  <msc/> <to/>to hold good , prevail  <msc/> <to/>to continue , keep on pr p   <msc/> <to/>to be , exist  <msc/> <to/>to serve for , conduce to dat , or <s>arTam</s> ifc  <msc/> <to/>to mean , be used in the sense of loc  <msc/> <to/>to let any one gen have anything acc  : Caus <s>-vartayati</s> , <to/>to cause to turn or roll , set in motion  <etcetc/> <msc/> <to/>to throw , hurl , Pour forth   <msc/> <to/>to send  <msc/> <to/>to set on foot , circulate , diffuse , divulge   <etc/> <msc/> <to/>to introduce , appoint , instal  <msc/> <to/>to produce , create , accomplish , devise , invent , perform , do , make  with <s>setum</s> <to/>to erect a dam ; with <s>vyayakarma</s> , <to/>to effect expenditure ; with <s>loka-yAtrAm</s> , <to/>to transact the business of life ; with <s>kaTAm</s> , <to/>to relate a story <msc/> <to/>to exhibit , show , display   <msc/> <to/>to undertake , begin   <etc/> <msc/> <to/>to use , employ  <msc/> <to/>to induce any one to do anything , betray into loc  <msc/> <to/>to proceed against loc
+137571	H2	praSiTilI	praSiTilI	icf	OK ~la
+137771	H2	prasaNga	pra-saNga	icf	MAYBE <lex>m </lex> adherence , attachment , inclination or devotion to , indulgence in , fondness for , gratification of , occupation or intercourse with loc gen or comp   <etc/> <phw><dL>637771</dL><s>~gena</s> <lex type="phw">ind </lex></phw> assiduously , zealously , eagerly ; <cf/> also below
+138752	H2	prahvI	prahvI	icf	OK pra-hva
+139216	H2	prAk	prAk	icf	OK prAYc
+139270	H2	prAg	prAg	icf	OK prAYc
+139379	H2	prAN	prAN	icf	OK prAYc
+139751	H2	prARi	prA@Ri	icf	OK prA<srs/>Rin
+139840	H2	prAtaS	prAtaS	icf	OK prAtar
+139843	H2	prAtas	prAtas	icf	OK prAtar
+139852	H1	prAti	prAti	icf	MAYBE for 1 <see/> under <root/> <s>prA</s> , <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> or lengthened form of 1 <s>prati</s> in comp In the following derivatives formed with 2 <s>prAti</s> only the second member of the simple compound from which they come is given in the parentheses leaving the preposition <s>prati</s> , which is lengthened to <s>prAti</s> in the derivatives , to be supplied
+139933	H2	prAty	prAty	icf	PROBABLE in comp for <s>prAti</s> before vowels
+139958	H2	prAduz	prAduz	icf	PROBABLE in comp for <s>prAdur</s> <cf/> above
+140157	H2	prAyaS	prA@yaS	icf	MAYBE in comp for 1 <s>prA<srs/>yas</s>
+140184	H2	prAyo	prA@yo	icf	MAYBE in comp for 1 <s>prA<srs/>yas</s>
+140300	H2	prAvfw	prAvfw	icf	OK prAvfz
+140303	H2	prAvfq	prAvfq	icf	OK prAvfz
+140305	H2	prAvfR	prAvfR	icf	OK prAvfz
+140791	H2	prema	prema	icf	OK prem/an
+140833	H2	premA	premA	icf	OK prem/an
+140937	H3	pretaloka	pre@ta-loka	icf	MAYBE <lex>m </lex> the world of the dead in which they remain for one year or until the <as0>S3ra1ddha</as0><as1><s>SrAdDa</s></as1> ceremonies are completed
+141453	H2	plIha	plIha	icf	OK plIhan
+141653	H2	PaRi	PaRi	icf	OK PaRin
+142006	H2	PalI	PalI	icf	OK Pala
+142489	H2	bandi	bandi	icf	OK ~din
+142497	H2	bandi	bandi	icf	OK ~din
+142815	H2	banDU	banDU	icf	OK ~Du
+142986	H2	barhi	barhi	icf	OK ~hin
+143000	H2	barhi	barhi	icf	PROBABLE in comp for <s>~his</s> mc also <lex type="hwalt">n </lex> <eq/> <s>barhis</s>
+143005	H2	barhiH	barhiH	icf	OK ~his
+143023	H2	barhir	barhir	icf	OK ~his
+143028	H2	barhiz	barhiz	icf	OK ~his
+144028	H2	bahulI	bahulI	icf	OK bahula
+144042	H2	bahv	bahv	icf	OK bahu
+144091	H2	bahiH	bahiH	icf	OK bah/is
+144104	H2	bahir	bahir	icf	OK bah/is
+144179	H2	bahiS	bahiS	icf	OK bahis
+144184	H2	bahiz	bahiz	icf	OK bahis
+144217	H2	bahI	bahI	icf	MAYBE in comp before <s>r</s> for <s>bahis</s>
+144449	H2	bArhad	bArhad	icf	OK bArhat
+145013	H2	bAhv	bAhv	icf	MAYBE in comp for <hom>1</hom> <s>bAhu</s>
+145018	H1	bAhu	bAhu	icf	MAYBE for 1 <see/> col 2 , <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form of <s>bahu</s> in comp = <as0>ki1t2a</as0><as1><s>kIwa</s></as1> <lex>mfn </lex> g <s>palady-Adi</s>
+146055	H2	bfhac	bfhac	icf	OK bfhat
+146078	H2	bfhaj	bfhaj	icf	OK bfh/at
+146091	H2	bfhaw	bfhaw	icf	OK bfh/at
+146094	H2	bfhaq	bfhaq	icf	OK brih/at
+146224	H2	bfhad	bfhad	icf	OK bfh/at
+146357	H2	bfhan	bfhan	icf	OK brih/at
+146392	H2	bfhal	bfhal	icf	PROBABLE in comp for <s>bfh/at</s> ,
+146575	H2	brahma	brahma	icf	PROBABLE in comp for <s>brahman</s> - Observe that in the following derivatives the nom <lex type="hwinfo">n </lex> <as0>Brahma8</as0><as1><s>brahma<shc/></s></as1> is used for the impersonal Spirit and the nom <lex type="hwinfo">m </lex> <as0>Brahma1</as0><as1><s>brahmA</s></as1> for the personal god
+147275	H2	brahmI	brahmI	icf	PROBABLE in comp for <s>~ma</s> or <s>~man</s>
+147279	H2	brAhma	brAhma	icf	MAYBE <lex>mf<s>I</s>n </lex> fr <s>brahman</s> , for which it is also the <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form in comp relating to <as0>Brahma8</as0><as1><s>brahma<shc/></s></as1> or <as0>Brahma1</as0><as1><s>brahmA</s></as1> , holy , sacred , divine  <etcetc/>
+147429	H2	brAhmaRi	brAhmaRi	icf	OK ~RI
+147804	H2	Bagavac	Bagavac	icf	OK ~vat
+147844	H2	Bagavad	Bagavad	icf	OK ~vat
+147872	H2	Bagavan	Bagavan	icf	OK ~vat
+147880	H2	Bagaval	Bagaval	icf	OK ~vat
+148777	H2	Barad	Barad	icf	OK ~rat
+149114	H2	Bavad	Bavad	icf	OK Bavat
+149128	H2	Bavan	Bavan	icf	OK Bavat
+149156	H2	BavA	BavA	icf	MAYBE in comp before <s>d</s> for <s>Bavat</s>
+149234	H2	Bavizyad	Bavizyad	icf	OK ~zyat
+149316	H2	Basma	Basma	icf	OK Basman
+149405	H2	BasmI	BasmI	icf	OK Basman
+149648	H2	BAgin	BAgin	icf	MAYBE <lex>mfn </lex> entitled to or receiving or possessing a share , partaking of , blessed with , concerned in , responsible for loc , gen or comp
+150397	H2	BAvi	BAvi	icf	OK BAvin
+150929	H2	Bizak	Bizak	icf	MAYBE in comp for 2 <s>Bizaj</s>
+150937	H2	Bizag	Bizag	icf	MAYBE in comp for 2 <s>Bizaj</s>
+150944	H2	BizaN	BizaN	icf	MAYBE in comp for 2 <s>Bizaj</s>
+151469	H2	Buvad	Buvad	icf	PROBABLE in comp for <s>~vat</s> prob an old pr p of <root/> <s>BU</s>
+152267	H2	BUmI	BUmI	icf	PROBABLE , in comp for <s>BUmi</s>
+152277	H2	BUmy	BUmy	icf	OK BUmi
+152291	H2	BUyaH	BUyaH	icf	OK BUyas
+152295	H2	BUyaS	BUyaS	icf	OK BUyas
+152325	H2	BUyo	BUyo	icf	OK BUyas
+152437	H2	BUry	BUry	icf	OK BUri
+152624	H2	Bfgv	Bfgv	icf	OK Bfgu
+153096	H2	Bogi	Bogi	icf	MAYBE in comp for 1 <s>Bogin</s>
+153354	H2	Bo	Bo	icf	OK Bos
+153358	H2	BoH	BoH	icf	OK Bos
+153803	H2	Bf	Bf	icf	PROBABLE 1 <see/> <pcol>p 764 , col 3</pcol> , in comp for <s>BrU</s>
+153817	H2	Bra	Bra	icf	PROBABLE in comp for <s>BrU</s> <cf/>  Va1rtt 3
+153823	H2	Bru	Bru	icf	PROBABLE in comp for <s>BrU</s> <cf/>  Va1rtt 3
+154358	H2	majja	majja	icf	OK majjan
+154995	H2	maRqalI	maRqalI	icf	OK maRqala
+155258	H2	mac	mac	icf	MAYBE in comp for 1 <s>mad</s>
+155261	H2	mat	mat	icf	MAYBE in comp for 1 <s>mad</s>
+155285	H2	man	man	icf	MAYBE in comp for 1 <s>mad</s>
+156319	H2	maDv	maDv	icf	OK maDu
+156526	H4	maDyamapadalopa	maDyama-pada-lopa	icf	MAYBE <lex>m </lex> the omission of the middle member of a compound as in , <s>SAka-pArTiva</s> , the king of the era , for <s>sAkapriya-pArTiva</s> , the king dear to the era
+156626	H1	man	man	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 8 4 </vlex> <vlex>A1 </vlex>  <s>manut/e</s> , <s>m/anyate</s> ep also <s>~ti</s> ; 3 pl <s>manvat/e</s>  ; pf <s>mene</s>  <etc/> ; <s>mamn/ATe</s>,<s>~n/Ats</s>  ; aor <s>/amata</s> , <s>/amanmahi</s> Subj <s>manAmahe</s> , <s>mananta</s> , p <s>manAn/a</s> <qv/>  ; <s>maMsi</s>,<s>amaMsta</s> Subj <s>maMsate</s> Prec <s>maMsIzwa</s> , 1 pers mc <s>masIya</s>  ; <s>mAMsta</s>  , <s>~stAdm</s>  ; <s>manDvam</s>  ; <s>amanizwa</s> Gr ; fut <s>maMsyate</s>  , <s>~ti</s>  ; <s>manta</s>,<s>manitA</s> Gr ; <s>manizyate</s>  ; inf <s>mantum</s>  <etc/> , <s>m/antave</s> , <s>~tavE</s>  , <s>m/antos</s>  ; ind p <s>matv/A</s>  <etc/> ; <s>manitvA</s> Gr ; <s>-matya</s>  <etc/> ; <s>-manya</s>  <etc/> , <to/>to think , believe , imagine , suppose , conjecture  <etcetc/> <s>manye</s> , I think , methinks , is in later language often inserted in a sentence without affecting the construction ; cf g <s>cA<srs/>di</s> and  <msc/> <to/>to regard or consider any one or anything acc as acc with or without <s>iva</s> , or adv , often in <s>-vat</s> ; in later language also dat , <to/>to express contempt <b>cf </b> , e g g <s>rAjyaM tfRaya</s> <s>manye</s> , <quote> I value empire at a straw </quote> i e I make light of it <eq/> <s>laGu</s> <root/> <s>man</s> , and opp to <s>bahu</s> , or <s>sADu</s> <root/> <s>man</s> , to think much or well of , praise , approve  <msc/> <to/>to think one's self or be thought to be , appear as , pass for nom ; also with <s>iva</s>  <msc/> <to/>to be of opinion , think fit or right   <etc/> <msc/> <to/>to agree or be of the same opinion with acc  <msc/> <to/>to set the heart or mind on , honour , esteem with <s>nO</s> , disdain , hope or wish for acc or gen  <etcetc/> <msc/> <to/>to think of in prayer <etc1/> , either <quote> to remember , meditate on </quote> , or <quote> mention , declare </quote> , or <quote> excogitate , invent </quote>   <msc/> <to/>to perceive , observe , learn , know , understand , comprehend acc , Ved also gen  <etcetc/> <msc/> <to/>to offer , present  : Caus  <s>mAnayati</s> ep also <s>~te</s> ; aor <s>amImanat</s> ; Pass <s>mAnyate</s> , <to/>to honour , esteem , value highly also with <s>uru</s> , <s>bahu</s> and <s>sADu</s>  <etcetc/> <msc/> <vlex>A1 </vlex> <s>stamBe</s>  <msc/> <s>garvake</s>   : Desid  <s>mImAMsate</s> rarely <s>~ti</s> ; <s>amImAMsizWAs</s>  ; <s>mImAMsy/ate</s>  ; <s>mimaMsate</s>,<s>mimanizate</s> Gr , <to/>to reflect upon , consider , examine , investigate   <etc/> <msc/> <to/>to call in question , doubt <quote> with regard to </quote> loc  : Desid of Desid <s>mimAmizate</s> Gr : Intens <s>manmanyate</s>,<s>manmanti</s> <b>cf Zd <etym>man</etym> ; Gk <gk>1</gk> , <gk>2</gk> ,Lat <etym>meminisse</etym> , <etym>monere</etym> ; Slav and Lith <etym>mine4ti</etym> ; Goth <etym>ga-munan</etym> ; Germ , <etym>meinen</etym> ; Eng <etym>mean</etym> </b>
+156714	H2	mana	mana	icf	OK manas
+156722	H2	manaH	manaH	icf	OK manas
+156773	H2	manaS	manaS	icf	OK manas
+156797	H3	manasvi	manas-vi	icf	OK -vin
+156992	H2	mano	mano	icf	OK manas
+157453	H2	mantri	mantri	icf	OK mantrin
+157481	H2	manma	manma	icf	OK manman
+157510	H2	manv	manv	icf	OK manu
+157594	H2	manTi	manTi	icf	OK manT/in
+157885	H2	mandI	mandI	icf	OK manda
+157892	H2	mandu	mandu	icf	MAYBE for 1 <see/> <pcol>p 787 , col 3</pcol> prob <eq/> <s>mandurA</s> in comp
+158011	H2	mayo	mayo	icf	OK mayas
+158346	H2	marud	marud	icf	OK marut
+158374	H2	marun	marun	icf	OK marut
+158381	H2	marul	marul	icf	OK marut
+158447	H2	markawI	markawI	icf	OK markawa
+158524	H2	marma	marma	icf	OK marman
+158751	H2	malinI	malinI	icf	OK malina
+159055	H2	mazy	mazy	icf	OK mazI<shortlong/>
+159174	H2	maha	maha	icf	PROBABLE in comp for <s>mahA</s> before <s>f</s> and before <s>r</s> for <s>f</s>
+159191	H2	mahac	mahac	icf	OK mahat
+159245	H2	mahad	mahad	icf	OK mahat
+159292	H2	mahA	mahA	icf	PROBABLE in comp for <s>mahat</s> in  used for <s>mahat</s> as an independent word in acc sg <s>mah/Am</s> <eq/> <s>mahAntam</s>
+161416	H2	mahi	mahi	icf	OK mahI
+161420	H2	mahi	mahi	icf	MAYBE in comp for 2 <s>mahin</s>
+161436	H2	mahima	mahima	icf	OK mahiman
+161611	H2	mahI	mahI	icf	OK maha
+161697	H1	mA	mA	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 2 P </vlex>  <s>mAti</s> <msc/> <vlex>cl 3 A1 </vlex>  <s>m/imIte</s> <msc/> <vlex>cl 4 A1 </vlex>  <s>mAyate</s> Ved and ep also <s>mimAti</s> Pot <s>mimIyAt</s> Impv , <s>mimIhi</s> ; Pot <s>mimet</s>  ; pf <s>mam/O</s> , <s>mame</s> , <s>mamir/e</s>  ; aor <s>/amAsi</s> Subj <s>m/AsAtE</s>  ; <s>amAsIt</s> Gr ; Prec <s>mAsIzwa</s> , <s>meyAt</s>  ; fut <s>mAtA</s> ; <s>mAsyati</s>,<s>mAsyate</s>  ; inf <s>m/e</s> <s>-m/E</s>  ; <s>mAtum</s>  ; ind p <s>mitv/A</s> , <s>-m/Aya</s>  <etcetc/> , <to/>to measure , mete out , mark off  <etcetc/> <msc/> <to/>to measure across = traverse  <msc/> <to/>to measure by any standard , compare with instr  <msc/> <s>mAti</s> <to/>to correspond in measure either with gen , <quote> to be large or long enough for </quote>  ; or with loc , <quote> to find room or be contained in </quote>   ; or with <s>na</s> and instr , <quote> to be beside one's self with </quote>   <msc/> <to/>to measure out , apportion , grant  <msc/> <to/>to help any one acc to anything dat  <msc/> <to/>to prepare , arrange , fashion , form , build , make  <msc/> <to/>to show , display , exhibit <s>amimIta</s> , <quote> he displayed or developed himself </quote> ,   <msc/> in phil <to/>to infer , conclude <msc/> <to/>to pray <s>yAcYA-karmaRi</s>  : Pass <s>mIy/ate</s> aor <s>amAyi</s> <msc/> <to/>to be measured <etc1/>   Caus , <s>mApayati</s> , <s>~te</s> aor <s>amImapat</s>  Va1rtt 2  , <to/>to cause to be measured or built , measure , build , erect    <etc1/>: Desid <s>mitsati</s> , <s>~te</s>  cf <s>nir-<root/>mA</s>: Intens <s>memIyate</s> <b>cf Zd <etym>ma1</etym> ; Gk <gk>1</gk> , <gk>2</gk> ; Lat <etym>me1tior</etym> , <etym>mensus</etym> , <etym>mensura</etym> ; Slav <etym>me8ra</etym> ; Lith <etym>me3ra4</etym> </b>
+162375	H2	mAtuH	mAtuH	icf	OK mAtur
+162519	H2	mAdri	mAdri	icf	MAYBE <lex>m </lex> c for <s>mAdrI</s> in comp
+162804	H2	mAni	mAni	icf	MAYBE in comp for 1 <s>mAnin</s>
+163163	H2	mAyi	mAyi	icf	OK mAyin
+163365	H2A	mArga	mArga	icf	MAYBE <lex type="inh">m </lex> exceptionally also <lex type="hwalt">n </lex> ; ifc <lex type="hwifc">f<s>A</s> </lex> the track of a wild animal , any track , road , path , way to loc or comp or through comp , course also of the wind and the stars   <etc/> <s>mArgaM-<root/>dA</s> or <s>yam</s> , with gen of pers , to give up the way to , allow to pass ; <s>mAgeRa</s> ifc = by way of i e through , across or along ; with <root/> <s>yA</s> , <to/>to go the way of i e suffer the same fate as ; <s>mArgEs</s> ifc , through ; <s>mArgAya</s> , with gen , in order to make way for any one ; <s>mArge</s> , by the wayside or on the way ; with <s>pra-<root/>cal</s> , <to/>to set out on one's way ; <s>nijamArgaM-<root/>gam</s> , <to/>to go one's way
+164302	H2	mitrI	mitrI	icf	OK mitra
+164312	H2	miTa	miTa	icf	PROBABLE in comp for <s>miTaH</s> <eq/> <s>miTas</s>
+164314	H2	miTaH	miTaH	icf	OK miTas
+164338	H2	miTunI	miTunI	icf	OK miTuna
+164350	H2	miTo	miTo	icf	PROBABLE in comp for <s>miTas</s> <cf/> g <s>svar-Adi</s>
+164540	H2	miSrI	miSrI	icf	OK miSra
+164589	H2	mIQuz	mIQuz	icf	PROBABLE <OR/> in comp for <s>mIQv/as</s>
+164590	H3	mi|uz	mi|uz	icf	OK mIQv/as
+164826	H2	mukulI	mukulI	icf	OK mukula
+165681	H2	muny	muny	icf	OK muni
+165956	H2	muzwI	muzwI	icf	OK muzwi
+165959	H2	muzwy	muzwy	icf	OK muzwi
+166062	H2	muhuS	muhuS	icf	OK muhur
+166064	H2	muhus	muhus	icf	OK muhur
+166278	H2	mUrDa	mUrDa	icf	OK mUrDan
+166525	H2	mUlI	mUlI	icf	PROBABLE in comp for <s>mUla</s> ,
+167220	H2	mfc	mfc	icf	MAYBE in comp for 2 <s>mfd</s>
+167224	H2	mft	mft	icf	MAYBE in comp for 2 <s>mfd</s>
+167382	H2	mfdU	mfdU	icf	OK mfdu
+167387	H2	mfdv	mfdv	icf	PROBABLE in comp for <s>mfdu</s> <qv/>
+167393	H2	mfn	mfn	icf	OK mfd
+167399	H2	mfl	mfl	icf	OK mfd
+167806	H2	meda	meda	icf	OK medas
+167808	H2	medaH	medaH	icf	OK medas
+167815	H2	medaS	medaS	icf	OK medas
+167852	H2	medo	medo	icf	OK medas
+167989	H1	meru	meru	icf	MAYBE <lex>m </lex>  N of a fabulous mountain regarded as the Olympus of <as0 type="ns">Hindu1</as0><as1>Hindu</as1> mythology and said to form the central point of <as0>Jambu-dvi1pa</as0><as1><s>jambu-dvIpa</s></as1> ; all the planets revolve round it and it is compared to the cup or seed-vessel of a lotus , the leaves of which are formed by the different <asp0>Dvipas</asp0><as1><s>dvi1pa</s>s</as1> <qv/> ; the river Ganges falls from heaven on its summit , and flows thence to the surrounding worlds in four streams ; the regents of the four quarters of the compass occupy the corresponding faces of the mountain , the whole of which consists of gold and gems ; its summit is the residence of <as0>Brahma1</as0><as1><s>brahmA</s></as1> , and a place of meeting for the gods , <asp0>R2ishis</asp0><as1><s>fzi</s>s</as1> , <asp0>Gandharvas</asp0><as1><s>ganDarva</s>s</as1> <etc1/> , when not regarded as a fabulous mountain , it appears to mean the highland of Tartary north of the <as0>Hima7laya</as0><as1><s>himA<srs/>laya</s></as1>   <etc/>
+168418	H2	moGI	moGI	icf	OK moGa
+169001	H2	yakfd	yakfd	icf	OK yakft
+169009	H2	yakfn	yakfn	icf	OK yakft
+169011	H2	yakfl	yakfl	icf	OK yakft
+169100	H2	yakzma	yakzma	icf	OK ~man
+169170	H2	yajuH	yajuH	icf	OK yajus
+169175	H2	yajur	yajur	icf	OK yajus
+169195	H2	yajuz	yajuz	icf	OK yajus
+169552	H1	yat	yat	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 A1 </vlex> prob connected with <root/> <s>yam</s> and orig meaning , <quote> to stretch </quote>  <s>y/atate</s> Ved and ep also <vlex>P </vlex> <s>~ti</s> ; p <s>y/atamAna</s> , <s>y/atAna</s> and <s>yatAn/a</s>  ; pf <s>yete</s> , 3 pl <s>yetire</s>  <etc/> ; aor <s>ayatizwa</s>  ; fut <s>yatizyate</s>  , <s>~ti</s>  ; inf <s>yatitum</s>  ; ind p <s>-y/atya</s>  , <vlex>P </vlex> <to/>to place in order , marshal , join , connect  <msc/> <vlex>P </vlex> or <vlex>A1 </vlex> <to/>to keep pace , be in line , rival or vie with instr  <msc/> <vlex>A1 </vlex> <to/>to join instr , associate with instr , march or fly together or in line  <msc/> <to/>to conform or comply with instr  <msc/> <to/>to meet , encounter in battle   <msc/> <to/>to seek to join one's self with , make for , tend towards loc  <msc/> <to/>to endeavour to reach , strive after , be eager or anxious for with loc dat acc with or without <s>prati</s> , once with gen ; also with <s>arTe</s> , <s>arTAya</s> , <s>arTam</s> and <s>hetos</s> ifc ; or with inf    <etc/> <msc/> <to/>to exert one's self , take pains , endeavour , make effort , persevere , be cautious or watchful  <msc/> <to/>to be prepared for acc  : Caus or <vlex>cl 10 </vlex>  <s>yAt/ayati</s> or <s>~te</s> ; aor <s>ayIyatat</s> ; Pass <s>yAtyate</s> , <to/>to join , unite <vlex>A1 </vlex> intrans  <msc/> <to/>to join or attach to loc <vlex>P </vlex>  <msc/> <to/>to cause to fight  <msc/> <to/>to strive to obtain anything acc from abl  <msc/> rarely <vlex>A1 </vlex> <to/>to requite , return , reward or punish , reprove as a fault  <etcetc/> Page841,1 <msc/> <vlex>A1 </vlex> <to/>to surrender or yield up anything acc to acc or gen  <msc/> <vlex>P </vlex> <vlex>A1 </vlex> <to/>to distress , torture , vex , annoy  <msc/> accord to  also <s>nikAre</s> others <s>nirAkAre</s> or <s>Kede</s> and <s>upaskAre</s>: Desid <s>yiyatizate</s> Gr : Intens <s>yAyatyate</s> and <s>yAyatti</s>
+169612	H2A	yatna	yatna	icf	MAYBE <lex type="inh">m </lex> also pl effort , exertion , energy , zeal , trouble , pains , care , endeavour after loc or comp   <etc/> <s>yatnaM</s> with <root/> <s>kf</s> , <s>A-<root/>sTA</s> , <s>samA-<root/>sTA</s> , <s>A-<root/>DA</s> and loc or inf , <quote> to make an effort or attempt </quote> , <quote> take trouble or pains for </quote> ; <s>yatnena</s> or <s>~tnEs</s> , <quote> with effort </quote> , <quote> carefully </quote> , <quote> eagerly </quote> , <quote> strenuously </quote> <b>also <s>yatna</s> ibc </b> ; <s>yatnenA<srs/>pi</s> , <quote> in spite of every effort </quote> ; <s>yatnEr vinA</s> , <quote> without <abE>eff</abE>effort </quote> ; <s>yatnAt</s> , with or notwithstanding <abE>eff</abE>effort ; <s>mahato yatnAt</s> <quote> , with great <abE>eff</abE>effort </quote> , <quote> very carefully </quote>
+169619	H2	yaty	yaty	icf	MAYBE in comp for 1 <s>yati</s>
+169631	H2	yato	yato	icf	OK yatas
+170006	H3C	yaTAsaMKyam	yaTA-saMKyam	icf	MAYBE <lex>ind </lex> <abE>acc</abE>according to number , <abE>n</abE>number for <abE>n</abE>number so that in two series composed of similar <abE>n</abE>number , the several <abE>n</abE>number of one correspond to those of the other e g the first to the first <etc1/>    <etc/>
+170006.1	H3C	yaTAsaMKyena	yaTA-saMKyena	icf	MAYBE <lex>ind </lex> <abE>acc</abE>according to number , <abE>n</abE>number for <abE>n</abE>number so that in two series composed of similar <abE>n</abE>number , the several <abE>n</abE>number of one correspond to those of the other e g the first to the first <etc1/>
+170148	H1	yad	yad	icf	MAYBE nom and acc sg <lex type="hwinfo">n </lex> and base in comp of 3 <s>ya</s> , who , which , what , whichever , whatever , that  <etc1/> <etc1/> with correlatives <s>tad</s> , <s>tyad</s> , <s>etad</s> , <s>idam</s> , <s>adas</s> , <s>tad etad</s> , <s>etad tyad</s> , <s>idaM tad</s> , <s>tad idam</s> , <s>tAdfSa</s> , <s>IdfSa</s> , <s>IdfS</s> , <s>etAvad</s> , by which it is oftener followed than preceded ; or the correl is dropped e g <s>yas tu nA<srs/>raBate karma kzipram Bavati nirdravyaH</s> , <quote> <b>he</b> indeed who does not begin work soon becomes poor </quote>  ; or the rel is dropped e g <s>anDakam BartAraM na tyajet sA mahA-satI</s> , <quote> she who does not desert a blind husband is a very faithful wife </quote>  <s>yad</s> is often repeated to express <quote> whoever </quote> , <quote> whatever </quote> , <quote> whichever </quote> , e g <s>yo yaH</s> , <quote> whatever man </quote> ; <s>yA yA</s> , <quote> whatever woman </quote> ; <s>yo yaj jayati tasya tat</s> , <quote> whatever he wins <b>in war</b> belongs to him </quote>  ; <s>yad yad vadati tad tad Bavati</s> , <quote> whatever he says is true </quote> , or the two relatives may be separated by <s>hi</s> , and are followed by the doubled or single correl <s>tad</s> e g <s>upyate yad Di yad bIjam tat tad eva prarohati</s> , <quote> whatever seed is sown , that even comes forth </quote>  ; similar indefinite meanings are expressed by the relative joined with <s>tad</s> e g <s>yasmE tasmE</s> , <quote> to any one whatever </quote> , esp in <s>yadvA tadvA</s> , <quote> anything whatever </quote> ; or by <s>yaH</s> with <s>kaSca</s> , <s>kaScana</s> , <s>kaScit</s> , or <b>in later language , not in <as0>Manu</as0><as1><s>manu</s></as1></b> <s>ko'pi</s> e g <s>yaH kaScit</s> , <quote> whosoever </quote> ; <s>yAni kAni ca mitrARi</s> , <quote> any friends whatsoever </quote> ; <s>yena kenA<srs/>py upA<srs/>yena</s> , <quote> by any means whatsoever </quote> <s>yad</s> is joined with <s>tvad</s> to express generalization e g <s>SUdrAMs tvad yAMs tvad</s> , <quote> either the <asp0>S3u1dras</asp0><as1><s>SUdra</s>s</as1> or anybody else </quote>  ; or immediately followed by a pers pron on which it lays emphasis e g <s>yo 'ham</s> , <quote> I that very person who </quote> ; <s>yas tvaM kaTaM vetTa</s> , <quote> how do you know? </quote>  ; it is also used in the sense of <quote> si quis </quote> e g <s>striyaM spfSed yaH</s> , <quote> should any one touch a woman </quote> <s>yad</s> is also used without the copula e g <s>anDo jaqaH pIWa sarpI saptatyA sTaviraSca yaH</s> , <quote> a blind man , an idiot , a cripple , and a man seventy years old </quote>  ; sometimes there is a change of construction in such cases e g <s>ye ca mAnuzAH</s> for <s>mAnuzAMS-ca</s>  ; the nom sg <lex type="hwinfo">n </lex> <s>yad</s> is then often used without regard to gender or number and may be translated by <quote> as regards </quote> , <quote> as for </quote> , e g <s>kzatraM vA etad vanaspatInAM yan nyag-roDaH</s> , <quote> as for the <as0>Nyag-rodha</as0><as1><s>nyag-roDa</s></as1> , it is certainly the prince among trees </quote>  ; or by <quote> that is to say </quote> , <quote> to wit </quote> e g <s>tato devA etaM vajraM dadfSur yad apaH</s> , <quote> the gods then saw this thunderbolt , to wit , the water </quote>  <s>yad</s> as an adv conjunction generally = <quote> that </quote> , esp after verbs of saying , thinking <etc1/> , often introducing an oratio directa with or without <s>iti</s> ; <s>iti yad</s> , at the end of a sentence = <quote> thinking that </quote> , <quote> under the impression that </quote> e g  <s>yad</s> also = <quote> so that </quote> , <quote> in order that </quote> , <quote> wherefore </quote> , <quote> whence </quote> , <quote> as </quote> , <quote> in as much as </quote> , <quote> since </quote> , <quote> because </quote> <b>the correlative being <s>tad</s> , <quote> therefore </quote></b> , <quote> when </quote> , <quote> if </quote>  <etcetc/> ; <s>/aDa y/ad</s> , <quote> even if </quote> , <quote> although </quote>  <s>yad api</s> id  <s>yad u</s> - <s>evam</s> , <quote> as - so </quote>  ; <s>yad uta</s> , <quote> that </quote>  ; <quote> that is to say </quote> , <quote> scilicet </quote>   ; <s>yat kila</s> , <quote> that </quote>  ; <s>yac ca</s> , <quote> if </quote> , <quote> that is to say </quote>  ; <s>yac ca-yac ca</s> , <quote> both - and </quote>  ; <quote> that </quote> <b>accord to  after expressions of <quote> impossibility </quote> , <quote> disbelief </quote> , <quote> hope </quote> , <quote> disregard </quote> , <quote> reproach </quote> and , <quote> wonder </quote></b> ; <s>yad vA</s> , <quote> or else </quote> , <quote> whether </quote>   ; <b><s>yad vA</s> , <quote> or else </quote> , is very often in commentators</b> ; <quote> however </quote>  ; <s>yad vA</s> - <s>yadi vA</s> , <quote> if-or it </quote>  ; <s>yad BUyasA</s> , <quote> for the most part </quote>  ; <s>yat satyam</s> , <quote> certainly </quote> , <quote> indeed </quote> , <quote> of course </quote>   ; <s>yan nu</s> , with 1st pers , <quote> what if I </quote> , <quote> let me </quote>
+170186	H2	yac	yac	icf	OK yad
+170190	H2	yat	yat	icf	OK yad
+170208	H2	yan	yan	icf	OK yad
+170871	H2	yaSaH	yaSaH	icf	OK yaSas
+170883	H2	yaSaS	yaSaS	icf	OK yaSas
+170892	H2	yaSo	yaSo	icf	OK yaSas
+170990	H2	yazwI	yazwI	icf	PROBABLE <lex>f </lex> <eq/> <s>yazwi</s> Also in comp for <s>yazwi</s>
+170995	H2	yazwy	yazwy	icf	PROBABLE in comp for <s>yazwi</s> or <s>yazwI</s>
+171175	H2	yAma	yAma	icf	MAYBE in comp for 2 <s>y/Aman</s>
+171179	H2	yAmaka	yAmaka	icf	MAYBE for 2 <see/> <pcol>p 851 , col 3</pcol> , in comp = <s>yAma</s>1
+171384	H2	yAda	yAda	icf	OK yAdas
+171386	H2	yAdaH	yAdaH	icf	OK yAdas
+171397	H2	yAdo	yAdo	icf	OK yAdas
+171433	H2	yAdfg	yAdfg	icf	OK yAdfS
+171455	H1B	yAma	yAma	icf	MAYBE <lex>mf<s>/I</s>n </lex> fr <s>yama</s> , of which it is also the <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form in comp relating to or derived from or destined for <as0>Yama</as0><as1><s>yama</s></as1>
+171579	H2	yAvac	yAvac	icf	OK yAvat
+171590	H2	yAvaj	yAvaj	icf	OK yAvat
+171598	H2	yAvad	yAvad	icf	OK yAvat
+171642	H2	yAvan	yAvan	icf	OK yAvat
+171731	H1	yuj	yuj	icf	MAYBE <vlex type="root"></vlex> cf <root/>2 <s>yu</s> <vlex>cl 7 P </vlex> <vlex>A1 </vlex>  <s>yun/akti</s> , <s>yuNkt/e</s> ep also <s>yuYjati</s> , <s>~te</s> ; Ved <s>yojati</s> , <s>~te</s> ; <s>yuje</s>,<s>yujmahe</s> , 3 pl <s>yujata</s> Impv <s>yukzv/a</s> ; Pot <s>yuYjIyAt</s>  ; pf <s>yuy/oja</s> , <s>yuyuj/e</s>  <etc1/> <etc1/> , 3 sg <s>yuyojate</s>  ; aor Class <vlex>P </vlex> <s>ayokzIt</s> , <s>ayOkzIt</s> or <s>ayujat</s> ; Ved also <vlex>A1 </vlex> <s>/ayuji</s> ; Ved and Class <s>ayukzi</s> , <s>ayukta</s> ; fut <s>yokt/A</s>  ; <s>yokzyati</s>  ; <s>~te</s>  <etcetc/> ; inf <s>yoktum</s>  ; <s>yuj/e</s>  ; ind p <s>yuktv/A</s>  <etcetc/> ; <s>yuktv/Aya</s>   ; <s>-yujya</s>  <etc/> , <to/>to yoke or join or fasten or harness horses or a chariot  <etcetc/> <msc/> <to/>to make ready , prepare , arrange , fit out , set to work , use , employ , apply  <msc/> <to/>to equip an army  <msc/> <to/>to offer , perform prayers , a sacrifice  <msc/> <to/>to put on arrows on a bow-string  <msc/> <to/>to fix in , insert , inject semen  <msc/> <to/>to appoint to , charge or intrust with loc or dat   <msc/> <to/>to command , enjoin  <msc/> <to/>to turn or direct or fix or concentrate the mind , thoughts <etc1/> upon loc  <etcetc/> <msc/> <vlex>P </vlex> <vlex>A1 </vlex> <to/>to concentrate the mind in order to obtain union with the Universal Spirit , be absorbed in meditation also with <s>yogam</s>   <etc/> <msc/> <to/>to recollect , recall  <msc/> <to/>to join , unite , connect , add , bring together  <etcetc/> <vlex>A1 </vlex> to be attached , cleave to  <msc/> <to/>to confer , or bestow anything acc upon gen or loc   <vlex>A1 </vlex> with acc , to become possessed of  ; with <s>Atmani</s> , <to/>to use for one's self , enjoy  <msc/> <to/>to bring into possession of , furnish or endow with instr    <etc/> <msc/> <to/>to join one's self to acc  <msc/> in astron <to/>to come into union or conjunction with acc  : Pass <s>yujy/ate</s> ep also <s>~ti</s> ; aor <s>/ayoji</s> , <to/>to be yoked or harnessed or joined <etc1/>  <etcetc/> <msc/> <to/>to attach one's self to loc  <msc/> <to/>to be made ready or prepared for dat  <msc/> <to/>to be united in marriage   <msc/> <to/>to be endowed with or possessed of instr with or without <s>saha</s>   <etc/> <msc/> in astron <to/>to come into conjunction with instr  <msc/> <to/>to accrue to , fall to the lot of gen  <msc/> <to/>to be fit or proper or suitable or right , suit anything instr , be fitted for loc , belong to or suit any one loc or gen , deserve to be nom   <etc/> <msc/> with <s>na</s> not to be fit or proper <etc1/> for instr or to inf , also with pass sense = <quote> ought not to be </quote>    : Caus <s>yojayati</s> mc also <s>~te</s> ; aor <s>ayUyujat</s> ; Pass <s>yojyate</s> , <to/>to harness , yoke with instr , put to loc   <etc/> <msc/> <to/>to equip an army , draw up troops   <etc/> <msc/> <to/>to use , employ , set to work , apply , undertake , carry on , perform , accomplish   <etc/> <msc/> <to/>to urge or impel to   <msc/> <to/>to lead towards , help to loc  <msc/> <to/>to set snares , nets <etc1/>   <msc/> <to/>to put or fix on esp arrows   <etc/> <msc/> <to/>to aim arrows at loc  <msc/> <to/>to fasten on or in , attack , adjust , add , insert    <msc/> with <s>manas</s> , <s>AtmAnam</s> <etc/> <to/>to direct the thoughts to , concentrate or fix the mind upon loc    <msc/> <to/>to join , unite , connect , combine , bring or put together also = write , compose    <etc/> <msc/> <to/>to encompass , embrace  <msc/> <to/>to put in order , arrange , repair , restore  <msc/> <to/>to endow or furnish or provide with instr   <etc/> <msc/> <to/>to mix food with instr  <msc/> <to/>to confer anything upon loc  <msc/> in astron <to/>to ascertain or know <s>jAnAti</s> the conjunction of the moon with an asterism instr  Va1rtt 11  <msc/> <vlex>A1 </vlex> <to/>to think little of , esteem lightly , despise  in  : Desid <s>yuyukzati</s> , to wish to harness or yoke or join <etc1/> <msc/> <to/>to wish to appoint or institute  <msc/> <to/>to wish to fix or aim arrows  <msc/> <vlex>A1 </vlex> <to/>to wish to be absorbed in meditation , devout  : Intens <s>yoyujyate</s> , <s>yoyujIti</s> or <s>yoyokti</s> Gr <b>cf Gk <gk>1</gk> , <gk>2</gk> ; Lat <etym>jungere</etym> , <etym>jugum</etym> ; Lith <etym>ju4ngus</etym> ; Slav <etym>igo</etym> ; Goth <etym>juk</etym> ; Germ <etym>joh</etym> , <etym>Joch</etym> ; Angl Sax <etym>geoc</etym> ; Eng <etym>yoke</etym> </b>
+172013	H2	yut	yut	icf	MAYBE for 1 <see/> <pcol>p 853 , col 1</pcol> ; for 2 <see/> above , in comp for 2 <s>yuD</s>
+172015	H2	yud	yud	icf	MAYBE in comp for 2 <s>yuD</s>
+172154	H2	yuvA	yuvA	icf	MAYBE for 2 <see/> col 3 , in comp for 1 <s>yuva</s>
+172165	H2	yuva	yuva	icf	OK yuvan
+172212	H2	yuzmat	yuzmat	icf	OK yuzmad
+172222	H2	yuzmA	yuzmA	icf	PROBABLE in comp for <s>yuzma</s> or <s>yuzmad</s>
+172658	H2	yogi	yogi	icf	OK yogin
+172711	H2	yoginy	yoginy	icf	OK yoginI
+172900	H2	yozid	yozid	icf	OK yozit
+173058	H2	rakza	rakza	icf	OK rakzas
+173060	H2	rakzaH	rakzaH	icf	OK rakzas
+173123	H2	rakzi	rakzi	icf	OK rakzin
+173141	H2	rakzo	rakzo	icf	OK rakzas
+173866	H2	raja	raja	icf	OK rajas
+173873	H2	rajaH	rajaH	icf	OK rajas
+174002	H2	rajo	rajo	icf	OK rajas
+174809	H1	raD	raD	icf	MAYBE <vlex type="root"></vlex> or <s>ranD</s> <vlex>cl 4 P </vlex>  <s>r/aDyati</s> pf <s>raranDa</s> , 1 pl <s>raranDima</s> or <s>reDma</s> Gr ; 3 pl <s>rAraD/uH</s>  ; aor <s>araDat</s>  ; Subj <s>ranDIs</s> Impv <s>ranDi</s> for <s>randDi</s>  ; fut <s>raDitA</s> , <s>radDA</s> Gr ; <s>raDizyati</s>,<s>ratsyati</s>  ; inf <s>raDitum</s>  , <to/>to become subject to dat , be subdued or overthrown , succumb   <msc/> <to/>to be completed or matured  <cf/> <root/> <s>rAD</s> <msc/> <to/>to bring into subjection , subdue  <msc/> <to/>to deliver into the hand of dat  <msc/> <to/>to hurt , torment  : Caus <s>ranD/ayati</s> Ved also <s>~te</s> ; aor <s>rIraDat</s>  ; <s>araranDat</s> Gr , <to/>to make subject , deliver over to dat   <msc/> <to/>to torment , afflict  <msc/> <to/>to destroy , annihilate  <msc/> <to/>to cook , prepare food  : Desid <s>riraDizati</s> , <s>riratsati</s> Gr : Intens <s>rAraDyate</s> , <s>rAradDi</s> Gr in  <s>rAranD/i</s> for <s>rArandD/i</s> , and  <s>rAranta</s> for <s>rArantta</s> <to/>to hand over to , deliver
+174975	H2A	rati	rati	icf	MAYBE <lex type="inh">f </lex> pleasure , enjoyment , delight in , fondness for loc or comp ; <s>ratim</s> with <root/> <s>Ap</s> , <s>laB</s> , <s>upa-laB</s> , <s>aDi-gam</s> , <s>vidkf</s> or <s>banD</s> and loc , <quote> to find pleasure in </quote>    <etc/>
+175440	H2	raSana	raSana	icf	OK raSanA
+175876	H2A	rasika	rasika	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> having a taste for or a sense of , fond of , devoted to , delighting in loc or comp
+175933	H2	rahaH	rahaH	icf	MAYBE in comp for 2 <s>rakas</s>
+175998	H2	rahI	rahI	icf	PROBABLE in comp for <s>raha</s> or 2 <s>rahas</s>
+176002	H2	raho	raho	icf	MAYBE in comp for 2 <s>rahas</s>
+176079	H2	rAkzasI	rAkzasI	icf	OK rAkzasa
+176092	H1A	rAga	rAga	icf	MAYBE <lex type="inh">m </lex> any feeling or passion , esp love , affection or sympathy for , vehement desire of , interest or joy or delight in loc or comp    <etc/>
+176179	H2	rAgi	rAgi	icf	OK rAgin
+176249	H2	rAja	rAja	icf	MAYBE in comp for 1 <s>rAjan</s>
+177122	H2A	rAtrika	rAtrika	icf	MAYBE <lex type="inh">mfn </lex> ifc after a numeral lasting or sufficient for or completed in a certain number of nights or days <cf/> <s>eka-</s> , <s>dvE-</s> , <s>paYca-r~</s>
+177131	H2	rAtry	rAtry	icf	OK rAtrI<shortlong/>
+177249	H2	rADo	rADo	icf	OK rADas
+177428	H3	rAmanAma	rAma-nAma	icf	PROBABLE <quote> <abE>R</abE><asp0>Ra1mas</asp0><as1><s>rAma</s>s</as1>'s name </quote> in comp for <s>-nAman</s>
+177777	H2	rASI	rASI	icf	OK rASi
+177785	H2	rASy	rASy	icf	OK rASi
+178000	H2	riktI	riktI	icf	OK rikta
+178245	H2	ruk	ruk	icf	MAYBE for 2 <see/> under <root/>1 <s>ruj</s> col 3 , in comp for 2 <s>ruc</s>
+178291	H2	rukmi	rukmi	icf	OK rukmin
+178354	H2A	ruci	ruci	icf	MAYBE <lex type="inh">f </lex> liking , taste , relish , pleasure , appetite , zest  <etcetc/> ifc taking pleasure in , desirous of longing for ; with loc , <s>prati</s> inf or comp ; <s>ruciM-<root/>dA</s> or <s>rucaye-<root/>BU</s> , <to/>to please ; <s>rucim A-<root/>vah</s> , with dat , <to/>to excite a desire for ; <s>rucyA</s> or <s>sva-rucyA</s> , at pleasure , at will
+178447	H2	ruk	ruk	icf	MAYBE for 1 <see/> col 1 , in comp for 2 <s>ruj</s>
+178451	H2	rug	rug	icf	MAYBE in comp for 2 <s>ruj</s>
+178466	H2	ruN	ruN	icf	MAYBE in comp for 2 <s>ruj</s>
+178799	H2	roDaH	roDaH	icf	OK roDas
+178817	H2	roDo	roDo	icf	OK roDas
+178908	H2	ruSad	ruSad	icf	MAYBE in comp for 2 <s>r/uSat</s>
+178920	H2	ruzad	ruzad	icf	OK ruzat
+179425	H2	retaH	retaH	icf	OK retas
+179450	H2	reto	reto	icf	OK retas
+179525	H2	rezma	rezma	icf	OK rezman
+179545	H2	rAyo	rAyo	icf	OK rAyas
+179719	H2	rogi	rogi	icf	OK rogin
+179817	H2	rodaH	rodaH	icf	OK rodas
+179824	H2	rodo	rodo	icf	OK rodas
+179896	H2	roma	roma	icf	OK roman
+180216	H2	rOdrI	rOdrI	icf	OK rudra
+180466	H2	lakzI	lakzI	icf	OK lakza
+180518	H2	lakzmi	lakzmi	icf	PROBABLE m c in comp for <s>lakzmI</s>
+180660	H2	lakzmy	lakzmy	icf	OK lakzmI
+180699	H2	lakzyI	lakzyI	icf	OK lakzya
+181043	H2	laGU	laGU	icf	OK laGu
+181050	H2	laGv	laGv	icf	OK laGu
+182261	H1	lAlasa	lAlasa	icf	MAYBE <lex>mf<s>A</s>n </lex> fr Intens of <root/> <s>las</s> eagerly longing for , ardently desirous of , delighting or absorbed in , devoted or totally given up to loc or comp   <etc/> <phw><dL>682261</dL><s>-tA</s> <lex type="phw">f </lex></phw>
+183107	H2	lolad	lolad	icf	OK lolat
+183615	H1	loRa	loRa	icf	OK lavaRa
+183643	H2	loma	loma	icf	OK loman
+184472	H2	vakrI	vakrI	icf	OK vakra
+184522	H2	vakzaH	vakzaH	icf	OK vakzas
+184536	H2	vakzaS	vakzaS	icf	OK vakzas
+184629	H2	vaktu	vaktu	icf	MAYBE in comp for inf <s>vaktum</s>
+184698	H2	vacaH	vacaH	icf	OK v/acas
+184782	H2	vaco	vaco	icf	MAYBE in comp for 1 <s>vacas</s>
+185112	H2	vajri	vajri	icf	OK vajrin
+185121	H2	vajrI	vajrI	icf	OK vajra
+185309	H2	vaRik	vaRik	icf	OK vaRij
+185324	H2	vaRig	vaRig	icf	OK vaRij
+185333	H2	vaRiN	vaRiN	icf	PROBABLE in comp for <s>vaRik</s> fr <s>vaRij</s>
+186069	H2	vanar	vanar	icf	PROBABLE in comp for <s>vanas</s> <eq/> <s>vana</s>
+186337	H2	vapur	vapur	icf	OK vapus
+186341	H2	vapuz	vapuz	icf	OK vapus
+186482	H2	vayaH	vayaH	icf	MAYBE in comp for 3 <s>vayas</s>
+186532	H2	vayo	vayo	icf	MAYBE in comp for 3 <s>vayas</s>
+186656	H2	varivo	varivo	icf	OK varivas
+187278	H2	varco	varco	icf	OK varcas
+187495	H2	varRi	varRi	icf	OK varRin
+187600	H2	varti	varti	icf	OK vartin
+187652	H2	vartma	vartma	icf	OK vartman
+187804	H2	varma	varma	icf	OK varman
+188060	H2	varzma	varzma	icf	OK varzman
+188118	H2	valayI	valayI	icf	OK valaya
+188342	H2	valli	valli	icf	PROBABLE <lex>f </lex> the earth  mostly mc and in comp for <s>vallI</s>
+188459	H2	vaSi	vaSi	icf	OK vaSin
+188484	H2	vaSI	vaSI	icf	MAYBE in comp for <hom>1</hom> <s>vaSa</s>
+188987	H2	vasv	vasv	icf	MAYBE in comp for 1 <s>vasu</s>
+189097.2	H2A	uzita	uzita	icf	MAYBE <lex type="inh">mfn </lex> one who has halted or stayed esp <quote> overnight </quote> or has been absent or lived or remained or waited in any place loc or comp or for any time acc or comp   <etc/>
+189112	H2	vasana	vasana	icf	MAYBE <lex>n </lex> for 1 <see/> col 1 dwelling , abiding , sojourn , residence in comp
+189178	H2	vastv	vastv	icf	MAYBE in comp for 2 <s>vastu</s>
+189227	H2	vasty	vasty	icf	MAYBE in comp for 3 <s>vasti</s>
+189238	H1	vah	vah	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 1 P A1 </vlex>  <s>v/ahati</s> , <s>~te</s> in later language <vlex>A1 </vlex> only mc ; Vedic forms which may partly belong to the aor are <s>v/akzi</s> , <s>voQam</s> , <s>~Q/Am</s> or <s>vo|am</s> , <s>~|/Am</s> , <s>uhIta</s> , <s>v/akzva</s> , <s>voQvam</s> , <s>UQvam</s> , <s>/uhAna</s> ; pf <s>uvAha</s> , <s>Uh/uH</s> ; <s>Uh/e</s>  <etcetc/> ; <s>vavAha</s>,<s>~hatuH</s>  ; aor Ved <s>/avAkzIt</s> or <s>/avAw</s> Subj <s>v/akzat</s> , <s>~ati</s> , Prec <s>uhyAt</s> ; <s>avakzi</s>,<s>avoQa</s> Gr ; fut <s>voQ/A</s>  ; <s>vakzy/ati</s>,<s>~te</s>  <etc/> ; <s>vahizyati</s>  <etc/> ; inf <s>voQum</s>  <etc1/> <etc1/> <b>Ved also <s>~Qave</s> and <s>~QavE</s></b> ; <s>vAhe</s>  ; <s>v/ahaDyE</s>  ; ind p <s>UQvA</s>  ; <s>-/uhya</s>  <etcetc/> ; cf <root/>1 <s>Uh</s> , <to/>to carry , transport , convey with instr of vehicle  <etcetc/> <msc/> <to/>to lead , conduct esp offerings to the gods , said of <as0>Agni</as0><as1><s>agni</s></as1>  <msc/> <to/>to bear along water , said of rivers  <msc/> <to/>to draw a car , guide horses <etc1/>  <msc/> <to/>to lead towards , to bring , procure , bestow   <msc/> <to/>to cause , effect  <msc/> <to/>to offer a sacrifice  <msc/> <to/>to spread , diffuse scent  <msc/> <to/>to shed tears  <msc/> <to/>to carry away , carry off , rob   <etc/> <msc/> <to/>to lead home , take to wife , marry  <etcetc/> <msc/> <to/>to bear or carry on or with Inc or instr   <etc/> <msc/> <to/>to take or carry with or about one's self , have , possess    <msc/> <to/>to wear clothes  <msc/> with <s>Siras</s> <to/>to bear one's head <s>uccES-tarAm</s> , <quote> high </quote>  <msc/> with <s>vasuMDarAm</s> or <s>kzmA-maRqAlam</s> <to/>to support i e rule the earth  <msc/> with <s>garBam</s> <to/>to be with child  <msc/> <to/>to bear , suffer , endure   <msc/> <to/>to forbear , forgive , pardon  <msc/> <to/>to undergo with <s>agnim</s> , <s>vizam</s> , <s>tulAm</s> , <quote> the ordeal of fire , poison , and the balance </quote>  <msc/> <to/>to experience , feel   <etc/> <msc/> <to/>to exhibit , show , betray  <msc/> <to/>to pay a fine  <msc/> <to/>to pass , spend time  <msc/> intrans <to/>to drive , ride , go by or in with instr of the vehicle , be borne or carried along , run , swim <etc1/>  <etcetc/> <msc/> <to/>to draw scil a carriage , said of a horse  <msc/> <to/>to blow as wind   <msc/> <to/>to pass away , elapse  : Pass <s>uhy/ate</s> ep also <s>~ti</s> ; aor <s>avAhi</s> , <to/>to be carried <s>uhyamAna</s> , <quote> being <abE>c</abE>carried </quote> <etc1/> <msc/> <to/>to be drawn or borne by instr or along or off  <etc1/> <etc1/>: Caus <s>vAhayati</s> mc also <s>~te</s> ; aor <s>avIvahat</s> ; Pass <s>vAhyate</s> , <to/>to cause to bear or carry or convey or draw with two acc  Va1rtt 6 , drive a chariot , guide or ride a horse , propel a boat , go or travel by any vehicle   <etc/> <msc/> <to/>to cause to guide two acc  <msc/> <to/>to cause any one acc to carry anything acc on loc  <msc/> <to/>to cause to take in marriage  <msc/> <to/>to cause to be conveyed by instr   <msc/> <to/>to traverse a road  <msc/> <to/>to accomplish a journey  <msc/> <to/>to employ , keep going or in work  <msc/> <to/>to give , administer <see/> <s>vAhita</s> <msc/> <to/>to take in , deceive <see/> id : Desid <s>vivakzati</s> , <s>~te</s> Gr : Intens <s>vanIvAhy/ate</s> , to carry hither and thither cf <s>vanIv/Ahana</s> and <s>vanIvAhit/a</s> <msc/> <s>vAvahIti</s> , <to/>to bear a burden  <msc/> <s>vAvahyate</s>,<s>vAvoQi</s> Gr <b>cf Gk <gk>1</gk> for <gk>2</gk> , <gk>3</gk> ; Lat <etym>vehere</etym> , <etym>vehiculum</etym> ; Slav <etym>vesti</etym> ; Lith <etym>ve4z3ti</etym> ; Goth <etym>gawigan</etym> ; Germ <etym>w<euml/>gan</etym> , <etym>bewegen</etym> ; Eng <etym>weigh</etym> </b>
+189713	H2	vAtI	vAtI	icf	MAYBE in comp for 1 <s>vAta</s>
+189813	H2	vAk	vAk	icf	OK vAc
+189974	H2	vAg	vAg	icf	OK vAc
+190119	H2	vAN	vAN	icf	OK vAc
+190146	H2	vAcaM	vAcaM	icf	OK vAcam
+190230	H2	vAco	vAco	icf	MAYBE in comp for 2 <s>vAcas</s>
+190377	H2	vAjasaneyi	vAjasaneyi	icf	OK ~yin
+190386	H2	vAji	vAji	icf	PROBABLE for 2 <see/> col 3 , in comp for <s>vAjin</s>
+190446	H2	vAjI	vAjI	icf	OK vAja
+190732	H2	vAdi	vAdi	icf	PROBABLE not always separable from prec , in comp for <s>vAdin</s>
+190921	H2	vAntI	vAntI	icf	OK vAnta
+191169	H2	vAmanI	vAmanI	icf	PROBABLE for 1 <see/> <pcol>p 941 , col 2</pcol> , in comp for <s>vAmana</s>
+191222	H2	vAyasI	vAyasI	icf	OK vAyasa
+191387	H2	vAyv	vAyv	icf	MAYBE in comp for 1 <s>vAyu</s>
+191428	H2	vAH	vAH	icf	OK vAr
+191578	H2	vAry	vAry	icf	MAYBE in comp for 1 <s>vAri</s>
+192139	H2	vAli	vAli	icf	OK vAlin
+192306	H2	vAsaH	vAsaH	icf	MAYBE in comp for 1 <s>vAsas</s>
+192326	H2	vAso	vAso	icf	MAYBE in comp for 1 <s>vAsas</s>
+192749	H2	vAhanI	vAhanI	icf	MAYBE in comp for 2 <s>vAkana</s>
+192761	H2	vAhi	vAhi	icf	OK vAhin
+193477	H3	vilakzaRa	vi-lakzaRa	icf	MAYBE <lex>mf<s>A</s>n </lex> for 2 <see/> <s>vi-<root/>lakz</s> having different marks , varying in character , different , differing from abl or comp ; <phw><dL>693477</dL><s>-tA</s> , <lex type="phw">f </lex></phw> ; <phw><dL>693477 1</dL><s>-tva</s> <lex type="phw">n </lex></phw>    <etc/>
+193777	H2	viMSaty	viMSaty	icf	OK viMSati
+194312	H2	viklavI	vi-klavI	icf	PROBABLE in comp for <s>viklava</s> g <s>Ury-Adi</s>
+195493	H2	vitatI	vitatI	icf	PROBABLE , in comp for <s>vi-tata</s>
+195518	H2	vitAnI	vitAnI	icf	OK vi-tAna
+195897	H2	vidvac	vidvac	icf	OK vidvat
+195900	H2	vidvaj	vidvaj	icf	OK vidvat
+195904	H2	vidvat	vidvat	icf	OK vidvas
+195913	H2	vidvad	vidvad	icf	OK vidvat
+195922	H2	vidvan	vidvan	icf	OK vidvat
+195939	H1	vid	vid	icf	MAYBE <vlex type="root"></vlex> originally identical with <root/>1 <s>vid</s> <vlex>cl 6 P A1 </vlex>  <s>vind/ati</s> , <s>~te</s> Ved also <s>vitt/e</s> , <s>vid/e</s> ; p <s>vidAn/a</s> or <s>vidAna</s> <b><qv/></b> ; ep 3 pl <s>vindate</s> Pot <s>vindyAt</s> , often <eq/> <s>vidyAt</s> ; pf <s>viv/eda</s> <b>3 pl <s>vividus</s> Subj <s>vividat</s></b> , <s>vividv/as</s> , 3 pl <s>vividre</s> , <s>vidr/e</s>  <etcetc/> ; p <s>vividv/as</s>  ; <s>vividivas</s>  ; aor <s>/avidat</s> , <s>~data</s>  <b>Ved Subj <s>vid/Asi</s> , <s>~d/At</s> ; Pot <s>vid/et</s> , <s>deta</s>    ; 3 sg <s>videzwa</s> </b> ; <vlex>A1 </vlex> 1 sg <s>avitsi</s>   ; fut <s>vettA</s> , <s>vedizyati</s> Gr ; <s>vetsyati</s>,<s>~te</s>  <etc/> ; inf <s>vid/e</s>  ; <s>vettum</s>  <etc/> ; <s>v/ettave</s>  ; <s>~ttavE</s> <b>?</b> and <s>~tos</s>  ; ind p <s>vittv/A</s>   ; <s>-vidya</s>  <etc/> , <to/>to find , discover , meet or fall in with , obtain , get , acquire , partake of , possess  <etc1/> <etc1/> with <s>diSas</s> , to find out the quarters of she sky  Page965,1 <msc/> <to/>to get or procure for dat   <msc/> <to/>to seek out , look for , attend to  <etcetc/> <msc/> <to/>to feel , experience  <msc/> <to/>to consider as , take for two acc  <msc/> <to/>to come upon , befall , seize , visit    <msc/> <to/>to contrive , accomplish , perform , effect , produce   <msc/> <vlex>A1 </vlex> mc also <vlex>P </vlex> <to/>to take to wife , marry with or scil <s>BAryAm</s>    <etc/> <msc/> <to/>to find a husband , marry said of a woman    <msc/> <to/>to obtain a son , with or scil <s>sutam</s>  : Pass or <vlex>A1 </vlex> <s>vidy/ate</s> ep also <s>~ti</s> ; p <s>vidyamAna</s> <b><qv/></b> ; aor <s>avedi</s> , <to/>to be found , exist , be  <etcetc/> <msc/> esp in later language <s>vidyate</s> , <quote> there is , there exists </quote> , often with <s>na</s> , <quote> there is not </quote> <msc/> with <s>Boktum</s> , <quote> there is something to eat </quote> <msc/> followed by a fut , <quote> is it possible that? </quote>  <msc/> <s>yaTA-vid/e</s> , <quote> as it happens </quote> i e <quote> as usual </quote> , <quote> as well as possible </quote>  : Caus <s>vedayati</s> , to cause to find <etc1/>  : Desid <s>vividizati</s> or <s>vivitsati</s>,<s>~te</s> Gr <cf/> <s>vivitsita</s>: Intens <s>vevidyate</s>,<s>vevetti</s>  for p <s>v/evidat</s>and<s>~dAna</s> <see/> <s>vi-</s>and<s>saM<root/>vid</s>
+195993	H2	vidad	vidad	icf	MAYBE for <s>vidat</s> , pr p of <root/>3 <s>vid</s> , in comp
+196284	H2	vidyuc	vidyuc	icf	MAYBE in comp for 2 <s>vidyut</s>
+196287	H2	vidyuj	vidyuj	icf	MAYBE in comp for 2 <s>vidyut</s>
+196333	H2	vidyud	vidyud	icf	MAYBE in comp for 2 <s>vidyut</s>
+196347	H2	vidyun	vidyun	icf	MAYBE in comp for 2 <s>vidyut</s>
+196362	H2	vidyul	vidyul	icf	MAYBE in comp for 2 <s>vidyut</s>
+196456	H2	viDava	viDava	icf	PROBABLE in comp for <s>~vA</s> below
+196486	H1	viDA	vi-DA	icf	MAYBE <vlex>P A1 </vlex> <s>-daDAti</s> , <s>-Datte</s> , <to/>to distribute , apportion , grant , bestow  <etc1/> <etc1/> with <s>kAmam</s> , <to/>to fulfil a wish <msc/> <to/>to furnish , supply , procure with <s>AtmanaH</s> , <quote> for one's self </quote>  <msc/> <to/>to spread , diffuse   <msc/> <to/>to put in order , arrange , dispose , prepare , make ready     <msc/> <to/>to divide , parcel out  <msc/> <to/>to ordain , direct , enjoin , settle , appoint    <etc/> <msc/> <to/>to form , create , build , establish , found   <etc/> <msc/> <to/>to perform , effect , produce , cause , occasion , make , do   <etc1/> like <root/> <s>kf</s> <to/>to be translated variously in connection with various nouns e g with <s>siMhatvam</s> , <to/>to change into a lion ; with <s>saciva-tAm</s> , <to/>to assume the office of a minister ; with <s>vezam</s> , <to/>to put on a garment ; with <s>vfttim</s> , <to/>to secure a maintenance ; with <s>upA<srs/>yam</s> , <to/>to devise a means ; with <s>mantram</s> , <to/>to hold a consultation ; with <s>rAjyam</s> , <to/>to carry on government , rule ; with <s>saMDim</s> , <to/>to conclude peace ; with <s>kalaham</s> , <to/>to pick up a quarrel Page967,3 ; with <s>vEram</s> , <to/>to declare war ; with <s>lajjAm</s> , <to/>to display bashfulness ; with <s>kolAhalam</s> , <to/>to raise a clamour ; with <s>cumbanaM</s> , <to/>to give a kiss <msc/> <to/>to make , render with two acc   <etc/> <msc/> <to/>to contrive or manage that <s>yaTA</s>   <msc/> <to/>to put or lay on or in , direct towards loc   <etc1/> with <s>hfdaye</s> , <to/>to take to heart ; with <s>agrataH</s> , or <s>aDaH</s> , <to/>to place before or below <msc/> <to/>to send out , despatch spies  <msc/> <to/>to take trouble with dat  <msc/> <to/>to treat , deal with acc  : Pass <s>-DIyate</s> , <to/>to be distributed <etc1/> <msc/> <to/>to be allotted or intended for gen  <msc/> <to/>to be accounted , pass for nom  : Caus <s>-DApayati</s> , <to/>to cause to put , cause to be laid  <msc/> cause to put in order or arrange or fix  : Desid <s>-Ditsati</s> , <s>~te</s> , <to/>to wish to distribute or bestow  <msc/> <to/>to wish to decide or determine or fix or establish  <msc/> <to/>to wish to find out or devise a means  <msc/> <to/>to wish to procure or acquire  <msc/> <to/>to wish to perform or accomplish anything , intend , purpose    <msc/> <to/>to wish to make or render two acc
+196659	H2	viDeyI	viDeyI	icf	OK ~Deya
+196662	H2	viDy	viDy	icf	MAYBE in comp before vowels for 2 <s>viDi</s>
+197422	H2	vipaS	vipaS	icf	OK vipas
+197591	H2	vipat	vi-pat	icf	OK vi-pad
+198096	H2	viPalI	viPalI	icf	OK vi-Pala
+198473	H2	viBU	vi-BU	icf	OK vi-Bu
+198515	H2	viBva	viBva	icf	PROBABLE in comp for <s>vi-Bvan</s> below
+198791	H2	vimuKI	vimuKI	icf	PROBABLE in comp for <s>vimuKa-karaRa</s> <lex>n </lex> ifc the rendering averse to ,  ,
+198978	H2	viyac	viyac	icf	OK vi-yat
+198981	H2	viyad	viyad	icf	OK vi-yat
+198987	H2	viyan	viyan	icf	OK vi-yat
+199085	H2	virajI	virajI	icf	PROBABLE in comp for <s>vi-raja</s> or <s>vi-rajas</s>
+199238	H2	virAw	virAw	icf	MAYBE in comp for 2 <s>vi-rAj</s>
+199257	H2	virAq	virAq	icf	MAYBE in comp for 2 <s>vi-rAj</s>
+199444	H2	viroDi	vi-roDi	icf	OK vi-roDin
+199644	H2	vilasan	vi-lasan	icf	OK vi-lasat
+200377	H2	viw	viw	icf	MAYBE for 2 <see/> <pcol>p 995 , col 2</pcol> , in comp for 2 <s>viS</s>
+200410	H1	viSaMs	vi-SaMs	icf	MAYBE <vlex>P </vlex> <s>-SaMsati</s> Ved inf <s>-S/ase</s> , <to/>to recite , comprise in words  <msc/> <to/>to divide in parts for recitation
+201486	H2	viSvakarma	viSva-karma	icf	OK viSva-karman
+201503	H2	viSvataS	viSva-taS	icf	OK viSva-tas
+201509	H2	viSvato	viSva-to	icf	OK viSva-tas
+201526	H2	viSvA	viSvA	icf	OK viSva
+201542	H2	viSvAmitra	viSvA-mitra	icf	MAYBE <lex>m </lex> prob <quote> friend of all </quote> , N of a celebrated <as0>R2ishi</as0><as1><s>fzi</s></as1> or Sage having the patr <as0>Ga1thina</as0><as1><s>gATina</s></as1> , <as0>Ga1dheya</as0><as1><s>gADeya</s></as1> , and <as0>Ja1hnava</as0><as1><s>jAhnava</s></as1> ; he was at first a functionary , together with <as0>Vasisht2ha</as0><as1><s>vasizWa</s></as1> , of <as0>Su-da1s</as0><as1><s>su-dAs</s></as1> , king of the <asp0>Tr2itsus</asp0><as1><s>tftsu</s>s</as1> ; seeing <abE>V</abE><as0>Vasisht2ha</as0><as1><s>vasizWa</s></as1> preferred by the king , he went over to the <asp0>Bharatas</asp0><as1><s>Barata</s>s</as1> , but could not prevent their being defeated by <as0>Su-da1s</as0><as1><s>su-dAs</s></as1> , although he caused the waters of the rivers <as0>Vipa1s3</as0><as1><s>vipAS</s></as1> and <as0>S3utudri1</as0><as1><s>SutudrI</s></as1> to retire and so give the <asp0>Bharatas</asp0><as1><s>Barata</s>s</as1> free passage  ; he was born as a <as0>Kshatriya</as0><as1><s>kzatriya</s></as1> , deriving his lineage from an ancestor of <as0>Kus3ika</as0><as1><s>kuSika</s></as1> , named <as0>Puru1-ravas</as0><as1><s>purU-ravas</s></as1> , of the lunar race of kings , and himself sovereign of <as0>Kanya1-kubja</as0><as1><s>kanyA-kubja</s></as1> or <as0 type="ns">Kanoj</as0><as1>Kanoj</as1> ; his fame rests chiefly on his contests with the great <as0 type="ns">Bra1hman</as0><as1>Brahman</as1> <as0>Vasisht2ha</as0><as1><s>vasizWa</s></as1> , and his success in elevating himself though a <as0>Kshatriya</as0><as1><s>kzatriya</s></as1> , to the rank of a <as0 type="ns">Bra1hman</as0><as1>Brahman</as1> <see/>  : the <as0>Ra1ma1yan2a</as0><as1><s>rAmAyaRa</s></as1> , which makes him a companion and counsellor of the young <as0>Ra1ma-candra</as0><as1><s>rAma-candra</s></as1> , records <b></b> how <as0>Vis3va1mitra</as0><as1><s>viSvAmitra</s></as1> , on his accession to the throne , visited <as0>Vasisht2ha</as0><as1><s>vasizWa</s></as1>'s hermitage , and seeing there the cow of plenty <b>probably typical of <s>go</s> , <quote> the earth </quote></b> , offered him untold treasures in exchange for it , but being refused , prepared to take it by force ; a long contest ensued between the king and the saint <b>symbolical of the struggles between the <as0>Kshatriya</as0><as1><s>kzatriya</s></as1> and <as0 type="ns">Bra1hmanical</as0><as1>Brahmanical</as1> classes</b> , which ended in the defeat of <as0>Vis3va1mitra</as0><as1><s>viSvAmitra</s></as1> , whose vexation was such that , in order to become a <as0 type="ns">Bra1hman</as0><as1>Brahman</as1> and thus conquer his rival , he devoted himself to intense austerities <b>during which he was seduced by the nymph <as0>Menaka1</as0><as1><s>menakA</s></as1> and had by her a daughter , <as0>S3akuntala1</as0><as1><s>SakuntalA</s></as1></b> , gradually increasing the rigour of his mortification through thousands of years , till he successively earned the titles of <as0>Ra1jarshi</as0><as1><s>rAjarzi</s></as1> , <as0>R2ishi</as0><as1><s>fzi</s></as1> , <as0>Maharshi</as0><as1><s>maharzi</s></as1> , and finally <as0>Brahmarshi</as0><as1><s>brahmarzi</s></as1> Page995,1 ; he is supposed to be the author of nearly the whole of  ; moreover , a law-book , a <as0>Dhanurveda</as0><as1><s>Danurveda</s></as1> , and a medical wk are attributed to him  <etcetc/>
+201615	H2	viw	viw	icf	MAYBE for 1 <see/> <pcol>p 989 , col 2</pcol> in comp for 3 <s>viz</s>
+201625	H2	viq	viq	icf	MAYBE in comp for 3 <s>viz</s>
+201644	H2	viR	viR	icf	MAYBE in comp for 3 <s>viz</s>
+202015	H2	vizamI	vizamI	icf	PROBABLE in comp for <s>vi-zama</s> ,
+202109	H2	vizayI	vizayI	icf	OK vizaya
+202189	H2	vizuvad	vizuvad	icf	OK ~vat
+202196	H2	vizuvan	vizuvan	icf	OK ~vat
+202212	H2	vizvak	vizvak	icf	OK ~vaYc
+202229	H2	vizvag	vizvag	icf	OK ~vaYc
+202651	H2	vizRv	vizRv	icf	MAYBE in comp before vowels for <s>vizRu</s>
+202925	H2	vispazwI	vispazwI	icf	OK ~zwa
+203535	H2	vITI	vITI	icf	OK vITi
+203539	H2	vITy	vITy	icf	OK vITi
+204558	H2	vftty	vftty	icf	OK vftti
+204759	H2	vfdDy	vfdDy	icf	OK vfdDi
+204993	H2	vfza	vfza	icf	PROBABLE not always separable from 1 <s>vfza</s> , in comp for <s>vfzan</s>
+205042	H2	vfzaR	vfzaR	icf	OK vfzan
+205055	H2	vfzad	vfzad	icf	PROBABLE in comp for <s>vfzat</s> pr p of <root/> <s>vfz</s>
+205148	H2	vfzA	vfzA	icf	PROBABLE in comp for <s>vfza</s> or <s>vfzan</s>
+205358	H2	vegi	vegi	icf	OK vegin
+205436	H1A	veRi	veRi	icf	MAYBE <lex type="inh">f </lex> braided hair or a braid of hair , hair twisted into a single unornamented braid and allowed to fall on the back so worn by widows and women who mourn for absent husbands <cf/> <s>eka-veRi</s> ; the water of a river is often compared to such a braid , but in these meanings the form <s>veRI</s> is more common <see/> below   <etc/>
+205648	H1A	veda	veda	icf	MAYBE <lex type="inh">m </lex> N of certain celebrated works which constitute the basis of the first period of the <as0 type="ns">Hindu1</as0><as1>Hindu</as1> religion these works were primarily three , viz 1 the <as0>R2ig-veda</as0><as1><s>fg-veda</s></as1> , 2 the <as0>Yajur-veda</as0><as1><s>yajur-veda</s></as1> <b>of which there are , however , two divisions <see/> <s>tEttirIya-saMhitA</s> , <s>vAjasaneyi-saMhitA</s></b> , 3 the <as0>Sa1ma-veda</as0><as1><s>sAma-veda</s></as1> Page1015,2 ; these three works are sometimes called collectively <s>trayI</s> , <quote> the triple <as0>Vidya1</as0><as1><s>vidyA</s></as1> </quote> or <quote> threefold knowledge </quote> , but the <as0>R2ig-veda</as0><as1><s>fg-veda</s></as1> is really the only original work of the three , and much the most ancient <b>the oldest of its hymns being assigned by some who rely on certain astronomical calculations to a period between 4000 and 2500 B C , before the settlement of the <as0 type="ns">A1ryans</as0><as1>Aryans</as1> in India ; and by others who adopt a different reckoning to a period between 1400 and 1000 B C , when the <as0 type="ns">A1ryans</as0><as1>Aryans</as1> had settled down in the <as0 type="ns">Panja1b</as0><as1>Panjab</as1></b> ; subsequently a fourth <as0>Veda</as0><as1><s>veda</s></as1> was added , called the <as0>Atharva-veda</as0><as1><s>aTarva-veda</s></as1> , which was probably not completely accepted till after <as0>Manu</as0><as1><s>manu</s></as1> , as his law-book often speaks of the three <asp0>Vedas</asp0><as1><s>veda</s>s</as1>-calling them <s>trayam brahma sanAtanam</s> , <quote> the triple eternal <as0>Veda</as0><as1><s>veda</s></as1> </quote> , but only once <b></b> mentions the revelation made to <as0>Atharvan</as0><as1><s>aTarvan</s></as1> and <as0>An3giras</as0><as1><s>aNgiras</s></as1> , without , however , calling it by the later name of <as0>Atharva-veda</as0><as1><s>aTarva-veda</s></as1> ; each of the four <asp0>Vedas</asp0><as1><s>veda</s>s</as1> has two distinct parts , viz 1 <as0>Mantra</as0><as1><s>mantra</s></as1> , i e words of prayer and adoration often addressed either to fire or to some form of the sun or to some form of the air , sky , wind <etc1/> , and praying for health , wealth , long life , cattle , offspring , victory , and even forgiveness of sins , and 2 <as0>Bra1hman2a</as0><as1><s>brAhmaRa</s></as1> , consisting of <as0>Vidhi</as0><as1><s>viDi</s></as1> and <as0>Artha-va1da</as0><as1><s>arTa-vAda</s></as1> , i e directions for the detail of the ceremonies at which the <asp0>Mantras</asp0><as1><s>mantra</s>s</as1> were to be used and explanations of the legends <etc1/> connected with the <asp0>Mantras</asp0><as1><s>mantra</s>s</as1> <b>see <s>brAhmaRa</s> , <s>viDi</s></b> , both these portions being termed <s>Sruti</s> , revelation orally communicated by the Deity , and heard but not composed or written down by men <b><cf/> </b> , although it is certain that both <asp0>Mantras</asp0><as1><s>mantra</s>s</as1> and <asp0>Bra1hman2as</asp0><as1><s>brAhmaRa</s>s</as1> were compositions spread over a considerable period , much of the latter being comparatively modern ; as the <asp0>Vedas</asp0><as1><s>veda</s>s</as1> are properly three , so the <asp0>Mantras</asp0><as1><s>mantra</s>s</as1> are properly of three forms , 1 <as0>R2ic</as0><as1><s>fc</s></as1> , which are verses of praise in metre , and intended for loud recitation ; 2 <as0>Yajus</as0><as1><s>yajus</s></as1> , which are in prose , and intended for recitation in a lower tone at sacrifices ; 3 <as0>Sa1man</as0><as1><s>sAman</s></as1> , which are in metre , and intended for chanting at the <as0>Soma</as0><as1><s>soma</s></as1> or Moon-plant ceremonies , the <asp0>Mantras</asp0><as1><s>mantra</s>s</as1> of the fourth or <as0>Atharva-veda</as0><as1><s>aTarva-veda</s></as1> having no special name ; but it must be borne in mind that the <as0>Yajur</as0><as1><s>yajur</s></as1> and <as0>Sa1ma-veda</as0><as1><s>sAma-veda</s></as1> hymns , especially the latter , besides their own <asp0>Mantras</asp0><as1><s>mantra</s>s</as1> , borrow largely from the <as0>R2ig-veda</as0><as1><s>fg-veda</s></as1> ; the <as0>Yajur-veda</as0><as1><s>yajur-veda</s></as1> and <as0>Sa1ma-veda</as0><as1><s>sAma-veda</s></as1> being in fact not so much collections of prayers and hymns as special prayer- and hymn-books intended as manuals for the <as0>Adhvaryu</as0><as1><s>aDvaryu</s></as1> and <as0>Udga1tr2i</as0><as1><s>udgAtf</s></as1> priests respectively <b>see <s>yajur-veda</s> , <s>sAma-veda</s></b> ; the <as0>Atharva-veda</as0><as1><s>aTarva-veda</s></as1> , on the other hand , is , like the <as0>R2ig-veda</as0><as1><s>fg-veda</s></as1> , a real collection of original hymns mixed up with incantations , borrowing little from the <as0>R2ig</as0><as1><s>fg</s></as1> and having no direct relation to sacrifices , but supposed by mere recitation to produce long life , to cure diseases , to effect the ruin of enemies <etc1/> ; each of the four <asp0>Vedas</asp0><as1><s>veda</s>s</as1> seems to have passed through numerous <asp0>S3a1kha1s</asp0><as1><s>SAKA</s>s</as1> or schools , giving rise to various recensions of the text , though the <as0>R2ig-veda</as0><as1><s>fg-veda</s></as1> is only preserved in the <as0>S3a1kala</as0><as1><s>SAkala</s></as1> recension , while a second recension , that of the <asp0>Bha1shkalas</asp0><as1><s>BAzkala</s>s</as1> , is only known by name ; a tradition makes <as0>Vya1sa</as0><as1><s>vyAsa</s></as1> the compiler and arranger of the <asp0>Vedas</asp0><as1><s>veda</s>s</as1> in their present form: they each have an Index or <as0>Anukraman2i1</as0><as1><s>anukramaRI</s></as1> <b><qv/></b> , the principal work of this kind being the general Index or <as0>Sarva7nukraman2i1</as0><as1><s>sarvAnukramaRI</s></as1> <b><qv/></b> ; out of the <as0>Bra1hman2a</as0><as1><s>brAhmaRa</s></as1> portion of the <as0>Veda</as0><as1><s>veda</s></as1> grew two other departments of Vedic literature , sometimes included under the general name <as0>Veda</as0><as1><s>veda</s></as1> , viz the strings of aphoristic rules , called <asp0>Su1tras</asp0><as1><s>sUtra</s>s</as1> <b><qv/></b> , and the mystical treatises on the nature of God and the relation of soul and matter , called <as0>Upanishad</as0><as1><s>upanizad</s></as1> <b><qv/></b> , which were appended to the <asp0>A1ran2yakas</asp0><as1><s>AraRyaka</s>s</as1> <b><qv/></b> , and became the real <as0>Veda</as0><as1><s>veda</s></as1> of thinking <as0 type="ns">Hindu1s</as0><as1>Hindus</as1> , leading to the <asp0>Dars3anas</asp0><as1><s>darSana</s>s</as1> or systems of philosophy ; in the later literature the name of <quote> fifth <as0>Veda</as0><as1><s>veda</s></as1> </quote> is accorded to the <asp0>Itiha1sas</asp0><as1><s>itihAsa</s>s</as1> or legendary epic poems and to the <asp0>Pura1n2as</asp0><as1><s>purARa</s>s</as1> , and certain secondary <asp0>Vedas</asp0><as1><s>veda</s>s</as1> or <asp0>Upa-vedas</asp0><as1><s>upa-veda</s>s</as1> <b><qv/></b> are enumerated ; the <asp0>Veda7n3gas</asp0><as1><s>vedA<srs/>Nga</s>s</as1> or works serving as limbs <b>for preserving the integrity</b> of the <as0>Veda</as0><as1><s>veda</s></as1> are explained under <s>vedA<srs/>Nga</s> below: the only other works included under the head of <as0>Veda</as0><as1><s>veda</s></as1> being the <asp0>Paris3isht2as</asp0><as1><s>pariSizwa</s>s</as1> , which supply rules for the ritual omitted in the <asp0>Su1tras</asp0><as1><s>sUtra</s>s</as1> ; in the <as0>Br2ihad-a1ran2yaka</as0><as1><s>bfhad-AraRyaka</s></as1> <as0>Upanishad</as0><as1><s>upanizad</s></as1> the <asp0>Vedas</asp0><as1><s>veda</s>s</as1> are represented as the breathings of <as0>Brahma1</as0><as1><s>brahmA</s></as1> , while in some of the <asp0>Pura1n2as</asp0><as1><s>purARa</s>s</as1> the four <asp0>Vedas</asp0><as1><s>veda</s>s</as1> are said to have issued out of the four mouths of the four-faced <as0>Brahma1</as0><as1><s>brahmA</s></as1> and in the <as0>Vishn2u-Pura1n2a</as0><as1><s>vizRu-purARa</s></as1> the <as0>Veda</as0><as1><s>veda</s></as1> and <as0>Vishn2u</as0><as1><s>vizRu</s></as1> are identified
+205937	H2	vedANga	vedA@Nga	icf	MAYBE <lex>n </lex> <quote> a limb for preserving the body of the <as0>Veda</as0><as1><s>veda</s></as1> </quote> , N of certain works or classes of works regarded as auxiliary to and even in some sense as part of the <as0>Veda</as0><as1><s>veda</s></as1> , six are usually enumerated <b>and mostly written in the <as0>Su1tra</as0><as1><s>sUtra</s></as1> or aphoristic style</b> ; 1 <s>SikzA</s> , <quote> the science of proper articulation and pronunciation </quote> , comprising the knowledge of letters , accents , quantity , the use of the organs of pronunciation , and phonetics generally , but especially the laws of euphony peculiar to the <as0>Veda</as0><as1><s>veda</s></as1> <b>many short treatises and a chapter of the <as0>Taittiri1ya-a1ran2yaka</as0><as1><s>tEttirIya-AraRyaka</s></as1> are regarded as the representatives of this subject ; but other works on Vedic phonetics may be included under it <see/> <s>prAtiSAKya</s></b>: 2 <s>Candas</s> , <quote> metre </quote> <b>represented by a treatise ascribed to <as0>Pin3gala-na1ga</as0><as1><s>piNgala-nAga</s></as1> , which , however , treats of <as0 type="ns">Pra1kr2it</as0><as1>Prakrit</as1> as well as <as0 type="ns">San6skr2it</as0><as1>Sanskrit</as1> metres , and includes only a few of the leading Vedic metres</b>: 3 <s>vyAkaraRa</s> , <quote> linguistic analysis or grammar </quote> <b>represented by <as0>Pa1n2ini</as0><as1><s>pARini</s></as1>'s celebrated <asp0>Su1tras</asp0><as1><s>sUtra</s>s</as1></b>: 4 <s>nirukta</s> , <quote> explanation of difficult Vedic words </quote> <b><cf/> <s>yAska</s></b>: 5 <s>jyotiza</s> , <quote> astronomy </quote> , or rather the Vedic calendar <b>represented by a small tract , the object of which is to fix the most auspicious days for sacrifices</b>: 6 <s>kalpa</s> , <quote> ceremonial </quote> , represented by a large number of <as0>Su1tra</as0><as1><s>sUtra</s></as1> works <b><cf/> <s>sUtra</s></b>: the first and second of these <asp0>Veda7n3gas</asp0><as1><s>vedA<srs/>Nga</s>s</as1> are said to be intended to secure the correct reading or recitation of the <as0>Veda</as0><as1><s>veda</s></as1> , the third and fourth the understanding of it , and the fifth and sixth its proper employment at sacrifices: the <asp0>Veda7n3gas</asp0><as1><s>vedA<srs/>Nga</s>s</as1> are alluded to by <as0>Manu</as0><as1><s>manu</s></as1> , who calls them , in  , <asp0>Pravacanas</asp0><as1><s>pravacana</s>s</as1> , <quote> expositions </quote> , a term which is said to be also applied to the <asp0>Bra1hman2as</asp0><as1><s>brAhmaRa</s>s</as1>
+206058	H2	vedi	vedi	icf	MAYBE in comp for 1 <s>vedin</s>
+206102	H2	vedi	vedi	icf	MAYBE <lex>f </lex> later also <s>vedI</s> ; for 1 2 <see/> col 2 an elevated or according to some excavated piece of ground serving for a sacrificial altar generally strewed with <as0>Kus3a</as0><as1><s>kuSa</s></as1> grass , and having receptacles for the sacrificial fire ; it is more or less raised and of various shapes , but usually narrow in the middle , on which account the female waist is often compared to it  <etcetc/>
+206139	H2	vedy	vedy	icf	MAYBE in comp for 3 <s>vedi</s>
+206399	H2	veSma	veSma	icf	OK veSman
+207185	H3	vEDahiMsAGatimiramArtaRqodaya	vEDa-hiMsA@Ga-timiramArtaRqo@daya	icf	MAYBE <lex>m </lex> N of wk containing an apology for animal sacrifices as enjoined in the <as0>S3ruti</as0><as1><s>Sruti</s></as1> and <as0>Smr2iti</as0><as1><s>smfti</s></as1> , and composed A D 1854
+207550	H2	vEri	vEri	icf	OK vErin
+208195	H1	vy	vy	icf	MAYBE in comp before vowels for 3 <s>v/i</s>
+208372	H2	vyajanI	vyajanI	icf	OK vyajana
+208426	H2	vyaktI	vyaktI	icf	OK vy-akta
+208567	H2	vyatireki	vy-atireki	icf	OK vyatirekin
+208855	H2	vyaBicAri	vy-aBicAri	icf	OK ~cArin
+208900	H2	vyayi	vyayi	icf	OK vyayin
+208908	H2	vyayI	vyayI	icf	OK vyaya
+209096	H2A	vyavasTita	vy-avasTita	icf	MAYBE <lex type="inh">mfn </lex> persevering in , sticking or adhering to loc or comp ; with <s>vAkye</s> , <quote> abiding in what is said </quote> , <quote> obeying </quote>   <etc1/> intent upon , caring for loc
+209218	H2A	vyavahArin	vy-avahArin	icf	MAYBE <lex type="inh">mfn </lex> fit or competent for legal proceedings or for affairs , being of age <phw><dL>709218</dL><s>~ri-tA</s> <lex type="phw">f </lex></phw> majority in law
+209303	H2	vyasani	vyasani	icf	OK vyasanin
+209434	H2	vyAkulI	vyAkulI	icf	OK vy-Akula
+209664	H2	vyAjI	vyAjI	icf	OK vy-Aja
+209736	H2	vyADy	vyADy	icf	OK vy-ADi
+209766	H2	vyApi	vyApi	icf	OK vy-Apin
+209803	H2	vyApty	vyApty	icf	OK vy-Apti
+209976	H2	vyAlI	vyAlI	icf	OK vyAla
+210364	H2	vyoma	vyoma	icf	MAYBE for 2 <see/> col 3 , in comp for 2 <s>vyoman</s>
+210805	H2	vrIhy	vrIhy	icf	OK vrIhi
+210897	H1	Sak	Sak	icf	MAYBE <vlex type="root"></vlex> <vlex>cl 5 P </vlex>  <s>Saknoti</s> pf <s>SaS/Aka</s> , <s>Sek/uH</s>  <etcetc/> ; aor <s>/aSakat</s>  <etc1/> <b>Ved also Pot <s>Sakeyam</s> and <s>SakyAm</s> ; Impv <s>SagDi</s> , <s>Saktam</s></b> ; fut <s>SaktA</s> , or <s>SakitA</s> Gr Page1044,2 ; <s>Sakzyati</s>,<s>~te</s>  <etc/> ; <s>Sakizyate</s>,<s>~te</s> Gr ; inf <s>-Saktave</s>  ; <s>Saktum</s> or <s>Sakitum</s> Gr , <to/>to be strong or powerful , be able to or capable of or competent for with acc dat or loc , rarely acc of a verbal noun , or with an inf in <s>am</s> or <s>tum</s> ; or with pr p ; e g with <s>grahaRAya</s> or <s>grahaRe</s> , <quote> to be able to seize </quote> ; <s>vaDa-nirRekam</s> <s>a-Saknuvan</s> , <quote> unable to atone for slaughter </quote> ; <s>Sak/ema vAj/ino y/amam</s> , <quote> may we be able to guide horses </quote> ; <s>vI<srs/>kzitum</s> <s>na</s> <s>Saknoti</s> , <quote> he is not able to see </quote> ; <s>pUrayan na Saknoti</s> , <quote> he is not able to fill </quote>  <etc1/> <etc1/> in these meanings ep also <s>Sakyati</s>,<s>~te</s> , with inf in <s>tuM</s> cf  <msc/> <to/>to be strong or exert one's self for another dat , aid , help , assist  <msc/> <to/>to help to dat of thing  : Pass <s>Sakyate</s> ep also <s>~ti</s> , <to/>to be overcome or subdued , succumb  <msc/> <to/>to yield , give way  <msc/> <to/>to be compelled or caused by any one instr to inf  <msc/> <to/>to be able or capable or possible or practicable with an inf in pass sense e g <s>tat kartuM Sakyate</s> , <quote> that can be done </quote> ; sometimes with pass p e g <s>na Sakyate vAryamARaH</s> , <quote> he cannot be restrained </quote> ; or used impers , with or with out instr e g <s>yadi</s> <b><s>tvayA</s></b> <s>Sakyate</s> , <quote> if it can be done by thee </quote> , <quote> if it is possible </quote>   : Caus <s>SAkayati</s> aor <s>aSISakat</s> , Gr : Desid <see/> <root/><s>Sikz</s> <b>cf accord to some , Gk <gk>1</gk> , <gk>2</gk> , Germ <etym>Hag</etym> <etym>Hecke</etym> <etym>hegen</etym> ; <etym>behagen</etym> </b>
+211027	H2	Sakty	Sakty	icf	OK Sakti
+211304	H2	SakalI	SakalI	icf	OK Sakala
+211408	H2	Sakfd	Sakfd	icf	OK Sakft
+211413	H2	Sakfn	Sakfn	icf	OK Sakft
+212365	H2	SatA	SatA	icf	OK Sata
+212515	H2	SanEr	SanEr	icf	OK SanEs
+212521	H2	SanES	SanES	icf	OK SanEs
+213070	H2	SaM	SaM	icf	MAYBE in comp for 2 <s>Sam</s>
+213691	H2	SaraRI	SaraRI	icf	OK SaraRa
+213728	H2	Sarac	Sarac	icf	OK Sarad
+213737	H2	Saraj	Saraj	icf	OK Sarad
+213739	H2	Sarat	Sarat	icf	OK Sarad
+213755	H2	Saran	Saran	icf	OK Sarad
+214014	H2	Sarma	Sarma	icf	OK Sarman
+214392	H2	SaSi	SaSi	icf	OK SaSin
+214486	H2	SaSI	SaSI	icf	OK SaSa
+215449	H2	SAnty	SAnty	icf	OK SAnti
+215878	H2	SArNgi	SArNgi	icf	OK SArNgin
+216031	H2	SAli	SAli	icf	PROBABLE for 2 <see/> <pcol>p 1068 , col 1</pcol> , in comp for <s>SAlin</s>
+216057	H2	SAlInI	SAlInI	icf	OK SAlIna
+216163	H2	SAly	SAly	icf	MAYBE in comp for 2 <s>SAli</s>
+216601	H2	SiKaRqi	SiKaRqi	icf	OK ~Rqin
+216717	H2	SiKari	SiKari	icf	OK ~rin
+216744	H2	SiKi	SiKi	icf	OK SiKin
+216848	H2	SiYjad	SiYjad	icf	OK ~jat
+216923	H2	Sity	Sity	icf	OK Siti
+216957	H2	SiTilI	SiTilI	icf	OK SiTila
+217100	H2	Sira	Sira	icf	OK Siras
+217104	H2	SiraH	SiraH	icf	OK Siras
+217138	H2	SiraS	SiraS	icf	OK Siras
+217154	H2	Siro	Siro	icf	OK Siras
+217381	H2	Sila	Sila	icf	PROBABLE for 1 <see/> col 1 , in comp for <s>SilA</s>
+217409	H2	SilI	SilI	icf	OK SilA
+217480	H2	Silpi	Silpi	icf	OK Silpin
+218015	H2	SiSirI	SiSirI	icf	OK SiSira
+218501	H2	SItalI	SItalI	icf	OK SItala
+218510	H2	SItI	SItI	icf	OK Sita
+218640	H2	SIrzaR	SIrzaR	icf	OK SIrzan
+218924	H2	Sukty	Sukty	icf	OK Sukti
+219154	H2	SuklI	SuklI	icf	OK Sukla
+219291	H2	SucI	SucI	icf	OK Suci
+219296	H2	Sucy	Sucy	icf	PROBABLE for 2 <see/> col 3 , in comp for <s>Suci</s>
+219576	H2	SunaH	SunaH	icf	OK Sunas
+219606	H2	Suno	Suno	icf	OK Sunas
+219773	H2	SuBaM	SuBaM	icf	PROBABLE in comp for <s>SuBam</s> acc of 2 <s>SuB</s>
+220129	H2	SUnyI	SUnyI	icf	OK SUnya
+220720	H2	SfNgi	SfNgi	icf	OK SfNgin
+220767	H2	SftaM	SftaM	icf	OK Sft/am
+220806	H2	SeKarI	SeKarI	icf	OK SeKara
+221201	H2	SElAli	SElAli	icf	OK SElAlin
+221417	H2	Sociz	Sociz	icf	OK Soc/is
+221599	H1B	SoBa	SoBa	icf	PROBABLE <lex type="inh">m </lex> lustre in comp for <s>SoBA</s> <qv/>
+221972	H2	SmaSA	SmaSA	icf	MAYBE <lex>f </lex> prob connected with <s>aSman</s> the elevated ridge or edge of a trench or ditch or channel for water or of a vessel  but in  the <lex type="hwalt">m </lex> pl <s>SmaS/AH</s> is said to mean those deceased ancestors who consume or eat the oblations <b>?</b> , and a comp <s>SmaSA<srs/>nn/a</s> is formed to explain <s>SmaSAna</s>
+222153	H2	SyAmalI	SyAmalI	icf	OK SyAmala
+222202	H2	SyAmI	SyAmI	icf	OK SyAma
+222321	H1	Srat	Srat	icf	MAYBE or <s>Sr/ad</s> <lex>ind </lex> accord to  = <s>satya</s> , <quote> truth , faithfulness </quote> ; prob allied to Lat credo for cred-do ; cor, cord-is ; Gk <gk>1</gk> , <gk>2</gk> , Eng <quote> heart </quote> ; only in comp with <root/> <s>kf</s> and <s>dAna</s> and <root/> <s>DA</s> and its derivations <see/> below
+222494	H2	Srava	Srava	icf	MAYBE in comp for 1 <s>Sravas</s>
+222575	H2	Sravo	Sravo	icf	MAYBE in comp for 1 <s>Sravas</s>
+223385	H2	Sry	Sry	icf	MAYBE in comp for 2 <s>SrI</s>
+223652	H2	Sruty	Sruty	icf	MAYBE in comp for 1 <s>Sruti</s>
+223744	H2	SreyaH	SreyaH	icf	OK Sreyas
+223751	H2	Sreyo	Sreyo	icf	OK Sreyas
+223984	H2	SlakzRI	SlakzRI	icf	OK SlakzRa
+224081	H2	Slezma	Slezma	icf	OK Slezman
+224195	H1	Svan	Svan	icf	MAYBE <lex>m </lex> nom sg du pl <s>SvA</s> , <s>SvAnO</s> , <s>SvAnas</s> ; weakest base <s>Sun</s> <cf/> 2 <s>Suna</s> <etc1/> , p 1082 ; in some comp <s>SvA</s> for <s>Sva</s> <cf/> below , a dog , hound , cur
+224197	H2	Sva	Sva	icf	MAYBE in comp for 1 <s>Svan</s>
+224302	H2	SvA	SvA	icf	MAYBE in comp for 1 <s>Svan</s> above
+224330	H2	SvAvic	SvAvic	icf	PROBABLE in comp for <s>Sv/a-viD</s> below
+224333	H2	SvAvid	SvAvid	icf	PROBABLE in comp for <s>SvA-viD</s> below
+224339	H2	SvAvil	SvAvil	icf	PROBABLE in comp for <s>SvA-viD</s> above
+224432	H2	SvaH	SvaH	icf	MAYBE in comp for 2 <s>Sv/as</s>
+224451	H2	Svo	Svo	icf	MAYBE in comp for 2 <s>Sv/as</s>
+224900	H1	zaw	zaw	icf	PROBABLE <s>zaq</s> in comp for <s>zaz</s> <see/> below
+224940	H1	zaz	zaz	icf	MAYBE <lex>mfn pl </lex> prob for orig <s>zakz</s> ; nom acc <s>z/aw</s> instr <s>zaqB/is</s> dat abl <s>zaqBy/as</s> , gen <s>zaRR/Am</s> loc <s>zaws/u</s> ; in comp <s>zaz</s> becomes <s>zaw</s> before hard letters , <s>zaq</s> before soft , <s>zo</s> before <s>d</s> , which is changed into <s>q</s> , and <s>R</s> before nasals six with the counted object in apposition or exceptionally in gen or ifc e g <s>zaq ftavah</s> , or <s>zaq ftunAm</s> , <quote> the six seasons </quote> , <s>zawsu</s> <s>zatsu mAsezu</s> , <quote> at periods of six months </quote>  at the end of a <as0>Bahuvri1hi</as0><as1><s>bahuvrIhi</s></as1> compound it is declined like other words ending in <s>z</s> , e g <s>priya-zazas</s> nom pl  ; among the words used as expressions for the number six esp in giving dates are <s>aNga</s> , <s>darSana</s> , <s>tarka</s> , <s>rasa</s> , <s>ftu</s> <s>vajrakoRa</s> <s>kArttikeya-muKa</s>  <etc/> <etc/>
+224944	H2	zaw	zaw	icf	OK zaz
+225065	H2	zaq	zaq	icf	OK zaz
+225265	H2	zaR	zaR	icf	OK zaz
+225299	H2	zaL	zaL	icf	PROBABLE in comp for <s>zaz</s> <see/> <s>zaq-akzara</s> , <s>zaq-ara</s> <etc/>
+225342	H2	zazwy	zazwy	icf	MAYBE in comp before vowels for <s>zazwi</s>
+225395	H2	zazWy	zazWy	icf	MAYBE in comp before vowels for <s>zazWI</s>
+225400	H2	zo	zo	icf	OK zaz
+225419	H2	zoqaSa	zoqaSa	icf	PROBABLE in comp for <s>z/o-qaSan</s> below
+225486	H2	zoqaSi	zoqaSi	icf	OK ~qaSin
+225619	H2	saMyad	saM-yad	icf	OK saM-yat
+227174	H1	saMsTA	saM-sTA	icf	MAYBE <vlex>A1 </vlex> <s>-tizWate</s>  ; ep and mc also <vlex>P </vlex> <s>-tizWati</s> ; Ved inf <s>-sTAtos</s>  , <to/>to stand together , hold together pf p du <s>-tasTAn/e</s> , said of heaven and earth  <msc/> <to/>to come or stay near loc    <msc/> <to/>to meet as enemies , come into conflict  <msc/> <to/>to stand still , remain , stay , abide lit and fig ; with <s>vAkye</s> , <quote> to obey </quote>   <etc/> <msc/> <to/>to be accomplished or completed esp applied to rites      <msc/> <to/>to prosper , succeed , get on well  <msc/> <to/>to come to an end , perish , be lost , die    <msc/> <to/>to become , be turned into or assume the form of acc  : Caus <s>-sTApayati</s> Subj aor <s>tizwipaH</s>  , <to/>to cause to stand up or firm , raise on their legs again fallen horses  <msc/> <to/>to raise up , restore dethroned kings  <msc/> <to/>to confirm , encourage , comfort <s>AtmAnam</s> , or <s>hfdayam</s> , <quote> one's self </quote> i e <quote> take heart again </quote>   <msc/> <to/>to fix or place upon or in loc   <etc/> <msc/> <to/>to put or add to <s>uparI</s>  <msc/> <to/>to build a town  <msc/> <to/>to heap , store up goods  <msc/> <to/>to found , establish , fix , settle , introduce , set a foot    <msc/> <to/>to cause to stand still , stop , restrain , suppress breath , semen <etc1/>  <msc/> <to/>to accomplish , conclude , complete esp a rite    <msc/> <to/>to put to death , kill   <msc/> <to/>to perform the last office for i e <to/>to burn , cremate a dead body  <msc/> <to/>to put to subjection , subject  : Desid of Caus <s>-sTApayizati</s> , <to/>to wish to finish or conclude
+227783	H2	sakalI	sakalI	icf	MAYBE in comp for 2 <s>sa-kala</s>
+227808	H2	sakfd	sakfd	icf	MAYBE in comp for 1 <s>sakft</s>
+227829	H2	sakfn	sakfn	icf	MAYBE in comp for 1 <s>sakft</s>
+227833	H2	sakfl	sakfl	icf	MAYBE in comp for 1 <s>sakft</s>
+227913	H1B	sagara	sa-gara	icf	MAYBE <lex type="inh">m </lex> N of a king of the solar race , sovereign of <as0>Ayodhya1</as0><as1><s>ayoDyA</s></as1> son of <as0>Ba1hu</as0><as1><s>bAhu</s></as1> ; he is said to have been called <as0>Sa-gara</as0><as1><s>sa-gara</s></as1> , as born together with a poison given to his mother by the other wife of his father ; he was father of <as0>Asaman5ja</as0><as1><s>asamaYja</s></as1> by <as0>Kes3ini1</as0><as1><s>keSinI</s></as1> and of sixty thousand sons by <as0>Su-mati</as0><as1><s>su-mati</s></as1> ; the latter were turned into a heap of ashes by the sage <as0>Kapila</as0><as1><s>kapila</s></as1> <b>see <s>BagIraTa</s></b> , and their funeral ceremonies could only be performed by the waters of <as0>Gan3ga1</as0><as1><s>gaNgA</s></as1> to be brought from heaven for the purpose of purifying their remains Page1125,2 ; this was finally accomplished by the devotion of <as0>Bhagi1ratha</as0><as1><s>BagIraTa</s></as1> , who having led the river to the sea , called it <as0>Sa1gara</as0><as1><s>sAgara</s></as1> in honour of his ancestor: <as0>Sagara</as0><as1><s>sagara</s></as1> is described as having subdued the <asp0>S3akas</asp0><as1><s>Saka</s>s</as1> , <asp0>Yavanas</asp0><as1><s>yavana</s>s</as1> , and other barbarous tribes ; pl <quote> the sons of <as0>Sagara</as0><as1><s>sagara</s></as1> </quote>   <etc/>
+228116	H2	saMkarI	saMkarI	icf	OK saMkara
+228415	H2A	saMKyA	saM-KyA	icf	MAYBE <lex type="inh">f </lex> in geom a gnomon for ascertaining the points of the compass ,
+228789	H2	saMGI	saMGI	icf	OK saMGa
+229043	H2	sajjI	sajjI	icf	OK sajja
+229120	H2	saMcAri	saMcAri	icf	MAYBE for <s>saM-cArin</s> in comp
+229645	H2	sac	sac	icf	OK sat
+229663	H2	saccid	saccid	icf	PROBABLE in comp for <s>sac-cit</s> above
+229677	H2	saccin	saccin	icf	OK sac-cit
+229679	H2	saj	saj	icf	OK sat
+230178	H2	satyA	satyA	icf	OK satya
+230196	H2	sad	sad	icf	OK sat
+230226	H3	sadasad	sad-asad	icf	MAYBE for <s>-asat</s> in comp
+230227	H3	sadasan	sad-asan	icf	MAYBE for <s>-asat</s> in comp
+230344	H2	san	san	icf	OK sat
+230460	H2	sataH	sataH	icf	OK satas
+230462	H2	sato	sato	icf	OK satas
+230557	H2	sadaH	sadaH	icf	OK sadas
+230581	H2	sado	sado	icf	OK sadas
+230590	H2	sadma	sadma	icf	OK sadman
+230844	H2	sadfg	sadfg	icf	OK sadfS
+230875	H2	sadya	sadya	icf	OK sadyas
+230878	H2	sadyaH	sadyaH	icf	OK sadyas
+230911	H2	sadyaS	sadyaS	icf	OK sadyas
+230917	H2	sadyo	sadyo	icf	OK sadyas
+231029	H2	sanad	sanad	icf	PROBABLE in comp for <s>sanat</s> pr p of <root/>1 <s>san</s>
+231061	H2	sanaH	sanaH	icf	OK sanas
+231102	H2	sano	sano	icf	OK sanas
+231587	H1	saMDA	saM-DA	icf	MAYBE <vlex>P A1 </vlex> <s>-daDAti</s> , <s>-Datte</s> ep 1 pl pr <s>-daDAmahe</s> <eq/> <s>-daDmahe</s> ; pr p <s>-DAna</s> = <s>-daDAna</s> ; inf <s>-Ditum</s> <eq/> <s>-DAtum</s> , <to/>to place or hold or put or draw or join or fasten or fix or sew together , unite with <s>akzIRi</s> , <quote> to close the eyes </quote> ; with <s>vraRam</s> , <quote> to heal a wound </quote> ; with <s>manas</s> , <quote> to compose the mind </quote> ; with <s>mitr/a-DitAni</s> , <quote> to conclude an alliance </quote> ; with <s>vAcam</s> , <quote> to hold or interchange conversation </quote> , to combine , connect with instr  <etcetc/> <msc/> <vlex>A1 </vlex> <to/>to bring together , reconcile   <msc/> <to/>to be reconciled , agree with instr , rarely acc ,  <etcetc/> <msc/> <to/>to mend , restore , redress   <etc/> <msc/> <to/>to lay down on or in loc , fix on esp an arrow on a bow , with instr or with loc e g <s>DanuH SareRa</s> , or <s>SaraM Danuzi</s> , <quote> to take aim </quote> ; generally <vlex>A1 </vlex>    <msc/> <vlex>A1 </vlex> <to/>to direct towards <s>tataH</s>  <msc/> <to/>to aim at ?  <msc/> <to/>to involve in loc  <msc/> <to/>to confer on loc , grant , yield , bestow with <s>nAma</s> and gen , <quote> to give a name to </quote> ; <vlex>A1 </vlex> with <s>SradDAm</s> and loc , <quote> to place credence in </quote> ; with <s>sAhAyyam</s> , <quote> to afford assistance </quote>   <etc/> <msc/> <to/>to cause , inflict   <msc/> <vlex>A1 </vlex> <to/>to be a match for , hold out against acc  <msc/> <to/>to comprehend  <msc/> <vlex>A1 </vlex> <to/>to use , employ instr  : Pass <s>-DIyate</s> , <to/>to be put together or joined or connected <etc1/> <msc/> <to/>to be placed or held in loc  <msc/> <to/>to become possessed of instr  : Desid <s>-Ditsati</s> , <to/>to wish to place or join together , desire to repair
+231774	H2	saMDy	saMDy	icf	OK saMDi
+232425	H2	sapiRqI	sapiRqI	icf	OK sapiRqa
+232432	H2	sapta	sapta	icf	PROBABLE ifc <cf/> <s>tri-zapt/a</s> , <s>tri-sapt/a</s> and in comp for <s>sapt/an</s> , seven
+232812	H2	saPalI	saPalI	icf	OK saPala
+232987	H1	sam	sam	icf	MAYBE <lex>ind </lex> connected with 7 <s>sa</s> and 2 <s>sama</s> , and opp to 3 <s>vi</s> <qv/> with , together with , along with , together , altogether used as a preposition or prefix to verbs and verbal derivatives , like Gk <gk>1</gk> ,Lat <etym>con</etym> , and expressing <quote> conjunction </quote> , <quote> union </quote> , <quote> thoroughness </quote> , <quote> intensity </quote> , <quote> completeness </quote> e g <s>saM<root/>yuj</s> , <quote> to join together </quote> ; <s>saM-<root/>DA</s> , <quote> to place together </quote> ; <s>saM-Di</s> , <quote> placing together </quote> ; <s>saM-<root/>tap</s> , <quote> to consume utterly by burning </quote> ; <s>sam-ucCeda</s> , <quote> destroying altogether , complete destruction </quote> ; in Ved the verb connected with it has sometimes to be supplied , e g <s>/Apo agn/im yaS/asaH s/aM h/i pUrv/IH</s> , <quote> for many glorious waters surrounded <as0>Agni</as0><as1><s>agni</s></as1> </quote> ; it is sometimes prefixed to nouns in the sense of 2 <s>sama</s> , <quote> same </quote> ; cf <s>samarTa</s>
+233288	H2	samAvac	samAvac	icf	PROBABLE in comp for <s>sam/Avat</s> below
+233290	H2	samAvaj	samAvaj	icf	MAYBE in comp for next
+233294	H2	samAvad	samAvad	icf	MAYBE in comp for prec
+233300	H2	samI	samI	icf	OK sama
+233896	H2	samavAyi	samavA@yi	icf	OK samavA<srs/>yin
+234093	H2	samAcAra	sam-AcAra	icf	MAYBE <lex>m </lex> for <s>samA<srs/>c~</s> <see/> <pcol>p 1153 , col 1</pcol> procedure , practice , conduct , behaviour in comp   <etc/>
+234860	H2	samayA	samayA	icf	PROBABLE for 1 <s>samayA</s> <see/> <pcol>p 1153 , col 2</pcol> , in comp for <s>samaya</s>
+234899	H2	samit	samit	icf	PROBABLE in comp for <s>samiD</s> for <s>sam-it</s> <see/> above
+234909	H2	samid	samid	icf	OK samiD
+235003	H2	samIpI	samIpI	icf	OK samIpa
+235784	H2	samuhya	sam-uhya	icf	PROBABLE <lex>mfn </lex> in comp for <s>sam-Uhya</s>
+235982	H1	sampad	sam-pad	icf	MAYBE <vlex>A1 </vlex> <s>-padyate</s> in some forms also <vlex>P </vlex> ; ind p <s>-pAdam</s> <qv/> , <to/>to fall or happen well , turn out well , succeed , prosper , accrue to dat or gen  <etcetc/> <msc/> <to/>to become full or complete as a number , amount to    <msc/> <to/>to fall together , meet or unite with , obtain , get into , partake of instr or acc    <etc/> <msc/> <to/>to enter into , be absorbed in acc or loc   <msc/> <to/>to be produced , be brought forth , be born , arise   <msc/> <to/>to become , prove , turn into nom   <etc/> <msc/> <to/>to be conducive to , produce dat  Va1rtt on  <msc/> with adv in <s>sAt</s> <to/>to become thoroughly  <msc/> <to/>to fall into a Person's , power  <msc/> with adv in <s>tra</s> <to/>to fall to a person's share  <msc/> <to/>to produce a partic sound as that expressed by an onomatopoetic word in <s>A</s>  : Caus <s>-pAdayati</s> rarely <s>~te</s> , to cause to succeed , cause to arise , bring about , produce , effect , accomplish with <s>SuSrUzAm</s> and gen , <quote> to obey </quote>   <etc/> <msc/> <to/>to make full , complete   <msc/> <to/>to transform , make or turn into acc  <msc/> <to/>to provide or furnish with instr ; with <s>kriyayA</s> , <quote> to charge or entrust a person with a business </quote>   Page1172,1  <msc/> <to/>to afford to , procure for dat or gen   <etc/> <msc/> <to/>to attain , obtain , acquire   <etc/> <msc/> <to/>to ponder on , deliberate  <msc/> <to/>to consent , agree   : Desid of Caus <s>-pipAdayizati</s> <see/> <s>sam-pipAdayizA</s> <etc1/> , col , 2 : Intens <s>-panIpadyate</s> , to fit well
+235983	H2	sampac	sampac	icf	OK sampad
+235986	H2	sampat	sampat	icf	OK sampad
+236171	H2	sampuwI	sampuwI	icf	OK sam-puwa
+236781	H2	sambanDi	sam-banDi	icf	PROBABLE <lex>mfn </lex> mc and in comp for <s>~banDin</s> joined or connected with <see/> <s>suKa-s~</s>
+237148	H2A	sammita	sam-mita	icf	MAYBE <lex type="inh">mfn </lex> of the same measure or extent , equal , like , same in length , height , number , value <etc1/> , corresponding to , resembling , passing for instr , rarely gen ; or comp  <etcetc/>
+237200	H2	sammuKI	sammuKI	icf	OK ~Ka
+237324	H2	samyak	samyak	icf	OK samyaYc
+237352	H2	samyag	samyag	icf	OK samyaYc
+237385	H2	samyaN	samyaN	icf	OK samyaYc
+237398	H2	samrAw	samrAw	icf	OK samrAj
+237400	H2	samrAq	samrAq	icf	OK samrAj
+237446	H1B	sara	sara	icf	MAYBE <lex type="inh">m </lex> often v l or w r for <s>Sara</s> also in comp <s>sara-ja</s> <etc1/> for <s>Sara-ja</s> <etc/>
+237452	H1B	sara	sara	icf	PROBABLE <lex>n </lex> a lake , pool also irregularly in comp for <s>saras</s>
+237460	H2	saraH	saraH	icf	OK saras
+237546	H2	saralI	saralI	icf	OK sarala
+237575	H2	sarasvati	sarasvati	icf	OK sarasvatI
+237647	H2	sarid	sarid	icf	OK sarit
+237657	H2	sarin	sarin	icf	OK sarit
+237668	H2	saro	saro	icf	OK saras
+238067	H2	sarpiH	sarpiH	icf	PROBABLE in comp for <s>sarpis</s> below
+238076	H2	sarpir	sarpir	icf	PROBABLE in comp for <s>sarpis</s> below
+238086	H2	sarpiz	sarpiz	icf	OK sarpis
+238102	H2	sarpI	sarpI	icf	PROBABLE in comp for <s>sarpa</s> <root/>
+239187	H2	sarvataH	sarvataH	icf	OK sarvatas
+239192	H2	sarvataS	sarvataS	icf	OK sarvatas
+239196	H2	sarvato	sarvato	icf	OK sarvatas
+240057	H2	saho	saho	icf	OK sahas
+240425	H2	sahAyI	sahA@yI	icf	OK sahA<srs/>ya
+240499	H1	sahasra	sahasra	icf	MAYBE <lex>n </lex> rarely <lex type="hw">m </lex> perhaps fr 7 , <s>sa</s> + <s>hasra</s> = Gk <gk>1</gk> for <gk>2</gk> ; cf Pers <etym>haza1r</etym> a thousand with the counted object in the same case sg or pl e g <s>sahasreRa bAhunA</s> , <quote> with a thousand arms </quote>  ; <s>sahasraM BizajaH</s> , <quote> a thousand drugs </quote>  ; or in the gen e g <s>dv-sahAsre suvarRasya</s> , <quote> two <abE>th</abE>thousand pieces of gold </quote>  ; <s>catvAri</s> <s>sahasrAR varzARam</s> , <quote> four <abE>th</abE>thousand years </quote>  ; sometimes in comp , either ibc e g <s>yuga-sahAsram</s> , <quote> a <abE>th</abE>thousand ages </quote>  , or ifc e g <s>sahAsrA<srs/>Svena</s> , <quote> with a <abE>th</abE>thousand horses </quote> ; <phw><dL>740499</dL><s>sahasram</s> may also be used as an <lex type="phw">ind </lex></phw> e g <s>sahasram riziBiH</s> , <quote> with a <abE>th</abE>thousand <asp0>R2ishis</asp0><as1><s>fzi</s>s</as1> </quote>  ; with other numerals it is used thus , <s>ekA<srs/>DikaM sahasram</s> , or <s>eka-sahasram</s> , <quote> a <abE>th</abE>thousand + one </quote> , 1001 ; <s>dvyaDikaM s~</s> , <quote> a <abE>th</abE>thousand + two </quote> , 1002 ; <s>ekAdaSA<srs/>Dikam s~sahasram</s> or <s>ekAdaSaM s~</s> or <s>ekAdaSa-s~</s> , <quote> a <abE>th</abE>thousand + eleven </quote> or <quote> a <abE>th</abE>thousand having eleven </quote> , 1011 ; <s>viMSaty-aDikaM s~</s> or <s>vimaM s~</s> , <quote> a <abE>th</abE>thousand + twenty </quote> , 1020 ; <s>dve sahasre</s> or <s>dvi-sahacram</s> , <quote> two <abE>th</abE>thousand </quote> ; <s>trIRi sahasrARi</s> or <s>tri-sahasram</s> , <quote> three <abE>th</abE>thousand </quote> <etc1/>  <etcetc/>
+240963	H2	sAkaM	sAkaM	icf	PROBABLE , in comp for <s>sAkam</s>
+241033	H2	sAkzAd	sA@kzAd	icf	OK sA<srs/>kzAt
+241039	H2	sAkzi	sA@kzi	icf	OK sA<srs/>kzin
+241059	H2	sAkzI	sA@kzI	icf	OK sA<srs/>kza
+241331	H2	sAcI	sAcI	icf	MAYBE in comp for 2 <s>sAci</s>
+241416	H2	sAtma	sA@tma	icf	OK sA<srs/>tman
+241422	H2	sAtmI	sA@tmI	icf	OK sA<srs/>tma
+241581	H2	sADanI	sADanI	icf	OK sADana
+241793	H2	sADv	sADv	icf	OK sADu
+241848	H2	sADAraRI	sA@DAraRI	icf	OK ~raRa
+242028	H2	sAndrI	sAndrI	icf	OK sAndra
+242217	H2	sAma	sAma	icf	MAYBE in comp for 2 <s>sAman</s>
+242239	H2	sAma	sAma	icf	MAYBE in comp for 3 <s>sAman</s>
+242694	H2	sAyaM	sAyaM	icf	PROBABLE in comp for <s>sAyam</s> , col 3
+243221	H1	sArva	sArva	icf	MAYBE <lex>mfn </lex> fr <s>sarva</s> , of which it is also the <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form in comp relating to all , fit or good for all  <cf/>
+243391	H2	sAvaDAnI	sA@vaDAnI	icf	OK sA<srs/>vaDAna
+243505	H2	sAvitry	sAvitry	icf	OK sAvitri
+243994	H2	siMhI	siMhI	icf	OK siMha
+244043	H2	sig	sig	icf	MAYBE in comp for 2 <s>sic</s>
+244743	H2	sidDy	sidDy	icf	MAYBE in comp for 2 <s>sidDi</s>
+244753	H2	siDrakA	siDrakA	icf	OK siDraka
+244761	H2	siDma	siDma	icf	OK siDman
+245132	H2	sIma	sIma	icf	PROBABLE in comp for <s>sIman</s> or sometimes a mere shortened form of 1 <s>sImA</s>
+245327	H2	sutI	sutI	icf	MAYBE in comp for 3 <s>suta</s>
+245935	H2	suKi	suKi	icf	OK suKin
+247305	H2	sub	sub	icf	OK sup
+248264	H3	sumanaH	su-manaH	icf	MAYBE for <s>-manas</s> in comp
+248291	H3	sumano	su-mano	icf	MAYBE for <s>-manas</s> in comp
+248334	H3	sumahA	su-mahA	icf	MAYBE for <s>mahat</s> in comp
+248477	H2	sumaj	sumaj	icf	OK sumat
+248479	H2	sumad	sumad	icf	OK sumat
+249685	H2	suraBy	suraBy	icf	OK ~Bi
+250704	H2	suhfc	suhfc	icf	OK suhfd
+250706	H2	suhfj	suhfj	icf	OK suhfd
+250709	H2	suhft	suhft	icf	OK suhfd
+250719	H2	suhfn	suhfn	icf	OK suhfd
+250723	H2	suhfl	suhfl	icf	OK suhfd
+250799	H2	sUtI	sUtI	icf	MAYBE in comp for 2 <s>sUti</s>
+250804	H2	sUty	sUty	icf	MAYBE in comp for 2 <s>sUti</s>
+250898	H2	sUkty	sU@kty	icf	OK sU<srs/>kti
+250987	H2	sUkzmI	sUkzmI	icf	OK sUkzma
+251124	H2	sUcy	sUcy	icf	MAYBE in comp , for <s>sUci</s> or <s>sUcI</s>
+251973	H2	sfzwy	sfzwy	icf	OK sfzwi
+252205	H2	sena	sena	icf	PROBABLE for 1 2 <see/> col 2 , in comp for <s>senA</s>
+252264	H2	sevaka	sevaka	icf	MAYBE <lex>mfn </lex> for 2 <see/> col 2 dwelling in , inhabiting comp
+252271	H2	sevana	sevana	icf	MAYBE <lex>n </lex> for 2 <see/> col 2 the act of frequenting or visiting or dwelling in or resorting to comp
+252275	H2A	sevana	sevana	icf	MAYBE <lex type="inh">n </lex> devotion or addiction to , fondness for , indulgence in , practise or employment of gen or comp
+252305	H2	sevi	sevi	icf	OK sevin
+253258	H2	sozma	so@zma	icf	OK so<srs/>zman
+254235	H2	skanDo	skanDo	icf	OK skanDas
+254275	H2	sKalad	sKalad	icf	PROBABLE in comp for <s>sKalat</s> above
+254278	H2	sKalan	sKalan	icf	OK sKalat
+254500	H2	stabDI	stabDI	icf	OK stabDa
+254893	H2	steyi	steyi	icf	OK steyin
+255144	H2	stry	stry	icf	OK strI
+255201	H2	sTapuwI	sTapuwI	icf	OK sTapuwa
+255276	H2	sTalI	sTalI	icf	OK sTala
+255365	H2	sTARv	sTARv	icf	OK sTARu
+255471	H2	sTAni	sTAni	icf	OK sTAnin
+255475	H2A	sTAnika	sTAnika	icf	MAYBE <lex type="inh">mfn </lex> in gram taking the place of anything else , substituted for gen or comp
+255490	H2	sTAny	sTAny	icf	OK sTAnin
+255553	H2	sTAma	sTAma	icf	OK sTAman
+255564	H2	sTAyi	sTAyi	icf	OK sTAyin
+255704	H2	sTity	sTity	icf	OK sTiti
+255832	H2	sTirI	sTirI	icf	OK sTira
+255845	H2	sTema	sTema	icf	OK sTeman
+256180	H2	sTUlI	sTUlI	icf	OK sTUla
+256184	H2	sTOla	sTOla	icf	MAYBE <lex>mf<s>/A</s>n </lex> = or for <s>sTUla</s> , of which it is also the <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form in comp stout , robust
+256284	H2	snAyv	snAyv	icf	OK snAyu
+256287	H2	snAva	snAva	icf	OK snAvan
+256476	H2	snuk	snuk	icf	MAYBE in comp for 2 <s>snuh</s>
+256528	H2	sparDA	sparDA	icf	MAYBE <lex>f </lex> emulation , rivalry , envy , competition for or with instr with and without <s>saha</s> gen loc , or comp ; <s>~DayA</s> , <quote> in rivalry or emulation </quote>   <etc/>
+256572	H2	spazwI	spazwI	icf	MAYBE in comp for 1 <s>spazwa</s>
+256730	H2	spfhA	spfhA	icf	MAYBE <lex>f </lex> ifc <lex type="hwifc">f<s>A</s> </lex> eager desire , desire , covetousness , envy , longing for , pleasure or delight in dat , gen loc , or comp ; acc with <root/> <s>kf</s> or <s>banD</s> , <quote> to long for , be desirous of <b>loc or comp </b> </quote> ; with <root/> <s>kf</s> , <quote> to envy any one <b>loc </b> </quote>   <etc/>
+256837	H2	sPItI	sPItI	icf	OK sPIta
+256847	H2	sPik	sPik	icf	OK sPic
+256849	H2	sPig	sPig	icf	OK sPic
+256916	H2	sPuwI	sPuwI	icf	OK sPuwa
+256981	H2	sPurad	sPurad	icf	OK sPurat
+256988	H2	sPuran	sPuran	icf	OK sPurat
+257064	H2	smad	smad	icf	OK smat
+257388	H2	smfty	smfty	icf	OK smfti
+257474	H2	syAd	syAd	icf	OK syAt
+257506	H2	syUma	syUma	icf	OK sy/Uman
+257573	H2	srag	srag	icf	OK sraj
+257641	H2	sravad	sravad	icf	OK sravat
+257695	H2	srota	srota	icf	OK srotas
+257715	H2	sroto	sroto	icf	OK srotas
+257740	H2	sruk	sruk	icf	OK sruc
+257749	H2	srug	srug	icf	OK sruc
+257781	H1B	sva	sva	icf	MAYBE <lex type="inh">n </lex> in alg plus or the affirmative quantity <b>cf Gk <gk>1</gk> , <gk>2</gk> , <gk>3</gk> ; Lat <etym>se</etym> , <etym>sovos</etym> , <etym>suus</etym> ;Goth <etym>sik</etym> ; Germ <etym>sich</etym> <etc/></b>N B in the following comp <etym><abE>o</abE></etym> own stands for one's own
+258275	H3	svasTa	sva-sTa	icf	MAYBE <lex>mf<s>A</s>n </lex> self-abiding , being in <abE>o</abE>one's self or <quote> in the self </quote> , being in one's natural state , being <abE>o</abE>one's self uninjured , unmolested , contented , doing well , sound well , healthy in body and mind ; often v l for <s>su-sTa</s> , comfortable , at ease compar <s>-tara</s>  <etcetc/>
+258510	H2	svayaM	svayaM	icf	OK svayam
+258675	H2	svI	svI	icf	MAYBE in comp for 1 <s>sva</s>
+258726	H2	svEri	svE@ri	icf	OK svE<srs1/>riN
+258881	H2	svAdv	svAdv	icf	OK svAdu
+259080	H2	svaH	svaH	icf	MAYBE in comp for 3 <s>sv/ar</s> below
+259239	H2	svargi	svargi	icf	OK svargin
+259251	H2	svaS	svaS	icf	OK svar
+259253	H2	svA	svA	icf	OK svar
+259558	H2	svasty	svasty	icf	OK svasti
+259671	H2	svAmi	svAmi	icf	OK svAmin
+259703	H2	svAminy	svAminy	icf	OK svAminI
+259705	H2	svAmy	svAmy	icf	OK svAmin
+260486	H2	hanumac	hanumac	icf	OK ~mat
+260488	H2	hanumaj	hanumaj	icf	OK ~mat
+260507	H2	hanumad	hanumad	icf	OK ~mat
+260527	H2	hanuman	hanuman	icf	OK ~mat
+260533	H2	hanumanta	hanumanta	icf	OK ~mat
+261509	H2	harin	harin	icf	OK harit
+261519	H2	hary	hary	icf	OK h/ari
+261805	H2	hali	hali	icf	OK halin
+261905	H2	haviH	haviH	icf	OK havis
+261913	H2	havir	havir	icf	OK havis
+261961	H2	haviz	haviz	icf	OK havis
+262289	H2	hasti	hasti	icf	OK hastin
+262453	H2	hasty	hasty	icf	PROBABLE before vowels , in comp for <s>hasti</s>
+263548	H2	huM	huM	icf	OK hum
+263570	H2	huraS	huraS	icf	OK huras
+263706	H2	hfc	hfc	icf	OK hfd
+263715	H2	hfj	hfj	icf	OK hfd
+263717	H2	hft	hft	icf	OK hfd
+263737	H2	hftsv	hftsv	icf	MAYBE for <s>hftsu</s> loc pl of <s>hfd</s> in comp
+263906	H2	hfl	hfl	icf	OK hfd
+264003	H2	hetu	hetu	icf	MAYBE <lex>m </lex> <quote> impulse </quote> , motive , cause , cause of , reason for loc , rarely dat or gen ; <s>hetunA</s>,<s>hetoH</s>,<s>hetave</s>,<s>hetO</s> , <quote> for a cause or reason </quote> , <quote> by reason of </quote> , <quote> on account of </quote> <b>with gen or comp e g <s>mama hetoH</s> or <s>mad-DetoH</s> , <quote> on account of me </quote></b> ; <s>kaM hetum</s> or <s>ko hewuH</s> , <quote> wherefore? </quote> <quote> why? </quote>   ; <s>yato hetoH</s> , <quote> because </quote> ; <s>anena hetunA</s> or <s>iti hetoH</s> , <quote> for this reason </quote> ; <s>mftyu-hetave</s> , <quote> in order to kill </quote> ; <s>hetur alOkikaH</s> , <quote> a supernatural cause </quote> ; ifc <s>hetu</s> also = <quote> having as a cause or motive </quote> , <quote> caused or effected or actuated or attracted or impelled by </quote> e g <s>karma-hetu</s> , <quote> caused by the acts <b>of a former existence</b> </quote>  ; <s>mAMsa-hetu</s> , <quote> attracted by <b>the smell of</b> flesh </quote>  ; <s>karma-Pala-hetu</s> , <quote> impelled by <b>the expectation of</b> the consequences of any act </quote>   <etcetc/>
+264059	H2	hetv	hetv	icf	OK hetu
+264126	H2	hema	hema	icf	MAYBE in comp for 3 <s>heman</s>
+264654	H2	hyaH	hyaH	icf	OK hyas
+264660	H2	hyo	hyo	icf	OK hyas

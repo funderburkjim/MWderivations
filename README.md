@@ -21,3 +21,10 @@ This identification makes use of the 4-level system as much as possible.
 
 There are readme files in the various sub-directories which describe the methodological and procedural
 details of the computations, as well as the data sources. 
+
+Feb 9, 2016.  The main output to look at is step3/analysis2.txt
+  There remain about 9000 records without derivation (approx. 5%).
+  Many of these will be resolved by an external source of 'kta' forms of
+  roots and of gerunds of roots.
+step2/analysis.txt is an earlier version.  It left about 30,000 (15%) of
+  records without derivation.

@@ -1,0 +1,424 @@
+220265 records from auxiliary/mw_extract.txt
+198465 Lexdata records read from allnom.txt
+10476 records read from ../../MWvlex/step0/verb_step0a.txt
+665 records read from auxiliary/icf.txt
+allnom.txt UNUSED: 1A	97152	dohada	dohada	f#A
+allnom.txt UNUSED: 3A	138639	praharaRa	pra~haraRa	f#A
+allnom.txt UNUSED: 4A	201724	vizaDaranilaya	viza-Dara-nilaya	f#A
+allnom.txt UNUSED: 3A	78015	jalamAnuza	jala-mAnuza	n
+allnom.txt UNUSED: 1A	81402.1	qiRqika	qiRqika	m
+allnom.txt UNUSED: 3A	199797	viloqana	vi~loqana	f#A
+allnom.txt UNUSED: 3A	13942.1	amaropama	amaro@pama	m:f:n
+allnom.txt UNUSED: 2A	48583.7	kArikA	kArikA	f
+allnom.txt UNUSED: 2A	186625	varAwaka	varAwaka	f#A
+allnom.txt UNUSED: 3B	248225	sumati	su-mati	f#I
+allnom.txt UNUSED: 3B	248226	sumati	su-mati	f#I
+allnom.txt UNUSED: 3B	248227	sumati	su-mati	f#I
+allnom.txt UNUSED: 2A	24810	Apti	Apti	f
+allnom.txt UNUSED: 2A	47760	kAnti	kAnti	f#I
+allnom.txt UNUSED: 2A	136016	pramoda	pra-moda	n
+allnom.txt UNUSED: 2A	82704	tapas	tapas	m
+allnom.txt UNUSED: 2A	98391	dvArika	dvArika	f#ikA
+allnom.txt UNUSED: 2A	126768	puzkara	puzkara	f#A
+allnom.txt UNUSED: 2A	79101	jAlaka	jAlaka	m
+allnom.txt UNUSED: 1B	69439	Gana	Gana	f#A
+allnom.txt UNUSED: 2A	79785	jIvaka	jIvaka	f#ikA
+allnom.txt UNUSED: 2A	123138	pAla	pAla	n
+allnom.txt UNUSED: 3A	91524	dAkziRAja	dAkziRA-ja	f#I
+allnom.txt UNUSED: 1A	158028	mayUKa	mayUKa	f#A:n
+allnom.txt UNUSED: 2B	84027.2	tAmisra	tAmisra	n
+allnom.txt UNUSED: 2A	23336	AtaNka	A-taNka	f#A
+allnom.txt UNUSED: 1A	135970	pramuKa	pra-muKa	f#A
+allnom.txt UNUSED: 2A	185490	vatsara	vatsara	f#I:n
+allnom.txt UNUSED: 2A	58547	klama	klama	f#A
+allnom.txt UNUSED: 1A	126269	purIza	purIza	f#I
+allnom.txt UNUSED: 1A	235427	samudga	samudga	f#A:n
+allnom.txt UNUSED: 1A	21493.1	asma	asma	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 2A	252273	sevana	sevana	f#A
+allnom.txt UNUSED: 3A	23200.1	AjyaBAga	Ajya-BAga	m
+allnom.txt UNUSED: 3A	148505	BadrASva	BadrA@Sva	n
+allnom.txt UNUSED: 2A	204298	vfkzaka	vfkzaka	f#A
+allnom.txt UNUSED: 3A	159845.1	mahAnasa	mahA@~nasa	m
+allnom.txt UNUSED: 2A	49836	kASi	kASi	m
+allnom.txt UNUSED: 3A	124153	pitAputra	pitA-putra	m
+allnom.txt UNUSED: 1A	47217	kAkutsTO	kAkutsTO	INFLECTID=m1d,STEM=kAkutsTa
+allnom.txt UNUSED: 2A	142261	Penaka	Penaka	f#ikA
+allnom.txt UNUSED: 2A	142260	Penaka	Penaka	f#A
+allnom.txt UNUSED: 2A	58532	krOzwuki	krOzwuki	m
+allnom.txt UNUSED: 2A	125194	puwa	puwa	f#I
+allnom.txt UNUSED: 1A	220881	Seza	Seza	f#A
+allnom.txt UNUSED: 3A	54760	kfcCrAtikfcCrO	kfcCrA@tikfcCrO	INFLECTID=m1d,STEM=kfcCrAtikfcCra
+allnom.txt UNUSED: 1A	56581	kopa	kopa	f#A
+allnom.txt UNUSED: 2A	233861	samavasTA	sam-avasTA	f#A
+allnom.txt UNUSED: 3A	62637.1	gaReSa	ga~Re@Sa	m
+allnom.txt UNUSED: 3A	260967	haricandana	hari-candana	n
+allnom.txt UNUSED: 1A	187198.05	varga	varga	f#A
+allnom.txt UNUSED: 1A	14406	ambara	ambara	m
+allnom.txt UNUSED: 3A	234786	samAhvaya	sam~Ahvaya	n
+allnom.txt UNUSED: 2A	173862	raja	raja	n
+allnom.txt UNUSED: 1A	40906	OdaNki	OdaNki	m
+allnom.txt UNUSED: 3A	217908	SivAlaya	SivA@laya	n
+allnom.txt UNUSED: 3A	177055	rAtricara	rAtri-cara	f#I
+allnom.txt UNUSED: 2B	166253	mUtrala	mUtrala	n
+allnom.txt UNUSED: 3A	73805	citraPalaka	citra-Palaka	f#A
+allnom.txt UNUSED: 2A	148804	Bartf	Bartf	f#trI
+allnom.txt UNUSED: 2A	173991	rajasa	rajasa	f#I
+allnom.txt UNUSED: 2A	105659	nABi	nABi	m
+allnom.txt UNUSED: 2A	105657	nABi	nABi	m:f#BI
+allnom.txt UNUSED: 2A	123511	picCa	picCa	m
+allnom.txt UNUSED: 2A	40903	Odaki	Odaki	m
+allnom.txt UNUSED: 2A	147758	Baga	Baga	f#A
+allnom.txt UNUSED: 2A	147759	Baga	Baga	n
+allnom.txt UNUSED: 2A	185184	vawa	vawa	f#I:n
+allnom.txt UNUSED: 3A	133617	pratItya	pratI@tya	m:f:n
+allnom.txt UNUSED: 3A	76939	janikartf	jani-kartf	f#trI
+allnom.txt UNUSED: 1A	162722	mAna	mAna	n
+allnom.txt UNUSED: 3A	176316	rAjagfha	rAja-gfha	f#I
+allnom.txt UNUSED: 1A	149546	BAga	BAga	n
+allnom.txt UNUSED: 2A	114315	pawala	pawala	f#A
+allnom.txt UNUSED: 1A	109884	niryUha	nir-yUha	f#A
+allnom.txt UNUSED: 2A	172747	yojana	yojana	m:f#A
+allnom.txt UNUSED: 2A	37722	uzas	uzas	f
+allnom.txt UNUSED: 1A	53155	kulija	kulija	f#A:f#I
+allnom.txt UNUSED: 2A	220983	SEKAvata	SEKAvata	f#I
+allnom.txt UNUSED: 2A	72105	camU	camU	f
+allnom.txt UNUSED: 2A	138038	prasava	pra-sava	n
+allnom.txt UNUSED: 1A	154095	maGa	maGa	f#A
+allnom.txt UNUSED: 3A	199740	vilepana	vi~lepana	f#A
+allnom.txt UNUSED: 2A	58679	kloman	kloman	m
+allnom.txt UNUSED: 2A	141626	PaRa	PaRa	f#A
+allnom.txt UNUSED: 2A	141625	PaRa	PaRa	f#A
+allnom.txt UNUSED: 2A	167959.1	meDI	meDI	f
+allnom.txt UNUSED: 3A	238331.1	sarvatIrTa	sarva-tIrTa	n
+allnom.txt UNUSED: 1B	116018	para	para	m:f:n
+allnom.txt UNUSED: 2A	55625	ketana	ketana	f#A
+allnom.txt UNUSED: 2A	134707	pradeSa	pra-deSa	n
+allnom.txt UNUSED: 3A	77439	jayamaNgala	jaya-maNgala	f#lA
+allnom.txt UNUSED: 1A	117308	pariGa	pari-Ga	n
+allnom.txt UNUSED: 1A	79002	jAra	jAra	f#A
+allnom.txt UNUSED: 3A	141071	preraRa	pre@raRa	f#A
+allnom.txt UNUSED: 3A	63324	ganDarvApsaras	ganDarvA@psaras	f
+allnom.txt UNUSED: 2A	25235	ABA	A-BA	m:f:n
+allnom.txt UNUSED: 3A	119899	paryupAsana	pary~upA@sana	f#A
+allnom.txt UNUSED: 2A	33366	udBava	ud-Bava	m:f:n
+allnom.txt UNUSED: 2A	147760	Baga	Baga	f#A:n
+allnom.txt UNUSED: 3B	125885	puraHsara	puraH-sara	f#A
+allnom.txt UNUSED: 3A	76766	janapada	jana-pada	f#A
+allnom.txt UNUSED: 3A	108054	nigama	ni~gama	f#A
+allnom.txt UNUSED: 2A	49996	kAzAyin	kAzAyin	m
+allnom.txt UNUSED: 3A	238214.1	sarvaguRa	sarva-guRa	m:f:n
+allnom.txt UNUSED: 2A	167791.2	meTI	meTI	f
+allnom.txt UNUSED: 2A	80124	jfmBa	jfmBa	f#A
+allnom.txt UNUSED: 1A	21633	aha	aha	m#aha:n
+allnom.txt UNUSED: 1A	168560	moza	moza	f#A
+allnom.txt UNUSED: 1A	165847	murmura	murmura	m:f:n
+allnom.txt UNUSED: 3A	88332	triSata	tri-Sata	f#I
+allnom.txt UNUSED: 1A	54095	kUla	kUla	f#A
+allnom.txt UNUSED: 2A	72306	carita	carita	f#A
+allnom.txt UNUSED: 2A	10020	apAna	apA@na	n
+allnom.txt UNUSED: 1A	38338	Uza	Uza	n
+allnom.txt UNUSED: 2A	41577	kakzIvat	kakzIvat	m
+allnom.txt UNUSED: 2A	167492	meKalA	meKalA	f#A
+allnom.txt UNUSED: 2A	25130	AprI	A-prI	f
+allnom.txt UNUSED: 1A	108958	nimitta	nimitta	m:f:n
+allnom.txt UNUSED: 3A	80720	jyotirvid	jyotir-vid	m
+allnom.txt UNUSED: 2A	181130	laNGana	laNGana	f#A
+allnom.txt UNUSED: 3A	88840	tryanIka	try-anIka	f#A
+allnom.txt UNUSED: 3A	177679.1	rAmAyaRasaMkzepa	rAmA@yaRa-saM-kzepa	m
+allnom.txt UNUSED: 2A	101532	DUpana	DUpana	m
+allnom.txt UNUSED: 1A	104938	nAga	nAga	f#I:f#A
+allnom.txt UNUSED: 1A	164838	muKa	muKa	m:f:n:ind#am
+allnom.txt UNUSED: 3B	209576	vyAGranaKa	vyAGra-naKa	f#I
+allnom.txt UNUSED: 2A	60523	kzoRi	kzoRi	f
+allnom.txt UNUSED: 3A	232484	saptadaSa	sapta-daSa	LEXID=card,STEM=saptadaSan
+allnom.txt UNUSED: 2A	76400	jaNgama	jaNgama	f#A
+allnom.txt UNUSED: 2A	126655	pulaka	pulaka	f#A:n
+allnom.txt UNUSED: 3A	117760.1	pariDAna	pari-DAna	f#A
+allnom.txt UNUSED: 2B	242784	sAraRA	sAraRA	f#A
+allnom.txt UNUSED: 3A	256334	snigDapattra	snigDa-pattra	f#A
+allnom.txt UNUSED: 2A	171839	yuga	yuga	f#A
+allnom.txt UNUSED: 2A	21500.1	asmad	asmad	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 2A	48670	kArIzi	kArIzi	m
+allnom.txt UNUSED: 2A	192287	vAsa	vAsa	f#A
+allnom.txt UNUSED: 2A	135805	pramARa	pramARa	m:f
+allnom.txt UNUSED: 3A	116356	parAyaRa	parA@yaRa	f#A
+allnom.txt UNUSED: 1A	104934	nAga	nAga	f#I
+allnom.txt UNUSED: 2A	58242	kroDa	kroDa	f#A
+allnom.txt UNUSED: 2A	80807	jyotsnA	jyotsnA	f#A
+allnom.txt UNUSED: 2B	25180	AbadDa	A-badDa	m
+allnom.txt UNUSED: 2A	134891	praDAna	praDAna	f#A
+allnom.txt UNUSED: 2A	81412.1	qiRqIra	qiRqIra	f#A
+allnom.txt UNUSED: 2A	37376	urvI	urvI	f
+allnom.txt UNUSED: 3A	103620	nandyAvarta	nandy-Avarta	n
+allnom.txt UNUSED: 1A	26943.3	Ava	Ava	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 1A	26943.2	Ava	Ava	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 2A	98198	dvAdaSa	dvA-daSa	f#A
+allnom.txt UNUSED: 3A	134656	pradAtf	pra~dAtf	f#trI
+allnom.txt UNUSED: 1A	167784	meTi	meTi	f#meTI
+allnom.txt UNUSED: 3A	228935.1	sacitra	sa-citra	m:f:n
+allnom.txt UNUSED: 2A	66501	gfha	gfha	n
+allnom.txt UNUSED: 2A	66502	gfha	gfha	f#A:f#I
+allnom.txt UNUSED: 2A	137184	pravara	pra-vara	f#I
+allnom.txt UNUSED: 1A	252004	sfdAku	sfdAku	f
+allnom.txt UNUSED: 3A	62634	gaReSa	gaRe@Sa	m
+allnom.txt UNUSED: 3A	62635	gaReSa	gaRe@Sa	m
+allnom.txt UNUSED: 2B	180672	lakzya	lakzya	m
+allnom.txt UNUSED: 1A	125263	puRqarIka	puRqarIka	m
+allnom.txt UNUSED: 1A	251374	sUpa	sUpa	f#I
+allnom.txt UNUSED: 2A	186750	varUTa	varUTa	m
+allnom.txt UNUSED: 1A	28861	indu	indu	m
+allnom.txt UNUSED: 1A	90457	daridra	daridra	f#A
+allnom.txt UNUSED: 3A	67038.35	gotama	go-tama	m
+allnom.txt UNUSED: 1A	109530	nirGAta	nir-GAta	f#A
+allnom.txt UNUSED: 3A	246734	sudfS	su-dfS	f
+allnom.txt UNUSED: 2B	173082	rakzas	rakzas	m
+allnom.txt UNUSED: 1A	69197	glO	glO	m
+allnom.txt UNUSED: 1A	112217	nema	ne@ma	LEXID=pron,STEM=nema
+allnom.txt UNUSED: 2A	194616	viGna	vi-Gna	n
+allnom.txt UNUSED: 2A	158439	markawaka	markawaka	f#ikA
+allnom.txt UNUSED: 1A	127356	pUga	pUga	n
+allnom.txt UNUSED: 3A	136516	pralApa	pra~lApa	n
+allnom.txt UNUSED: 3A	197563	vipaRi	vi~paRi	f#I
+allnom.txt UNUSED: 2A	58120	krIta	krIta	f#I
+allnom.txt UNUSED: 3B	122432	pAramitA	pAra-m-itA	f
+allnom.txt UNUSED: 3A	118603	parivAra	pari-vAra	f#A
+allnom.txt UNUSED: 2A	170295	yantf	yantf	f#yantrI
+allnom.txt UNUSED: 3A	108130	nigraha	ni~graha	f#A
+allnom.txt UNUSED: 2A	133534	pratihAra	prati-hAra	f#I
+allnom.txt UNUSED: 2A	59518	kzipaRi	kzipaRi	f#RI
+allnom.txt UNUSED: 3A	98407	dvikARqa	dvi-kARqa	f#A
+allnom.txt UNUSED: 1A	52070	kudri	kudri	m
+allnom.txt UNUSED: 2A	163365	mArga	mArga	f#A:n
+allnom.txt UNUSED: 2A	30980	utkzepO	ut-kzepO	INFLECTID=m1d,STEM=utkzepa
+allnom.txt UNUSED: 3A	114768	patadgraha	patad-graha	n
+allnom.txt UNUSED: 2A	119473	parRa	parRa	f#A:f#I
+allnom.txt UNUSED: 1A	70345	cakra	cakra	f#A
+allnom.txt UNUSED: 1A	70343	cakra	cakra	m
+allnom.txt UNUSED: 2A	168048	melA	melA	m#mela
+allnom.txt UNUSED: 3A	115965	payoDara	payo-Dara	f#A
+allnom.txt UNUSED: 2A	194546	vigraha	vi-graha	n
+allnom.txt UNUSED: 2B	170559	yamalA	yamalA	f#I
+allnom.txt UNUSED: 2A	134897	praDAna	praDAna	m
+allnom.txt UNUSED: 2A	134896	praDAna	praDAna	m
+allnom.txt UNUSED: 3A	108590	niDAna	ni~DAna	m:f#I
+allnom.txt UNUSED: 2A	106272	nAsikA	nAsikA	f#A:f#I
+allnom.txt UNUSED: 1A	74946	cela	cela	m:f#I:n
+allnom.txt UNUSED: 1A	47696	kAnana	kAnana	f#A
+allnom.txt UNUSED: 2A	37377	urvI	urvI	f
+allnom.txt UNUSED: 2A	43301	kanduka	kanduka	n
+allnom.txt UNUSED: 2A	56461	kowi	kowi	LEXID=card,STEM=kowi
+allnom.txt UNUSED: 3A	87899	tripada	tri-pada	f:f#padA
+allnom.txt UNUSED: 1A	70238	Gna	Gna	f
+allnom.txt UNUSED: 3A	207522	vErayAtanA	vEra-yAtanA	n#a
+allnom.txt UNUSED: 1A	153874.1	ma	ma	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 1A	153874.2	ma	ma	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 1A	153874.3	ma	ma	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 2B	112096	netra	netra	f#A
+allnom.txt UNUSED: 1A	14397	ambara	ambara	f#A
+allnom.txt UNUSED: 1A	46423	kavaca	kavaca	f#A
+allnom.txt UNUSED: 2A	216204	SAlmali	SAlmali	f#lyA
+allnom.txt UNUSED: 3A	95477	dfzadupala	dfzad-upala	f#A
+allnom.txt UNUSED: 2A	129989	prakAra	pra-kAra	m:f:n
+allnom.txt UNUSED: 1A	217438	Silpa	Silpa	m
+allnom.txt UNUSED: 1A	217437	Silpa	Silpa	m
+allnom.txt UNUSED: 2A	143069	bala	bala	f#A
+allnom.txt UNUSED: 3A	45287	karmakartf	karma-kartf	m
+allnom.txt UNUSED: 1A	96633	deha	deha	f#A
+allnom.txt UNUSED: 1A	119653	paryanta	pary-anta	f#A
+allnom.txt UNUSED: 2A	103311	nada	nada	ind#nadam
+allnom.txt UNUSED: 1A	242131.1	sApta	sApta	m
+allnom.txt UNUSED: 3A	135319	prabADana	pra~bADana	f#A
+allnom.txt UNUSED: 2A	58224	kruYcO	kruYcO	INFLECTID=m1d,STEM=kruYca
+allnom.txt UNUSED: 1A	53471	kuSIlavO	kuSIlavO	INFLECTID=m1d,STEM=kuSIlava
+allnom.txt UNUSED: 2A	172953	yODeya	yODeya	f#I
+allnom.txt UNUSED: 3B	136454	prarocanA	pra~rocanA	n
+allnom.txt UNUSED: 1A	48687	kAru	kAru	m
+allnom.txt UNUSED: 1A	95242	dfnBU	dfnBU	f
+allnom.txt UNUSED: 1A	58426	kroqa	kroqa	f#A
+allnom.txt UNUSED: 1B	90587	darSa	darSa	n
+allnom.txt UNUSED: 2A	235809	samara	sam-ara	f#A
+allnom.txt UNUSED: 1A	63964	garBa	garBa	f#A
+allnom.txt UNUSED: 2A	48758	kArti	kArti	m
+allnom.txt UNUSED: 1A	164843	muKa	muKa	m:f:n
+allnom.txt UNUSED: 2B	98802	dvija	dvi-ja	n
+allnom.txt UNUSED: 3A	133773	pratAraRa	pra~tAraRa	f#A
+allnom.txt UNUSED: 1A	81080	JAwa	JAwa	n
+allnom.txt UNUSED: 2A	113516	paYjara	paYjara	m
+allnom.txt UNUSED: 3A	245697.1	suKapraboDaka	suKa-praboDaka	m:f#ikA:n
+allnom.txt UNUSED: 1A	203445	vIci	vIci	m:f#I
+allnom.txt UNUSED: 3A	177575	rAmAnuja	rAmA@nuja	n
+allnom.txt UNUSED: 2A	115225	pada	pada	m
+allnom.txt UNUSED: 2A	22275	Akara	A-kara	f#A
+allnom.txt UNUSED: 1A	130204	prakozWa	pra-kozWa	n
+allnom.txt UNUSED: 2A	71951	candraka	candraka	f#ikA
+allnom.txt UNUSED: 3B	45861.08	kalApa	kalA@~pa	n
+allnom.txt UNUSED: 3B	183540	lokottara	loko@ttara	n
+allnom.txt UNUSED: 1A	158192	marIci	marIci	f#cI
+allnom.txt UNUSED: 1A	65501	guRa	guRa	f#A
+allnom.txt UNUSED: 2A	38548	ftu	ftu	f
+allnom.txt UNUSED: 1A	252148	senA	senA	n#sena
+allnom.txt UNUSED: 3A	55953	keSapakza	keSa-pakza	f#A
+allnom.txt UNUSED: 3A	174438	ratnAkara	ratnA@kara	n
+allnom.txt UNUSED: 2A	173268	racana	racana	f#A
+allnom.txt UNUSED: 1A	167958.1	meDi	meDi	f
+allnom.txt UNUSED: 1A	114438	pawwa	pawwa	f#A
+allnom.txt UNUSED: 1A	35046	upapakzO	upa-pakzO	INFLECTID=m1d,STEM=upapakza
+allnom.txt UNUSED: 2A	18322	avasAna	ava-sAna	f#A
+allnom.txt UNUSED: 3A	137178	pravAraRa	pra~vAraRa	f#A
+allnom.txt UNUSED: 3A	180982.1	laGuSivapurARa	laGu-Siva-purARa	n
+allnom.txt UNUSED: 2A	99898	Dartf	Dartf	f#trI
+allnom.txt UNUSED: 2A	226048	saMvadana	saM-vadana	f#A
+allnom.txt UNUSED: 2A	250759	sUtaka	sUtaka	f#akA:f#ikA
+allnom.txt UNUSED: 2A	236794	sambADa	sam-bADa	f#A
+allnom.txt UNUSED: 2A	22895	AcaraRa	A-caraRa	m
+allnom.txt UNUSED: 1A	181795	lalAma	lalAma	f#A
+allnom.txt UNUSED: 2A	58236	kruD	kruD	f
+allnom.txt UNUSED: 3A	113887	paYcavarga	paYca-varga	f#I
+allnom.txt UNUSED: 2B	192738	vAhana	vAhana	f#A
+allnom.txt UNUSED: 2A	228095	saMkara	saM-kara	n
+allnom.txt UNUSED: 3A	190503	vAwaDAna	vAwa-DAna	n
+allnom.txt UNUSED: 1A	158877	malla	malla	f#I
+allnom.txt UNUSED: 2A	145251	bimbaka	bimbaka	f#ikA
+allnom.txt UNUSED: 1B	162548	mADava	mADava	m
+allnom.txt UNUSED: 3A	147432.1	brAhmaRicelI	brAhmaRicelI	f
+allnom.txt UNUSED: 3A	110178	nilaya	ni~laya	f#A
+allnom.txt UNUSED: 2A	216599	SiKaRqaka	SiKaRqaka	n
+allnom.txt UNUSED: 2A	79787	jIvaka	jIvaka	f#A
+allnom.txt UNUSED: 1A	29783	Irin	Irin	m
+allnom.txt UNUSED: 1A	43440	kapi	kapi	m
+allnom.txt UNUSED: 3A	142613.1	badDASaNka	badDA@SaNka	m:f:n
+allnom.txt UNUSED: 2A	64496	gAtu	gAtu	f
+allnom.txt UNUSED: 1A	29965	IzA	IzA	f
+allnom.txt UNUSED: 1A	96522	deSa	deSa	f#A
+allnom.txt UNUSED: 1A	237439	sara	sara	f#I
+allnom.txt UNUSED: 1A	19554	aSira	aSira	f#A
+allnom.txt UNUSED: 2A	53223	kulyA	kulyA	f#A
+allnom.txt UNUSED: 1A	54007	kUrca	kUrca	n
+allnom.txt UNUSED: 1A	140126	prAya	prA@ya	f#A
+allnom.txt UNUSED: 1A	26943.1	Ava	Ava	LEXID=pron,STEM=asmad
+allnom.txt UNUSED: 3A	60431	kzemavfdDi	kzema-vfdDi	m
+allnom.txt UNUSED: 2A	82896	tamas	tamas	m
+allnom.txt UNUSED: 3A	229289.1	saMjAtanidrApralaya	saMjAta-nidrA-pra-laya	m:f:n
+allnom.txt UNUSED: 1A	146552	brahman	brahman	m
+allnom.txt UNUSED: 3A	86119	tulAkowi	tulA-kowi	f#wI
+allnom.txt UNUSED: 3A	114969	pattrorRa	pattro@rRa	f#RA
+../../MWvlex/step0/verb_step0a.txt UNUSED: asaMpfYcAna:20735:<H1>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: Amukulita:25545:<H1>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: canas:71516:<H2>:X::<vlex type="nhw">P.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kzipyat:59546:<H2A>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kzipyamARa:59548:<H2A>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: krakzamARa:57648:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: saMviBAga:226263:<H2A>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: sTira:255730:<H2B>:X::<vlex type="nhw">P.</vlex> <vlex type="nhw">A1.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aSaknuvAna:19449:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: mamatva:157969:<H3>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: okivas:40598:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kapAwita:43379:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: virasIBU:193442:<H4A>:K:<key2>vi/--ra<sr1/>sI-<root>BU</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: uB:37051.1:<H1A>:V::<vlex type="root"></vlex> <vlex>cl. 7.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: raGuyat:173245:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aBimanAya:12004.1:<H2A>:N::<vlex>Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: avedayAna:19193:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kfzARa:55090:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: barhAyita:142985:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: nizPalIkf:107636:<H4A>:K:<key2>niz--Pa<sr1/>lI-<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: prAyaScittIya:140173:<H3A>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: miTyA:164354:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: jajYana:76508:<H1>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: caKvas:70733:<H1>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: prARaDAraRa:139572:<H3>:X::<vlex type="nhw">P.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: anumimAna:6989:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: sAmmuKya:242649:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aNkUyat:1481:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: prAleya:138936:<H3B>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: anunirjihAna:6537:<H1>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: arka:15588.1:<H1A>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: jAnAna:78828:<H3>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: sPuramARa:256990:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: prasAda:137837:<H2>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: AGnAna:22788:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: AGnat:22787:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: asriDAna:21558:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: asreDat:21559:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kavIyamAna:46607:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kavIyat:46606:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: prakzRu:130329.1:<H1A>:K:<key2>pra-<root>kzRu</root></key2>:<vlex>P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: dviDAgam:98495.30:<H4>:K:<key2>dvi/--DA---<root>gam</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: udeyivas:32724:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: jAtavedas:78614:<H3>:X::<vlex type="nhw">cl._6</vlex> <vlex type="nhw">cl.2.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kAyamAna:48501:<H1>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kramamARa:57856:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aBizwuvAna:12648:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: vidAna:195996:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: sPurat:256978:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: tanmAnin:82211:<H3>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: priya:140437:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: visPuliNga:202967:<H3>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: samakakzA:233024:<H3B>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: nizpattrAkf:107528:<H4A>:K:<key2>niz--pat<sr1/>trA-<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: aBimuKaya:12075.1:<H2A>:N::<vlex>Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kurvat:52803:<H1>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kurvARa:52807:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: krAmat:57897:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: sanATIkf:231131:<H4A>:K:<key2>sa--nA<sr1/>TI-<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: gacCat:62304:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: samaveza:233184:<H3>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: miTus:164346:<H2>:X::<vlex type="nhw">P.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kzemayat:60455:<H2>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: ArDaDAtuka:26519:<H2>:X::<vlex type="nhw">P.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: Kidvas:61913:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aDizWA:4440.1:<H1A>:P::<vlex type="preverb"><s><root>sTA</root></s></vlex> <vlex>P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: cakfvat:70310:<H1>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: apahnuvAna:9939:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kAlavidvas:49515:<H3>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: padmakoSa:115568:<H3>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: maraRa:158120:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kraSita:57952:<H1>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: nakzatramAlA:102886:<H3A>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: nimittAyamAna:108991:<H3>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aDikf:4153.1:<H1A>:K:<key2>aDi-<root>kf</root></key2>:<vlex>A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: Dana:99259:<H2A>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kzutavat:59864:<H3>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: dUta:94866:<H1>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: uttamAyya:31138:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: lokAyata:183507:<H3B>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: viSaNkA:200417:<H2A>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: miTuyA:164345:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: jagmAna:76396:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aBrayantI:13720:<H2>:X::<vlex type="nhw">Nom.</vlex> <vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: atiTIkf:2996.2:<H3A>:K:<key2>atiTI--<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: dviguRIkf:98426.60:<H4>:K:<key2>dvi--gu<sr1/>RI-<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: rayIyat:175286:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: pAtrIkf:120856.2:<H3A>:K:<key2>pAtrI---<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: fdDita:38945:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: juhurARa:80045:<H1>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: juhuvAna:80048:<H3>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: udDUpana:33146:<H1>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: dviguRaya:98426.40:<H4>:N::<vlex>Nom.</vlex> <vlex>P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: aSraddaDAna:19781:<H1>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: juhvAna:80067:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: juhvat:80066:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: dviDAkf:98495.20:<H4>:K:<key2>dvi/--DA---<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: tapasya:82742:<H2B>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: hiNkAra:262803:<H3>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: kulAyayat:53126:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: pravaRAyita:136725:<H2>:X::<vlex type="nhw">Nom.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: upakurvARa:34161:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: vilakzIkf:193474:<H4A>:K:<key2>vi/--la<sr1/>kzI-<root>kf</root></key2>:
+../../MWvlex/step0/verb_step0a.txt UNUSED: aBizwuvat:12647:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: saMcinvAnaka:229174:<H2>:X::<vlex type="nhw">A1.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: tasTivas:83677:<H2>:X::<vlex type="nhw">P.</vlex>
+../../MWvlex/step0/verb_step0a.txt UNUSED: tasTAna:83674:<H1>:X::<vlex type="nhw">A1.</vlex>
+icf.txt UNUSED: 2	170208	yan	yan	ICF:yad
+icf.txt UNUSED: 2	170186	yac	yac	ICF:yad
+icf.txt UNUSED: 2	50296	kiM	kiM	ICF:kim
+icf.txt UNUSED: 2	40062	etat	etat	ICF:etad
+icf.txt UNUSED: 2	20174	azwa	azwa	ICF:azwan
+icf.txt UNUSED: 2	81964	tac	tac	ICF:tad
+icf.txt UNUSED: 1	81811	tat	tat	ICF:tad
+icf.txt UNUSED: 2	149128	Bavan	Bavan	ICF:Bavat
+icf.txt UNUSED: 2	50338	kiM	kiM	ICF:kim
+icf.txt UNUSED: 2	172212	yuzmat	yuzmat	ICF:yuzmad
+icf.txt UNUSED: 2	170190	yat	yat	ICF:yad
+icf.txt UNUSED: 2	82186	tan	tan	ICF:tad
+icf.txt UNUSED: 2	149114	Bavad	Bavad	ICF:Bavat

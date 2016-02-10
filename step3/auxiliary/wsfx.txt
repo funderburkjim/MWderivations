@@ -1,0 +1,21 @@
+; This file contains various suffixes drawn from Whitney.  
+; When MW key2 coding has one of these as the ending pada ('-X'),
+; then this is how to recognize it.
+; Format is X wnnnn    (whitney section number)
+tA w1237
+tva w1239
+; Whitney shows 'vant', 'mant'; but MW uses 'vat','mat'
+vat w1233
+mat w1235
+tiTa w1242
+Sas w1106
+tas w1098
+vin w1232
+min w1231
+tvana w1240
+tama w1242
+tara w1242
+tana w1245
+vala w1228
+ka w1222
+Iya w1215
