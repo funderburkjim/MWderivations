@@ -1,4 +1,4 @@
-step2  Use H-code to help with samasa
+step3  Use H-code to help with samasa
 
 * lexnorm-all.txt - referenced from MWlexnorm/step1b/
  From funderburkjim/MWlexnorm/step1b repository in directory step1b
