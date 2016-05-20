@@ -1,7 +1,7 @@
 220261 records from auxiliary/mw_extract.txt
 198461 Lexdata records read from allnom.txt
 10476 records read from ../../MWvlex/step0/verb_step0a.txt
-665 records read from auxiliary/icf.txt
+1015 records read from auxiliary/icf.txt
 allnom.txt UNUSED: 1A	97152	dohada	dohada	f#A
 allnom.txt UNUSED: 3A	138639	praharaRa	pra~haraRa	f#A
 allnom.txt UNUSED: 4A	201724	vizaDaranilaya	viza-Dara-nilaya	f#A
@@ -409,16 +409,44 @@ allnom.txt UNUSED: 3A	114969	pattrorRa	pattro@rRa	f#RA
 ../../MWvlex/step0/verb_step0a.txt UNUSED: saMcinvAnaka:229174:<H2>:X::<vlex type="nhw">A1.</vlex>
 ../../MWvlex/step0/verb_step0a.txt UNUSED: tasTivas:83677:<H2>:X::<vlex type="nhw">P.</vlex>
 ../../MWvlex/step0/verb_step0a.txt UNUSED: tasTAna:83674:<H1>:X::<vlex type="nhw">A1.</vlex>
-icf.txt UNUSED: 2	170208	yan	yan	ICF:yad
+icf.txt UNUSED: 2	172222	yuzmA	yuzmA	ICF:yuzmad
+icf.txt UNUSED: 2	98211	dvAdaSa	dvA-daSa	ICF:dvAdaSa
+icf.txt UNUSED: 2	143000	barhi	barhi	ICF:barhis
 icf.txt UNUSED: 2	170186	yac	yac	ICF:yad
 icf.txt UNUSED: 2	50296	kiM	kiM	ICF:kim
+icf.txt UNUSED: 3	113672	paYcadaSa	paYca-daSa	ICF:paYcadaSan
 icf.txt UNUSED: 2	40062	etat	etat	ICF:etad
+icf.txt UNUSED: 2	170208	yan	yan	ICF:yad
+icf.txt UNUSED: 2	120488	pavitrI	pavitrI	ICF:pavitra
+icf.txt UNUSED: 2	95011	dUrI	dUrI	ICF:dUra
 icf.txt UNUSED: 2	20174	azwa	azwa	ICF:azwan
+icf.txt UNUSED: 1	113536	paYca	paYca	ICF:paYcan
+icf.txt UNUSED: 2A	85109.1	tiryak	tiryak	ICF:tiryak
+icf.txt UNUSED: 1A	13022	aBIkzRa	aBIkzRa	ICF:aBIkzRam
+icf.txt UNUSED: 2A	79890	jIvanti	jIvanti	ICF:jIvanti
 icf.txt UNUSED: 2	81964	tac	tac	ICF:tad
+icf.txt UNUSED: 1	22529	AgaRqa	A-gaRqa	ICF:AgaRqam
+icf.txt UNUSED: 2	93272	dIrGI	dIrGI	ICF:dIrGa
+icf.txt UNUSED: 2	123953	piRqI	piRqI	ICF:piRqa
 icf.txt UNUSED: 1	81811	tat	tat	ICF:tad
+icf.txt UNUSED: 3	39787	ekAdaSa	ekAdaSa	ICF:ekAdaSan
+icf.txt UNUSED: 2	120856	pAtrI	pAtrI	ICF:pAtra
+icf.txt UNUSED: 2	75453	CattrI	CattrI	ICF:Cattra
 icf.txt UNUSED: 2	149128	Bavan	Bavan	ICF:Bavat
 icf.txt UNUSED: 2	50338	kiM	kiM	ICF:kim
+icf.txt UNUSED: 1	72445	carma	carma	ICF:carman
+icf.txt UNUSED: 2	149114	Bavad	Bavad	ICF:Bavat
+icf.txt UNUSED: 2	155285	man	man	ICF:mad
+icf.txt UNUSED: 2	162519	mAdri	mAdri	ICF:mAdrI
+icf.txt UNUSED: 2	74075	cetI	cetI	ICF:cetas
 icf.txt UNUSED: 2	172212	yuzmat	yuzmat	ICF:yuzmad
+icf.txt UNUSED: 2	232432	sapta	sapta	ICF:saptan
+icf.txt UNUSED: 2	225419	zoqaSa	zoqaSa	ICF:zoqaSan
+icf.txt UNUSED: 2	235784	samuhya	sam-uhya	ICF:samUhya
+icf.txt UNUSED: 2	95210	dfQI	dfQI	ICF:dfQa
 icf.txt UNUSED: 2	170190	yat	yat	ICF:yad
 icf.txt UNUSED: 2	82186	tan	tan	ICF:tad
-icf.txt UNUSED: 2	149114	Bavad	Bavad	ICF:Bavat
+icf.txt UNUSED: 2	155261	mat	mat	ICF:mad
+icf.txt UNUSED: 2	74849	cUrRI	cUrRI	ICF:cUrRa
+icf.txt UNUSED: 2	116675	parA	parA	ICF:para
+icf.txt UNUSED: 2	21497	asmat	asmat	ICF:asmad

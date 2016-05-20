@@ -91,11 +91,23 @@ V 2148 : record contains <vlex type="root"></vlex> (standard root)
 python init_icf.py auxiliary/icf_prep1.txt auxiliary/icf.txt
   auxiliary/icf_prep1.txt ontains records of MW that are 'in compound for' 
    records.
+  
   These are subclassified as 
   OK 665 - definite icf   ONLY THESE make it into icf.txt
   PROBABLE 181 - very likely icf
   MAYBE 333 - possible icf
  (+ 665 181 333) = 1179
+ May 20, 2016. Manually changed many PROBABLE/MAYBE to OK.
+ Statistics are now:
+ OK       1015
+ PROBABLE    9
+ MAYBE     155
+ (+ 1015 9 155) = 1179.
+ NOTE: For the OK records, the target word is often presented 'elliptically'.
+ This needs to be improved. There are 171 such cases. (May 20, 2016)
+  SUBNOTE: Maybe the prep1 program adjusts for this, as icf.txt does not
+  have these elliptical cases.  Compare L=54584 in both icf_prep1.txt and 
+  icf.txt.
  Each record of icf.txt contains 5 tab-delimited fields:
  - H code (with the 'H' removed)
  - L

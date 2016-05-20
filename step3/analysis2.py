@@ -934,7 +934,10 @@ def analysis2_gender(rec):
    # success
    rec.analysis = rec.key1
    rec.status = 'DONE'
-   rec.note = 'gender:%s' % g
+   # May 19, 2016. Show key whose gender gives this. 
+   # Alternate approach would be to show this key in rec.analysis, instead of rec.key1
+   #rec.note = 'gender:%s' % g
+   rec.note = 'gender:%s of %s' % (g,rec0.key1)
 
 def inflected_form(b,a,lexb,lexa):
  """ is 'a' an inflected form of 'b'?
@@ -1001,7 +1004,8 @@ def analysis2_inflected(rec):
    # success. g is the case number of the inflected form
    rec.analysis = rec.key1
    rec.status = 'DONE'
-   rec.note = 'inflected:%s'%g
+   # May 19, 2016. Show rec 
+   rec.note = 'inflected:case %s of %s'%(g,rec0.key1)
 
 def analyze_rec(rec,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
