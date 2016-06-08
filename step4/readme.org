@@ -1,0 +1,432 @@
+step4  Revise H-codes to help with analysis.
+
+
+* lexnorm-all.txt - referenced from MWlexnorm/step1b/
+ From funderburkjim/MWlexnorm/step1b repository in directory step1b
+ Note to self: lexnorm-all.txt takes the place of '1b.txt' in oldmapnorm.
+  From within step2 directory,
+  cp ../../MWlexnorm/step1b/lexnorm-all.txt .
+ File has 198467 lines.
+ Each line contains 4 tab-delimited fields:
+ L, key1, key2, lexnorm.
+ NOTE: The H-code is absent.  Only nominal (or ind.) records of MW are
+  present.
+* allnom.txt: normalize key2 and attach H-code
+ from pdf/TM2013/0research/ejfcologne/lgtab1/mapnorm/step1b/ directory
+
+python normkey2.py ../../mwxml/mw.xml lexnorm-all.txt allnom.txt
+
+198468 Lexdata records read from lexnorm-all.txt
+286808 records from ../../mwxml/mw.xml
+198468 records processed from lexnorm-all.txt
+
+allnom.txt has tab-delimited records of the form:
+ - Hcode  (without the 'H'), from mw.xml
+ - L      record number within mw.xml
+ - key1
+ - key2, adjusted (see below)
+ - lexnorm    normalized lexical categories
+The normalizations of key2 are: (where 'x' is key2):
+ x = re.sub(r'-+','-',x)
+ x = re.sub(r'<sr1?/>','~',x) # <sr/>, <sr1/>
+ x = re.sub(r'<srs1?/>','@',x) # <srs/>, <srs1/>
+ x = re.sub(r'<shortlong/>','',x)
+ x = re.sub(r'</?root>','',x) # <root>, </root>
+ x = re.sub(r'[/\^]','',x) # accents
+ #x = re.sub(r'~','',x)  # remove entirely. This is done for step1/all.txt
+ x = re.sub(r'-?~-?','~',x)  # leave ~, but remove neighboring '-'
+
+
+* extended explanation of changes to key2
+key2, as in lexnorm-all.txt, has several parts that seem to me irrelevant in
+regard to the designation of padas.
+ - vowel accents: The accent of a vowel is represented by a preceding
+   character.  The most common (and perhaps only) accent representative 
+    is a forward slash. Also used is '^' (rarely, only in sv^ar?).
+    These will be removed
+ - gratuitous multiple-dashes ('-' character).  A single such character
+   is used to replace consecutive sequences of such characters.
+ - <sr/>, <sr1/> : these represent the presence in the scanned image of
+   a 'small-circle', used to represent an implied preceding word.
+   These can confound pada identification. For instance:
+   104.1	aMsoccaya	aM--<sr/>so<srs/>ccaya	m:
+   Here, a better marking of key2 is "aMso<srs/>ccaya".
+   It is believed that there is no semantic difference between the 
+   <sr/> and <sr1/>.  
+    In key2, I change these to ~. (See note on stepsr.txt below)
+ - <shortlong/> . indicates preceding vowel may be short or long. Drop this.
+ - <root>.*?</root> . only in substantive  aBi-jYu.  Remove <root>,</root>
+ - <srs/> : This represents a 'single-replacement-sandhi', and is important
+   to the pada-identification of this investigation.  
+   The hypothesis is that a vowel followed by <srs/>  is the result of
+   a sandhi of two vowels;  the two vowels are unspecified.  It might
+   be helpful, technically, to replace this multi-character symbol by 
+   some single-character;  since this phenomenon is represented in the
+   scans by a 'Hat' (circumflex) character over the vowel, and since
+   the '@' character is often called the 'at-sign', I will replace the
+   <srs/> by the '@' character  (this character does not otherwise occur in
+   key2).
+
+Note on sr.txt:
+   The <sr> instances appear to be adequately handled by being ignored.
+   Thus, in stepall.txt I actually delete the '~'.
+   However, for the sake of completeness, I write to a separate file, namely
+   stepsr.txt, the records with the '~' present.
+
+Note: all.txt has 199,005 (199k) records.
+Of these, 140k have a '-'  (indicating a compound)
+13k have no '-' but have '@' (indicating simple srs compound).
+That leaves 46k which are not coded as compounds.
+
+* auxiliary/verb_step0a.txt
+ cp ../../MWvlex/step0/verb_step0a.txt .
+ from repository funderburkjim/MWvlex in directory step0
+ Contains all records of MW identified as verbs (or mentioning verbs).
+ There are 5 categories:
+X 96   : record contains <vlex type="nhw">  (nhw == not headword) (hw not a verb)
+K 6395 : record contains form <key2>.*?</root></key2>
+N 1215 : record contains <vlex>Nom.</vlex>  (denominative verb)
+P 619  : record contains <vlex type="preverb"></vlex> (prefixed roots)
+V 2148 : record contains <vlex type="root"></vlex> (standard root)
+* auxiliary/icf.txt 
+python init_icf.py auxiliary/icf_prep1.txt auxiliary/icf.txt
+  auxiliary/icf_prep1.txt ontains records of MW that are 'in compound for' 
+   records.
+  
+  These are subclassified as 
+  OK 665 - definite icf   ONLY THESE make it into icf.txt
+  PROBABLE 181 - very likely icf
+  MAYBE 333 - possible icf
+ (+ 665 181 333) = 1179
+ May 20, 2016. Manually changed many PROBABLE/MAYBE to OK.
+ Statistics are now:
+ OK       1015
+ PROBABLE    9
+ MAYBE     155
+ (+ 1015 9 155) = 1179.
+ NOTE: For the OK records, the target word is often presented 'elliptically'.
+ This needs to be improved. There are 171 such cases. (May 20, 2016)
+  SUBNOTE: Maybe the prep1 program adjusts for this, as icf.txt does not
+  have these elliptical cases.  Compare L=54584 in both icf_prep1.txt and 
+  icf.txt.
+ Each record of icf.txt contains 5 tab-delimited fields:
+ - H code (with the 'H' removed)
+ - L
+ - key1
+ - key2
+ - ICF:<baseword>  The headword for which key1 is the icf form.
+* auxiliary/mw_extract.txt 
+python mw_extract.py ../../mwxml/mw.xml auxiliary/mw_extract.txt
+
+286814 records read from ../../mwxml/mw.xml
+202644 records written to auxiliary/mw_extract.txt
+
+This reads all records of mw.xml, 
+discards some (see below), 
+and for each of those not discarded writes a tab-delimited 5-field record:
+ - Hcode  (without the 'H')
+ - L
+ - key1
+ - key2, adjusted
+ - classification code:
+   NONE
+   SEE  (if <see type="nonhier"/> is part of the mw.xml record)
+The discarded records are:
+  - H code ends in 'A'  AND (key1 is same as previous record whose H-code was a number (1,2,3,4))
+  - <lex type="inh"> is part of record
+  - H code ends in 'B' AND key1 is same as that for the
+    previous record whose H-code was a number (1,2,3,4).
+* all.txt 2016-05-23 revision
+ Note1: The revision uses auxiliary/all_revise.txt as an additional input.
+ This file contains manual adjustments, and is used to override
+ the results.
+ Note2: This is provisional. It is expected that at a later stage,
+  the revisions will actually be incorporated into changes of MW.
+  However, it is simplest to make these manual changes 
+ Note3: The all_revise.txt file is used in a second step to
+  modify all.txt.
+ Merges allnom.txt and other records into all.txt.
+ Uses allnom.txt
+ Uses auxiliary files mw_extract.txt, verb_step0.txt, icf.txt
+python merge.py auxiliary/mw_extract.txt allnom.txt auxiliary/verb_step0a.txt auxiliary/icf.txt all.txt > all_log.txt
+ Next program reads both inputs, and over-writes all.txt.
+python all_revise.py all.txt auxiliary/all_revise.txt
+
+
+ all.txt has 5 tab-delimited fields
+ H,L,key1,key2(adjusted) and code
+ where code is :
+  - NONE
+  - LEXID, etc for 'special' nominals
+  - lex normalized gender information, as in lexnorm_all
+  - VERB:subcode  for verbs
+* analysis
+The analysis.txt file applies various algorithms to all.txt, and
+adds 3 fields to each record. The way to think of the process is that
+there is an initialization step, in which analysis.txt is created from
+all.txt and the 3 additional fields are initialized.  Then,
+in multiple steps, these three fields are modified.  Each of the steps
+is identfied by a code word. Currently, these codes are:
+  init (for the initialization step)
+  noparts, wsfx,  cpd1, srs1, pfx1, gender.
+The order of the steps is important.
+
+The overall purpose of the three fields is to identify the derivation of the
+nominal compounds.
+The first 5 fields are from all.txt, and are named:
+ H,L,key1,key2 and 'lex' 
+The 'lex' field is assumed to start with one of 11 constants:
+   (m|f|n|ind|LEXID|INFLECTID|LOAN|NONE|VERB|ICF|SEE)
+ For purpose of analysis, these 11 initial segments of 'lex' are grouped into
+ 6 types:
+  S for m,f,n,ind  - normal substantive or indeclineable
+  S1  for LEXID|INFLECTID|LOAN  - special substantive
+  NONE, VERB, ICF, SEE  
+
+The 3 analytical fields of analysis.txt are named 'status','analysis','note'
+
+Next we show how the analysis steps are run, and how they modify these
+three analytical fields.
+* analysis: init
+python analysis.py init all.txt analysis.txt
+202645 records read from all.txt
+      init  NTD  22033
+      init TODO 180612
+The 'analysis' field is set to be the empty string
+The 'status' field is set to either 
+  TODO (further analysis required)  - when the 'type' is S or S1
+  NTD  (nothing to do) - further analytical steps will make no further
+     modification in these records. However, the first five fields of these
+     records may find use in the analysis of other records.
+The 'note' field is set to 'init'
+
+* analysis: noparts
+python analysis.py noparts analysis.txt
+146230 TODO       init
+ 22033  NTD       init
+ 34381 DONE    noparts
+Note that there is no output file specified, which means that we will
+write over the analysis.txt file.
+Note that the status is set to DONE for the noparts cases.  
+Further analysis will do no further work on those that are already 'DONE';
+  further analysis will only word with the 'TODO' cases.
+
+The analytical steps are based on certain beliefs regarding the organization 
+of the Monier-Williams dictionary. Furthermore, at least for now, we are not
+attempting to go beyond the dictionary organization in explaining the 
+derivations of words.
+
+One of these principles is that a compound substantive is identified
+in the key2 form of that substantive's headword.  In other words, the
+key2 form shows the 'parts' of the word, by the presence (in our coding) of
+ '-','@', or '~' characters. 
+In particular, if none of these derivational signals is present in the key2
+form of the headword, then we assume that there is no implicit 
+derivation of the word; i.e, that it has 'no parts' to analyze further.
+
+The program further identifies the (very few) 'LOAN' words as having no parts.
+
+* TODO analysis - the notion of 'parent' headwords in Monier-Williams
+* analysis: wsfx
+python analysis.py wsfx analysis.txt
+202644 records read from analysis.txt
+15 records read from auxiliary/wsfx.txt
+
+139928 TODO       init
+ 22033  NTD       init
+ 34381 DONE    noparts
+  6302 DONE       wsfx
+
+We can further summarize that (- 146230 139928 ) = 6302 headwords were
+analyzed as formed by adding a secondary suffix to the parent headword.
+
+** Discussion of wsfx
+A 'typical' MW compound is indicated by key2 having the form X-Y,
+ where X is the 'parent' key1, and Y is some other headword in MW.
+However, consider an example like aMSa-vat.  In this case there IS a headword
+'vat' in MW, whose gloss is 'an affix (technically termed vati'.  So 
+aMSa-vat is not considered a samAsa but a tadDita, formed by adding the
+secondary suffix 'vat' to aMSa.
+The MW text uses no special typographical convention to distinguish tadDita
+'compounds' from samAsa compounds.  Thus, we must do this by some supplementary
+means.  Our approach is to use a list of secondary suffixes and search for
+forms X-Y where Y is one of the identified secondary suffixes.  This list
+is obtained by reading Whitney's Grammar, hence the abbreviation 'wsfx' for
+'Whitney suffix'.  These are in an auxiliary file auxiliary/wsfx.txt.  There
+are currently 15 of them.  
+The summary line '1818 DONE wsfx:tA:w1237` shown above indicates that
+there are 1818 headwords analyzed as being formed by adding the secondary
+suffix 'tA' to the parent headword; 'w1237' notes that this suffix is 
+described in article 1237 of Whitney's grammar.
+
+* analysis: testwsfx
+python analysis.py wsfx analysis.txt analysis_testwsfx.txt
+This approach does not use 'parents'. It is not part of the process
+* analysis: cpd1
+python analysis.py cpd1 analysis.txt
+ 69226 TODO       init
+ 70621 DONE       cpd1
+This case identifies TODO cases where key2 has the form X-Y where
+(a) X is the 'parent' key1 and
+(b) Y = key1 for some substantive in analysis.txt.
+
+* analysis: cpd2
+python analysis.py cpd2 analysis.txt
+ 69226 TODO       init
+ 70653 DONE       cpd1
+This case identifies TODO cases where key2 has the form X1-Y where
+(a) X1 is the 'parent' key1 and
+   X is a sandhi form of X1 when joined with Y
+   Examples
+   agny-agAra   X1 = agny, X = agni  analysis = agni+agAra
+   
+(b) Y = key1 for some substantive in analysis.txt.
+
+* analysis: srs1
+python analysis.py srs1 analysis.txt
+ 56316 TODO       init
+  9625 DONE       srs1
+  3285 DONE       srs1?
+MW uses the unique typographical feature of printing a circumflex over certain
+vowels.  Consider the headword whose SLP1 spelling in the digitization is
+'aMSAMSa'.  In the internal format of the Cologne digitization, this is
+'aMSA<srs/>MSa'.
+In a Cologne display (using Roman output) this appears as
+'aṁśā*ṁśa'.  The middle part 'ā*' could be rendered more nearly as in the
+printed edition as 'â', so 'aṁśâṁśa'.
+This special typography 'â' indicates that this is a long A, which moreover
+has been joined by vowel sandhi from two 'a' vowels , one vowel appended to the 
+prior fragment 'aṁś' and one vowel prepended to the second fragment 'ṁśa'.
+The typography does NOT indicate whether the hidden vowels are short or long.
+
+Based on the ordering of the headwords, we know that the parent headword of
+'aṁśā*ṁśa' is 'aṁśa', so the first hidden vowel is a short 'a'. But we
+still don't know whether the second hidden vowel is short or long.  So,
+the given word is either a compound (switching back to slp1 spelling) of
+aMSa+aMSa or aMSa+AMSa.   The srs1 logic looks for both second headwords,
+aMSa and AMSa as headwords.  In this case it finds both. It prints the
+analysis as aMSa+aMSa, but writes the note as 'srs1?'; the question mark
+indicates that it could be that the analysis is aMSa+AMSa.  In other words,
+in this case we have an analysis, but the analysis is incomplete because
+the second headword is one of two possibilities.
+There are 3285 of these incomplete analyses (srs1?).
+
+For the rest (9625) of the srs1 cases, the analysis is not ambiguous 
+(note = srs1, no question mark).  For instance 
+aMSA@vataraRa = aMSa+avataraRa is unambiguous; avataraRa is found as a
+headword, but AvataraRa is NOT found as a headword.
+
+* analysis: gender
+python analysis.py gender analysis.txt
+52945 TODO
+ 3371 DONE  gender:f
+* analysis: inflected
+python analysis.py inflected analysis.txt
+
+* analysis: pfx1
+* analysis: summary stats (NOT allowing 'NONE' as parent)
+202644 records read from analysis.txt
+ 22033  NTD       init
+ 70610 DONE       cpd1
+   867 DONE       cpd2
+  3512 DONE       cpd3
+  9625 DONE       srs1
+  6302 DONE       wsfx
+  3285 DONE      srs1?
+  3371 DONE     gender
+  2974 DONE    cpd_nan
+  1180 DONE  inflected
+ 10567 DONE       pfx1
+  2475 DONE       pfx2
+   689 DONE      cpd1a
+ 34381 DONE    noparts
+ 30773 TODO       init
+* analysis: summary stats allowing 'NONE' as parent)
+202644 records read from analysis.txt
+ 22033  NTD       init
+ 79438 DONE       cpd1
+   877 DONE       cpd2
+  3786 DONE       cpd3
+  7788 DONE       pfx1
+  2473 DONE       pfx2
+  9948 DONE       srs1
+  6450 DONE       wsfx
+   691 DONE      cpd1a
+  3386 DONE      srs1?
+  3371 DONE     gender
+  2974 DONE    cpd_nan
+ 34381 DONE    noparts
+  1181 DONE  inflected
+ 23867 TODO       init
+* scharfsandhi
+scharfsandhi.py and scharfsandhiWrapper.py from pythonv4 in repository 
+https://github.com/funderburkjim/ScharfSandhi
+
+* -------------------------------
+* analysis2 - see below for newer version
+python analysis2.py all all.txt analysis2.txt
+202715 records read from all.txt
+16 records read from auxiliary/wsfx.txt
+6153 records read from auxiliary/pfxderiv.txt
+ 22037  NTD       init
+ 84696 DONE       cpd1
+  4301 DONE       cpd3
+  1050 DONE       cpd4
+  1151 DONE       cpd5
+  8477 DONE       pfx1
+  2608 DONE       pfx2
+ 14835 DONE       srs2
+  6493 DONE       wsfx
+  1460 DONE      cpd1a
+  3422 DONE     gender
+  3272 DONE    cpd_nan
+ 34422 DONE    noparts
+  1081 DONE   pfxderiv
+  1181 DONE  inflected
+ 11456 TODO       init
+
+* analysis2 - 
+Note there are 20,000+ more records in all.txt here. This is 
+due to an adjustment to mw_extract.py that keeps many HxB records.
+It probably would be good to alter merge.py to remove the ones of these
+which are duplicative (in both key1 and lex)
+220265 records read from all.txt
+16 records read from auxiliary/wsfx.txt
+6153 records read from auxiliary/pfxderiv.txt
+ 22100  NTD init
+ 85111 DONE cpd1
+  1392 DONE cpd1a
+  4391 DONE cpd3
+  1086 DONE cpd4
+   864 DONE cpd5
+  3280 DONE cpd_nan
+ 12544 DONE gender
+  1181 DONE inflected
+ 42776 DONE noparts
+  8503 DONE pfx1
+  2576 DONE pfx2
+  1573 DONE pfxderiv
+ 15023 DONE srs2
+  6488 DONE wsfx
+   583 DONE wsfx1
+  9174 TODO init
+
+* -------------------------------
+* analysis: test
+python analysis.py test analysis.txt
+
+* -------------------------------
+* partition of a sequence. partition.py module
+example: [x] -> [(x)]
+example: [x,y] -> [[xy] , [x,y]] 
+  [[x,y],[[x],[y]]
+example:  [x,y,z] ->[[xyz],[x,yz],[x,y,z],[xy,z]]
+example: [x,y,z,w] -> [[xyzw], [x,yzw], [x,y,zw], [x,y,z,w],[x,yz,w],
+                       [xy,zw],[xy,z,w], 
+                       [xyz,w]]
+* -------------------------------
+* pfxderiv.txt
+In auxiliary directory, (see readme.txt therein).
+python pfxderiv.py deriv.txt verb-prep4-gati2-complete.out pfxderiv.txt
+* The End
+

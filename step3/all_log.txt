@@ -1,5 +1,5 @@
-220261 records from auxiliary/mw_extract.txt
-198461 Lexdata records read from allnom.txt
+220268 records from auxiliary/mw_extract.txt
+198459 Lexdata records read from allnom.txt
 10476 records read from ../../MWvlex/step0/verb_step0a.txt
 1015 records read from auxiliary/icf.txt
 allnom.txt UNUSED: 1A	97152	dohada	dohada	f#A
@@ -41,13 +41,11 @@ allnom.txt UNUSED: 2A	204298	vfkzaka	vfkzaka	f#A
 allnom.txt UNUSED: 3A	159845.1	mahAnasa	mahA@~nasa	m
 allnom.txt UNUSED: 2A	49836	kASi	kASi	m
 allnom.txt UNUSED: 3A	124153	pitAputra	pitA-putra	m
-allnom.txt UNUSED: 1A	47217	kAkutsTO	kAkutsTO	INFLECTID=m1d,STEM=kAkutsTa
 allnom.txt UNUSED: 2A	142261	Penaka	Penaka	f#ikA
 allnom.txt UNUSED: 2A	142260	Penaka	Penaka	f#A
 allnom.txt UNUSED: 2A	58532	krOzwuki	krOzwuki	m
 allnom.txt UNUSED: 2A	125194	puwa	puwa	f#I
 allnom.txt UNUSED: 1A	220881	Seza	Seza	f#A
-allnom.txt UNUSED: 3A	54760	kfcCrAtikfcCrO	kfcCrA@tikfcCrO	INFLECTID=m1d,STEM=kfcCrAtikfcCra
 allnom.txt UNUSED: 1A	56581	kopa	kopa	f#A
 allnom.txt UNUSED: 2A	233861	samavasTA	sam-avasTA	f#A
 allnom.txt UNUSED: 3A	62637.1	gaReSa	ga~Re@Sa	m
@@ -189,7 +187,6 @@ allnom.txt UNUSED: 2A	59518	kzipaRi	kzipaRi	f#RI
 allnom.txt UNUSED: 3A	98407	dvikARqa	dvi-kARqa	f#A
 allnom.txt UNUSED: 1A	52070	kudri	kudri	m
 allnom.txt UNUSED: 2A	163365	mArga	mArga	f#A:n
-allnom.txt UNUSED: 2A	30980	utkzepO	ut-kzepO	INFLECTID=m1d,STEM=utkzepa
 allnom.txt UNUSED: 3A	114768	patadgraha	patad-graha	n
 allnom.txt UNUSED: 2A	119473	parRa	parRa	f#A:f#I
 allnom.txt UNUSED: 1A	70345	cakra	cakra	f#A
@@ -228,8 +225,6 @@ allnom.txt UNUSED: 1A	119653	paryanta	pary-anta	f#A
 allnom.txt UNUSED: 2A	103311	nada	nada	ind#nadam
 allnom.txt UNUSED: 1A	242131.1	sApta	sApta	m
 allnom.txt UNUSED: 3A	135319	prabADana	pra~bADana	f#A
-allnom.txt UNUSED: 2A	58224	kruYcO	kruYcO	INFLECTID=m1d,STEM=kruYca
-allnom.txt UNUSED: 1A	53471	kuSIlavO	kuSIlavO	INFLECTID=m1d,STEM=kuSIlava
 allnom.txt UNUSED: 2A	172953	yODeya	yODeya	f#I
 allnom.txt UNUSED: 3B	136454	prarocanA	pra~rocanA	n
 allnom.txt UNUSED: 1A	48687	kAru	kAru	m
@@ -262,7 +257,6 @@ allnom.txt UNUSED: 3A	174438	ratnAkara	ratnA@kara	n
 allnom.txt UNUSED: 2A	173268	racana	racana	f#A
 allnom.txt UNUSED: 1A	167958.1	meDi	meDi	f
 allnom.txt UNUSED: 1A	114438	pawwa	pawwa	f#A
-allnom.txt UNUSED: 1A	35046	upapakzO	upa-pakzO	INFLECTID=m1d,STEM=upapakza
 allnom.txt UNUSED: 2A	18322	avasAna	ava-sAna	f#A
 allnom.txt UNUSED: 3A	137178	pravAraRa	pra~vAraRa	f#A
 allnom.txt UNUSED: 3A	180982.1	laGuSivapurARa	laGu-Siva-purARa	n

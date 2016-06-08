@@ -622,7 +622,7 @@
 164350	H2	miTo	miTo	icf	OK miTas
 164540	H2	miSrI	miSrI	icf	OK miSra
 164589	H2	mIQuz	mIQuz	icf	OK mIQv/as
-164590	H3	mi|uz	mi|uz	icf	OK mIQv/as
+164590	H3	mI|uz	mI|uz	icf	OK mIQv/as
 164826	H2	mukulI	mukulI	icf	OK mukula
 165681	H2	muny	muny	icf	OK muni
 165956	H2	muzwI	muzwI	icf	OK muzwi

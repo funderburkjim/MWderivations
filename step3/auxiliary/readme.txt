@@ -19,4 +19,6 @@ deriv.txt
   - Corresponding MW root spelling (NOTE: L (or Ls) not specified)
   - Whitney verbal derivatives (space-separated list)
 
+See step3/readme.org for icf.txt
+
 prederi

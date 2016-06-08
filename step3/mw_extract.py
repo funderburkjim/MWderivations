@@ -37,13 +37,19 @@ def init_mw(filein):
     exit(1)
    continue
   H = m.group(1)
+  key1 = m.group(2)
+  L = m.group(4)
+  key2 = m.group(3)
   # ignore H.A cases
   if H.endswith('A'):
-   continue
-  if re.search('<lex type="inh">',x):
+   if (key1 == prevkey1):
+    continue
+   else:
+    # print warning, and keep this record
+    print "WARNING: %s,%s,%s has different key1 than previous:%s" %(H,key1,L,prevkey1)
+  elif re.search('<lex type="inh">',x):
    continue # skip these inherited, even if not "<HxA"
-  key1 = m.group(2)
-  if H.endswith('B') and (key1 == prevkey1): # ignore these
+  elif H.endswith('B') and (key1 == prevkey1): # ignore these
    #continue
    # Feb 9, 2016. Modified to keep these.  
    # This was to deal with cases like
@@ -52,9 +58,7 @@ def init_mw(filein):
    pass
   if H in ['1','2','3','4']:
    prevkey1 = key1
-  key2 = m.group(3)
   key2 = adjust_key2(key2)
-  L = m.group(4)
   # 14198.20 => 14198.2, etc.
   L = re.sub(r'[.]([0-9])0',r'.\1',L) # remove trailing '0'.
   n=n+1

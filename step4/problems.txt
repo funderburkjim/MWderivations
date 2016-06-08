@@ -1,0 +1,51 @@
+Problems in MW that prevent analysis:
+gUDatayA, 66346.1 -> gUQatayA
+3	204150	vrikAmlikA -> vfkAmlikA
+3	70054	GritAhuta -> GftAhuta
+3	228584.12	saMgItadarpana  prob. saMgItadarpaRa (print err.) PWG, ACC
+4	203788.2	vIraSEvapUrARa  purARa (typo)
+3	165773	mUrKaBuya -> mUrKaBUya (typo)
+3	165429	muRqitamurDan	muRqita-murDan mUrDan (typo)
+3	168090	mezaSriNga	meza-SriNga  SfNga (print error)
+3B	168092	mezaSriNgI	meza-SriNgI  SfNgI (print error)
+3	29007	indratUrIya	indra-tUrIya prob. turIya (print error) cf. PW
+--------------------------------------------
+upakuYcikA, upakumBam
+255919.1	sTavimatas  not appropriate for alternate re sTaviman. Delete
+3	450	akzAgrakIla  Should be H4
+1	686	a-kziyat  kziyat is a participle of kzi, but not in MW
+3	1272	agrasanDyA	agra-sanDyA  saMDyA 
+3B	9853.1	apasAritA	apa-sAritA  3B -> 2B
+3	104494	navacCAtra	nava-cCAtra   base word spelled CAttra in MW.
+3	68101	gOqadeSIya	gOqa~deSIya  ~ -> -
+2	70309.1	cakitagati	cakita-gati L -> 70303.1
+2	1698.11	aNgiroDAman	aNgiro-DAman H2 -> H3 (so under aNgiras)
+3	1546.1	aNgadin         H3 -> H4 (so under aNgada)
+3	1546.2	aNgadIya        H3 -> H4 (so under aNgada)
+3	1599	aNgANgitA       H3 -> H4 (so under aNgANgi)
+3	1600	aNgANgiBAva      H3 -> H4 (so under aNgANgi)
+3	1601.1	aNgANgiBAvasaMkara  H3 -> H4 (so under aNgANgi)
+2	790.1	agatyA	a-gatyA	ind H2 -> H2C, L -> 787.1 (so under agati)
+3	39924.1	ekEkatra  H3 -> H4 so under ekEka
+3	39946.4	ekatIrTin  L = 39288.1, H3->H3B (suppl.)
+3	37142	uBayAYjali	uBayA~Yjali -> uBayA@Yjali
+3	13703	aBramAtaNga	aBra-mAtaNga  mAtaMga
+3	21419	asTisanDi	asTi-sanDi  saMDi
+3	23829.1	AdikeSavAzwaka	Adi-keSavA@zwaka  H4 under AdikeSava
+3	29648	izwakAsaMpad	izwakA-saMpad sampad
+3	38088	UrRanABI	UrRa-nABI  nABi  ifc f#I
+3	111860.1	nfpanApitaputranyAya change L,H to under 'nfpa'
+3	111860.2	nfparzi	nf-pa-rzi change L,H to under 'nfpa'
+3	49066	kAlakaYja	kAla-kaYja  kaYja -> kaMja
+1	305.2	akuzWipfzat	a-kuzWipfzat => a-kuzWi-pfzat  (typo)
+-----------------------------
+missing headwords
+anvakta (PD)
+ativApa (PD)
+pAwika  (NONE) pAwaka, pAWikA
+vikURita (NONE) akzi-vikURita
+Amayin  (PW)  but only in reference to two compounds
+kzuDya  ditto
+jIvika (BHS)  akzara-jIvika
+sadvan (CAE, GRA, PW, PWG)
+anucarita (PD, et al.) 3	184298	vaMSAnucarita

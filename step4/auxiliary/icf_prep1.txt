@@ -1,0 +1,1179 @@
+885	H1	agnA	agnA	icf	OK agni
+1497	H2	aNgI	aNgI	icf	OK aNga
+2442	H2	aRU	aRU	icf	OK aRu
+3553	H2	aTarva	aTarva	icf	OK aTarvan
+3822	H2	adma	adma	icf	OK adman
+4222	H1	aDigam	aDi-gam	icf	MAYBE <to/>to go up to ,...
+4733	H2	aDva	aDva	icf	OK aDvan
+4840.1	H2	anaqud	anaq-ud	icf	OK anaquh
+5493	H2	anAtma	an-Atma	icf	OK an-Atman
+12076	H2	aBimuKI	aBimuKI	icf	OK aBimuKa
+12183	H2C	aBirAmam	aBi-rAmam	icf	MAYBE <lex>ind </lex> ...
+13022	H1A	aBIkzRa	aBIkzRa	icf	OK aBIkzRam
+13220	H2	aByantarI	aByantarI	icf	OK aByantara
+13255	H1	aByarT	aBy-arT	icf	MAYBE <vlex>A1 </vlex> ...
+13412	H2	aByAtma	aByAtma	icf	OK aByAtm/am
+13588	H1A	aByudyata	aBy-ud-yata	icf	MAYBE <lex type="inh">mfn </lex> ...
+13810	H2	amanI	a-manI	icf	OK a-manas
+13812	H2	amano	a-mano	icf	OK a-manas
+13964	H2	amarma	a-marma	icf	OK a-marman
+14049	H3	amAtAputra	a-mAtA-putra	icf	MAYBE <lex>mfn </lex>...
+14570	H1A	amBas	amBas	icf	PROBABLE <lex type="inh">n </lex> N ...
+14572	H2	amBaH	amBaH	icf	OK amBas
+14578	H2	amBo	amBo	icf	OK amBas
+14788	H2	ayaH	ayaH	icf	OK ayas
+14805	H2	ayaS	ayaS	icf	OK ayas
+14807	H2	ayo	ayo	icf	OK ayas
+15129	H2	araRye	araRye	icf	OK araRya
+15176	H2	araM	araM	icf	OK /aram
+15399	H1A	aru	aru	icf	MAYBE <lex type="inh">m </lex> for...
+15508	H2	aruz	aruz	icf	OK /arus
+16036	H3	arTArTa	arTA@rTa	icf	MAYBE <lex>mfn </lex> effective ...
+16080	H2	arTi	arTi	icf	OK arT/in
+16119	H2C	arDe	arDe	icf	MAYBE <lex>ind </lex> in the middle...
+16390	H2	aryaman	aryaman	icf	MAYBE <lex>m </lex> a bosom friend ...
+16394	H2	aryama	aryama	icf	OK aryam/an
+16435	H2	arvAg	arvAg	icf	OK arvAk
+16468	H2	arSo	arSo	icf	OK /arSas
+16598	H2	alaM	alaM	icf	OK /alam
+18139	H2	avaSya	a-vaSya	icf	MAYBE in comp with a fut p p ...
+18316	H1	avaso	ava-so	icf	MAYBE <s>-syati</s> Imper 2 du ...
+19721	H2	aSma	aSma	icf	OK aSman
+20174	H2	azwa	azwa	icf	OK azwan
+20251	H2	azwA	azwA	icf	OK azwan
+20557	H2	asac	asac	icf	OK asat
+20560	H2	asaj	asaj	icf	OK asat
+20575	H2	asad	asad	icf	OK asat
+20597	H2	asan	asan	icf	OK asat
+21155	H2	asfk	asfk	icf	OK /asfj
+21164	H2	asfg	asfg	icf	OK /asfj
+21173	H2	asfN	asfN	icf	OK /asfj
+21497	H2	asmat	asmat	icf	OK asmad
+21678	H2	ahaM	ahaM	icf	OK ah/am
+21743	H2	ahaH	ahaH	icf	OK /ahar
+21749	H2	ahaS	ahaS	icf	OK /ahar
+22033	H2	AkaRWa	AkaRWa	icf	OK A-kaRWam
+22047	H2	AkarRa	AkarRa	icf	OK A-karRam
+22070	H2	Akalpa	Akalpa	icf	OK A-kalpam
+22084	H1	AkANkz	A-kANkz	icf	MAYBE <vlex>P A1 </vlex> <s>-kANkzati</s> ...
+22087	H2B	AkANkza	A-kANkza	icf	MAYBE <lex>f </lex> in Gr ...
+22186	H2	AkulI	AkulI	icf	OK Akula
+22529	H1	AgaRqa	A-gaRqa	icf	OK AgaRqam
+22975	H1	Acit	A-cit	icf	MAYBE Impv 2 sg <s>-cikidDi</s>...
+23475	H2	Atma	Atma	icf	OK Atm/an
+23700	H2	Atmane	Atmane	icf	OK Atman
+24098	H1	ADA	A-DA	icf	MAYBE <vlex>P A1 </vlex> <s>-daDAti</s>...
+24869	H2	Apat	Apat	icf	OK Apad
+24921	H2	Apo	Apo	icf	OK Apas
+24947	H3	ApAnaBUmi	A-pAna-BUmi	icf	MAYBE <lex>f </lex> ...
+25874	H2	AyuH	AyuH	icf	OK Ayus
+25880	H2	Ayur	Ayur	icf	OK Ayus
+25897	H2	Ayuz	Ayuz	icf	OK Ayus
+26513	H1	ArDa	ArDa	icf	OK arDa
+27145	H2	Avir	Avir	icf	OK Av/is
+27157	H2	Aviz	Aviz	icf	OK Av/is
+27465	H2	ASIr	ASIr	icf	OK ASis
+28366	H2	AhutI	AhutI	icf	OK Ahuti
+28653	H2	iNgya	iNgya	icf	MAYBE <lex>mfn </lex> movable ...
+28731	H3	itaretara	itare@tara	icf	MAYBE <lex>mfn </lex> occurring ...
+28747	H1	iti	iti	icf	MAYBE <lex>ind </lex> fr pronominal ...
+29942	H2	Izad	Izad	icf	OK Izat
+29958	H2	Izan	Izan	icf	OK Izat
+30089	H2	ukza	ukza	icf	OK ukz/an
+30262	H2	uccEH	uccEH	icf	OK ucc/Es
+30278	H2	uccEr	uccEr	icf	OK ucc/Es
+32261	H2	udak	udak	icf	OK /udac
+32275	H2	udag	udag	icf	OK /udac
+32291	H2	udaN	udaN	icf	OK /udac
+33330	H2	udBij	ud-Bij	icf	OK udBid
+35057	H1	upapad	upa-pad	icf	MAYBE <vlex>A1 </vlex> <s>-padyate</s>...
+35577	H2	uparizwAj	uparizwAj	icf	OK up/arizwAt
+35583	H2	uparizwAd	uparizwAd	icf	OK up/arizwAt
+35589	H2	uparizwAl	uparizwAl	icf	OK up/arizwAt
+36095	H2	upasat	upa-sat	icf	OK upasad
+36261	H2A	upasarjana	upa-sarjana	icf	MAYBE <lex type="inh">n </lex> in Gr ...
+36703	H2	upAnad	upA-nad	icf	OK upA-n/ah
+37095	H2	uBayata	uBayata	icf	OK uBay/atas
+37098	H2	uBayataH	uBayataH	icf	OK uBay/atas
+37114	H2	uBayataS	uBayataS	icf	OK uBay/atas
+37118	H2	uBayato	uBayato	icf	OK uBay/atas
+37140	H2	uBayA	uBayA	icf	OK uBaya
+37151	H2	uBA	uBA	icf	OK uBa
+37252	H2	uraH	uraH	icf	OK /uras
+37262	H2	uraS	uraS	icf	OK /uras
+37267	H2	urasi	urasi	icf	OK /uras
+37279	H2	uro	uro	icf	OK /uras
+37699	H2	uzaH	uzaH	icf	OK uz/as
+37713	H2	uzar	uzar	icf	OK uz/as
+37744	H2	uzAsA	uzAsA	icf	OK uzas
+37748	H2	uzo	uzo	icf	OK uz/as
+37823	H2	uzRI	uzRI	icf	OK uzRa
+37841	H2	uzma	uzma	icf	OK uzman
+37904	H2	uzRig	uzRig	icf	OK uzR/ih
+38355	H2	Uzma	Uzma	icf	OK Uzm/an
+38544	H2	ftI	ftI	icf	OK ft/i
+38617	H3	ftvik	ftv-ik	icf	OK ftv/ij
+38830	H2	fjU	fjU	icf	OK fj/u
+38927	H2	fdU	fdU	icf	OK fdu
+38952	H2	fDaN	fDaN	icf	OK /fDak
+39787	H3	ekAdaSa	ekAdaSa	icf	OK /ekAdaSan
+39965	H2	ekI	ekI	icf	OK eka
+40060	H2	etaj	etaj	icf	OK etad
+40062	H2	etat	etat	icf	OK etad
+40124	H2	eno	eno	icf	OK enas
+40646	H2	ojo	ojo	icf	OK /ojas
+40704	H1	om	om	icf	MAYBE <lex>ind </lex> <root/><s>av</s> ...
+41436	H3	kakudmi	kakud-mi	icf	OK kakud-min
+41446	H2	kakut	kakut	icf	OK kak/ud
+41460	H2	kakun	kakun	icf	OK kak/ud
+41473	H2	kakup	kakup	icf	OK kak/uB
+41476	H2	kakub	kakub	icf	OK kak/uB
+41570	H2	kakzI	kakzI	icf	OK kakza
+42433	H2	kaRwaki	kaRwaki	icf	OK kaRwakin
+42764	H2	kaTaM	kaTaM	icf	OK kaTam
+42855	H2	kat	kat	icf	OK kad
+42861	H2	kal	kal	icf	OK kad
+43015	H1	kana	kana	icf	MAYBE <lex>mfn </lex> ...
+43073	H3	kanyakubja	kanya-kubja	icf	MAYBE <lex>n </lex>...
+43768	H1	kam	kam	icf	MAYBE <vlex type="root"></vlex> ...
+44302	H2	kari	kari	icf	OK karin
+45280	H2	karma	karma	icf	OK k/arman
+45364	H3B	karmapravacanIya	karma-pravacanIya	icf	MAYBE <lex>m </lex> scil <s>Sabda</s> ; ...
+45581	H1	kal	kal	icf	MAYBE <vlex type="root"></vlex> <vlex>P </vlex> rarely ...
+47281	H2	kANkzin	kANkzin	icf	MAYBE <lex>mfn </lex> desiring ...
+48320	H2	kAmi	kAmi	icf	OK kAmin
+48357	H2	kAmuka	kAmuka	icf	MAYBE <lex>mf<s>A</s>n </lex> wishing...
+48396	H2	kAmyA	kAmyA	icf	MAYBE <lex>f </lex> wish , ...
+49359	H1A	kAla	kAla	icf	MAYBE <lex type="inh">m </lex>...
+50296	H2	kiM	kiM	icf	OK k/im
+50338	H2	kiM	kiM	icf	OK k/im
+50476	H2	kiyad	kiyad	icf	OK kiyat
+50481	H2	kiyan	kiyan	icf	OK kiyat
+50740	H2	kIdfg	kIdfg	icf	OK kIdfS
+51539	H2	kuwan	kuwan	icf	OK kuwat
+51987	H2	kuto	kuto	icf	OK kutas
+51994	H1A	kutuka	kutuka	icf	MAYBE <lex type="inh">n </lex> eagerness ...
+52003	H1A	kutUhala	kutUhala	icf	MAYBE <lex type="inh">n </lex> ...
+52593	H2	kumBi	kumBi	icf	OK kumBin
+53389	H2	kuSi	kuSi	icf	OK kuSin
+53407	H1A	kuSala	kuSala	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> fit for , ...
+54148	H1	kf	kf	icf	MAYBE <vlex type="root"></vlex>...
+54217	H3	kftakzaRa	kfta-kzaRa	icf	MAYBE <lex>mfn </lex>...
+54584	H2	kftI	kftI	icf	OK ~ti
+55056	H2	kfSI	kfSI	icf	PROBABLE <lex>ind </lex> in comp for <s>~S/a</s>
+55571	H1	kxp	kxp	icf	MAYBE <vlex type="root"></vlex> ...
+56061	H2	keSi	keSi	icf	OK keS/in
+56900	H2	kozWaka	kozWaka	icf	MAYBE <lex>mn </lex> a receptacle ...
+57096	H1	kOtuka	kOtuka	icf	MAYBE <lex>n </lex> fr <s>kut~</s>...
+57122	H2	kOtuki	kOtuki	icf	OK ~kin
+59043	H2A	kzama	kzama	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> adequate ...
+59046	H2A	kzama	kzama	icf	MAYBE <lex type="inh">mf<s>A</s>n </lex> fit ...
+59422	H2	kzayi	kzayi	icf	OK kzayin
+60073	H2	kzut	kzut	icf	OK kzuD
+60088	H2	kzud	kzud	icf	OK kzuD
+60113	H2	kzun	kzun	icf	OK kzuD
+61479	H2	KariM	KariM	icf	OK KarIm
+61853	H2	KAriM	KAriM	icf	OK KArim
+62216	H1	gaNga	gaNga	icf	OK gaNgA
+62725	H2	gaRi	gaRi	icf	OK gaRin
+63595	H2	gantu	gantu	icf	OK gantum
+63819	H2	garud	garud	icf	OK garut
+64291	H2	galv	galv	icf	OK galU
+64318	H1	gav	gav	icf	OK go
+64340	H2	gava	gava	icf	MAYBE <lex>mf<s>I</s>n </lex> ...
+64578	H2	gATi	gATi	icf	OK gaTin
+64631	H2	gAyatri	gAyatri	icf	OK gAyatrin
+65079	H2	gI	gI	icf	OK gir
+65081	H2	gIH	gIH	icf	OK gir
+65084	H2	gIr	gIr	icf	OK gir
+65091	H2	gIz	gIz	icf	OK gir
+65094	H2	gIs	gIs	icf	OK gir
+65790	H2	guRi	guRi	icf	OK guRin
+65809	H2	guRI	guRI	icf	OK guR/a
+65962	H2	guM	guM	icf	OK gum
+66160	H2	gurv	gurv	icf	OK gurv
+66438	H3	gfdDitva	gfdDi-tva	icf	MAYBE <lex>n </lex> ...
+66450	H3A	gfDnutA	gfDnu-tA	icf	MAYBE <lex type="inh">f </lex> great desire for in comp
+66453	H2B	gfDyA	gfDyA	icf	MAYBE <lex>f </lex> greediness after...
+66455	H2A	gfDra	gfDra	icf	MAYBE <lex type="inh">mfn </lex> eager...
+66884	H1	go	go	icf	MAYBE <s>g/Os</s> acc <s>g/Am</s> ...
+68312	H2	gOri	gOri	icf	OK gOr/I
+68782	H2	grAhi	grAhi	icf	OK ~grAhin
+68978	H2	grAmi	grAmi	icf	OK grAmin
+69061	H1	grAva	grAva	icf	OK grAvan
+69219	H1	Gaw	Gaw	icf	MAYBE <vlex type="root"></vlex> ...
+69314	H2	Gawi	Gawi	icf	OK ~win
+69377	H3A	GaRwAkarRa	GaRwA-karRa	icf	MAYBE <lex type="inh">m </lex> ...
+69412	H2	GaRwi	GaRwi	icf	OK ~win
+69761	H2	GAti	GAti	icf	OK ~tin
+70095	H2	GfRi	GfRi	icf	OK ~Rin
+70659	H2	cakzuH	cakzuH	icf	OK ~kzus
+70664	H2	cakzur	cakzur	icf	OK ~kzus
+70687	H2	cakzuS	cakzuS	icf	MAYBE in comp , for <s>~kzus</s>
+70689	H2	cakzuz	cakzuz	icf	OK ~kzus
+70729	H2	cakzU	cakzU	icf	OK ~kzus
+70808	H3	caYcutva	caYcu-tva	icf	MAYBE <lex>n </lex> the being famous for
+70886	H3	caRatva	caRa-tva	icf	MAYBE <lex>n </lex> the being famous for 
+71077	H2	catu	catu	icf	OK cat/ur
+71083	H2	catuH	catuH	icf	OK cat/ur
+71377	H2	catuS	catuS	icf	OK cat/ur
+71391	H2	catuz	catuz	icf	OK cat/ur
+71459	H2	catus	catus	icf	OK cat/ur
+71467	H2	catU	catU	icf	OK cat/ur
+71524	H2	cano	cano	icf	OK c/anas
+72445	H1	carma	carma	icf	OK carman
+72583	H2	carzaRI	carzaRI	icf	OK carzaR/i
+72632	H2	calad	calad	icf	OK calat
+72753	H1	cAYcava	cAYcava	icf	MAYBE <lex>n </lex> fr <s>caYcu</s> ...
+73237	H2	cArv	cArv	icf	OK cAru
+73386	H3A	cikIrzA	cikIrzA	icf	MAYBE <lex type="inh">f </lex> desire...
+73474	H1	cit	cit	icf	MAYBE <vlex type="root"></vlex>...
+73512	H2	cic	cic	icf	OK cit
+74007	H2	cid	cid	icf	OK cit
+74029	H2	cin	cin	icf	OK cit
+74075	H2	cetI	cetI	icf	OK cetas
+74078	H2	ceto	ceto	icf	OK ~tas
+74849	H2	cUrRI	cUrRI	icf	OK cUrRa
+75273	H2B	cyavana	cyavana	icf	MAYBE <lex type="inh">n </lex> the being deprived of ...
+75453	H2	CattrI	CattrI	icf	OK Cattra
+75490	H2	Cadma	Cadma	icf	OK ~dman
+75591	H2	CandaH	CandaH	icf	OK ~das
+75630	H2	Cando	Cando	icf	OK ~das
+76204	H2	jagac	jagac	icf	OK ~gat
+76211	H2	jagaj	jagaj	icf	OK ~gat
+76296	H2	jagad	jagad	icf	OK ~gat
+76366	H2	jagan	jagan	icf	OK ~gat
+76918	H2	janar	janar	icf	OK ~nas
+76999	H2	jano	jano	icf	OK ~nas
+77033	H2	janma	janma	icf	OK ~nman
+77533	H2	jayad	jayad	icf	OK ~yat
+77647	H2	jarad	jarad	icf	OK ~rat
+78743	H2	jAty	jAty	icf	OK ~ti
+78761	H2	jAtU	jAtU	icf	OK jAtu
+78848	H2	jAnv	jAnv	icf	OK ~nu
+79405	H1	jimBa	jimBa	icf	MAYBE for <s>jfmBa</s> ? , in comp
+79817	H2	jIvad	jIvad	icf	OK ~vat
+79820	H2	jIvan	jIvan	icf	OK ~vat
+79890	H2A	jIvanti	jIvanti	icf	OK jIvanti
+80158	H1	jeta	jeta	icf	OK jetf
+80315	H2	jYu	jYu	icf	MAYBE in comp and ifc ...
+80673	H2	jyotiH	jyotiH	icf	OK ~tis
+80686	H2	jyotir	jyotir	icf	OK ~tis
+80725	H2	jyotiS	jyotiS	icf	OK ~tis
+80729	H2	jyotiz	jyotiz	icf	OK ~tis
+80800	H2	jyotI	jyotI	icf	OK ~tis
+80843	H2	jyog	jyog	icf	OK jyok
+80900	H2	jvalan	jvalan	icf	OK ~lat
+81344	H2	qamaru	qamaru	icf	MAYBE <lex>m </lex> a sacred drum...
+81607	H2	takza	takza	icf	OK takzan
+81696	H2	taqid	taqid	icf	OK ~qit
+81699	H2	taqin	taqin	icf	OK ~qit
+81803	H2	tato	tato	icf	OK ~tas
+81811	H1	tat	tat	icf	OK t/ad
+81964	H2	tac	tac	icf	OK t/ad
+81967	H2	taj	taj	icf	OK t/ad
+82046	H2	tad	tad	icf	MAYBE nom and acc sg <...
+82177	H2	tadAnIM	tadAnIM	icf	OK ~nIm
+82186	H2	tan	tan	icf	OK t/ad
+82362	H2	tanU	tanU	icf	OK ~n/u
+82562	H2	tantv	tantv	icf	OK ~tu
+82567	H2	tanv	tanv	icf	OK ~n/u
+82627	H2	tapaH	tapaH	icf	OK ~pas
+82694	H2	tapaS	tapaS	icf	OK ~pas
+82751	H2	tapur	tapur	icf	OK ~pus
+82765	H2	tapo	tapo	icf	OK ~pas
+82879	H2	tamaH	tamaH	icf	OK ~mas
+82948	H2	tamo	tamo	icf	OK ~mas
+83484	H1	tarza	tarza	icf	MAYBE <lex>m </lex> ...
+83818	H2	tAdfg	tAdfg	icf	OK ~d/fS
+84678	H1	tAvac	tAvac	icf	OK ~vat
+84707	H2	tAvad	tAvad	icf	OK ~vat
+84715	H2	tAvan	tAvan	icf	OK ~vat
+84936	H2	tiTy	tiTy	icf	OK ~Ti
+85042	H1	tiraH	tiraH	icf	OK ~r/as
+85089	H2	tiro	tiro	icf	OK ~r/as
+85106	H2	tirya	tirya	icf	OK tiryag
+85109.1	H2A	tiryak	tiryak	icf	OK tiryak
+85128	H2	tiryag	tiryag	icf	OK ~y/ak
+85174	H2	tiryaN	tiryaN	icf	OK ~y/ak
+85640	H2	tIrTI	tIrTI	icf	OK ~Ta
+85701	H2	tIvrI	tIvrI	icf	OK ~vr/a
+86410	H1	tUr	tUr	icf	OK tur
+88433	H3	trizwuk	tri-zwuk	icf	OK trizwup
+88932	H2	tvakat	tvakat	icf	OK tvat
+88935	H2	tvat	tvat	icf	OK tva
+88992	H2	tvak	tvak	icf	OK tvac
+89306	H2	daMsu	daMsu	icf	MAYBE <lex>mfn </lex> only in comp...
+89990	H2	daDy	daDy	icf	OK ~Di
+90343	H2	dayA	dayA	icf	MAYBE <lex>f </lex> sympathy...
+90809	H1	daSa	daSa	icf	PROBABLE <lex>mfn </lex> ifc ...
+91426	H2	dAma	dAma	icf	OK dAman
+92376	H2	divo	divo	icf	OK ~vas
+92473	H2	dik	dik	icf	OK diS
+92511	H2	dig	dig	icf	OK diS
+92576	H2	diN	diN	icf	OK diS
+93272	H2	dIrGI	dIrGI	icf	OK dIrGa
+93288	H1	duH	duH	icf	OK dus
+93630	H1	dur	dur	icf	OK dus
+94505	H2	duS	duS	icf	OK dus
+94542	H2	duz	duz	icf	OK dus
+94693	H2	dU	dU	icf	OK dus
+94740	H2	duvo	duvo	icf	OK d/uvas
+95011	H2	dUrI	dUrI	icf	OK dUra
+95210	H2	dfQI	dfQI	icf	OK dfQa
+95264	H2	dfk	dfk	icf	OK dfS
+95283	H2	dfg	dfg	icf	OK dfS
+95306	H2	dfN	dfN	icf	OK dfS
+95467	H2	dfzac	dfzac	icf	OK dfzad
+95469	H2	dfzat	dfzat	icf	OK dfzad
+95491	H2	dfzan	dfzan	icf	OK dfzad
+96421	H2	devi	devi	icf	OK ~vI
+96507	H2	devy	devy	icf	OK devI
+97104	H2	doH	doH	icf	OK dos
+97109	H2	dor	dor	icf	OK dos
+97166	H1	dOH	dOH	icf	OK dus
+97281	H1	dyu	dyu	icf	OK div
+97619	H2	draviRo	draviRo	icf	OK ~Ras
+97626	H2	dravI	dravI	icf	OK drava
+98156	H1	dvA	dvA	icf	OK dvi
+98211	H2	dvAdaSa	dvA-daSa	icf	OK dvAdaSa
+98309	H1	dvAH	dvAH	icf	OK dvAr
+98923	H2	dvir	dvir	icf	OK dvis
+98954	H2	dviz	dviz	icf	OK dvis
+98963	H2	dviw	dviw	icf	OK dviz
+99052	H1	dvE	dvE	icf	OK dvi
+99121	H2	dvEDI	dvEDI	icf	OK ~Da
+99146	H1	dvy	dvy	icf	OK dvi
+99539	H2	DanuH	DanuH	icf	OK ~nus
+99549	H2	Danur	Danur	icf	OK ~nus
+99604	H2	Danuz	Danuz	icf	OK ~nus
+99679	H2	DanvA	DanvA	icf	OK ~van
+100472	H2	Darma	Darma	icf	OK ~man
+100600	H2	DavalI	DavalI	icf	OK ~vala
+100855	H2	DAma	DAma	icf	OK ~man
+101202	H2	Dig	Dig	icf	OK Dik
+101738	H1	DUr	DUr	icf	OK Dur
+101815	H1	Df	Df	icf	MAYBE <vlex type="root"></vlex>...
+102242	H2	DyAni	DyAni	icf	OK ~nin
+102491	H2	DvajI	DvajI	icf	OK ~ja
+102532	H2	Dvany	Dvany	icf	OK ~ni
+102675	H3	nAti	nA@ti	icf	MAYBE for <s>na</s> + <s>ati</s> ...
+103161	H2	nagnI	nagnI	icf	OK ~na
+103227	H2	naq	naq	icf	OK naqa
+103712	H2	naBaH	naBaH	icf	OK ~Bas
+103739	H2	naBaS	naBaS	icf	OK ~Bas
+103784	H2	naBo	naBo	icf	OK ~Bas
+103874	H2	namo	namo	icf	OK ~mas
+104224	H2	narI	narI	icf	OK ~ra
+104323	H2	narma	narma	icf	OK ~man
+104582	H2	navI	navI	icf	OK nava
+105217	H2	nAgI	nAgI	icf	OK nAga
+105607	H2	nAndi	nAndi	icf	OK nAndI
+105726	H2	nAma	nAma	icf	OK nAman
+106494	H3	niHsvIkfta	niH-svI-kfta	icf	PROBABLE <lex>mfn </lex> <s>svI</s> in comp for <s>-sva</s> deprived of one's property , impoverished
+107820	H2	nikawI	nikawI	icf	OK nikawa
+108852	H1	nibiqa	ni-biqa	icf	MAYBE <lex>mf<s>A</s>n </lex> ...
+108993	H2	nimittI	nimittI	icf	MAYBE for <s>~tta</s> in comp
+110072	H1	nirvft	nir-vft	icf	MAYBE <vlex>A1 </vlex> ...
+110355	H1	nivft	ni-vft	icf	MAYBE <vlex>A1 </vlex> ...
+110457	H1	niS	niS	icf	OK nis
+110651	H1	niz	niz	icf	OK nis
+111348	H2	nIcEH	nIcEH	icf	OK ~cEs
+111353	H2	nIcEr	nIcEr	icf	OK ~cEs
+112407	H1	nEH	nEH	icf	OK nis
+112417	H2	nEr	nEr	icf	OK nis
+112477	H2	nES	nES	icf	OK nis
+112481	H2	nEz	nEz	icf	OK nis
+112648	H2	nAv	nAv	icf	OK nO
+112687	H2	nyak	nyak	icf	OK ny-aYc
+112699	H2	nyag	nyag	icf	OK ny-aYc
+113022	H2	nyUnI	nyUnI	icf	OK nyUna
+113220	H2	pakzi	pakzi	icf	OK ~kzin
+113263	H2	pakzma	pakzma	icf	OK ~man
+113390	H2	paNktI	paNktI	icf	OK paNkti
+113536	H1	paYca	paYca	icf	OK paYcan
+113672	H3	paYcadaSa	paYca-daSa	icf	OK paYcadaSan
+113977	H3	paYcasapta	paYca-sapta	icf	OK ~ptan
+114201	H2	paYcASac	paYcASac	icf	OK ~Sat
+114212	H2	paYcASad	paYcASad	icf	OK ~Sat
+114222	H2	paYcI	paYcI	icf	OK ~ca
+114545	H1	paq	paq	icf	OK pad
+114563	H3	paRakriyA	paRa-kriyA	icf	MAYBE <lex>f </lex> putting in a stake...
+114659	H2	paRqita	paRqita	icf	MAYBE <lex>mfn </lex> ...
+114755	H2	patatri	patatri	icf	OK ~trin
+114766	H2	patad	patad	icf	OK ~tat
+115117	H2	paTi	paTi	icf	OK paTin
+115171	H2	pac	pac	icf	OK pad
+115175	H2	paj	paj	icf	OK pad
+115177	H2	pat	pat	icf	OK pad
+115892	H1	paya	paya	icf	OK ~yas
+115897	H2	payaH	payaH	icf	OK ~yas
+115909	H2	payaS	payaS	icf	OK ~yas
+115951	H2	payo	payo	icf	OK ~yas
+116437	H2	para	para	icf	OK ~ras
+116441	H2	paraH	paraH	icf	OK ~ras
+116640	H2	paraS	paraS	icf	OK ~ras
+116675	H2	parA	parA	icf	OK para
+116695	H2	pare	pare	icf	OK para
+116700	H2	paro	paro	icf	OK ~ras
+116807	H2	parAk	parAk	icf	OK ~rAYc
+116812	H2	parAg	parAg	icf	OK ~rAYc
+116815	H2	parAN	parAN	icf	OK parAYc
+117094	H1	parikxp	pari-kxp	icf	MAYBE Caus <s>-kalpayati</s> ...
+117120	H1	parikrI	pari-krI	icf	MAYBE <vlex>A1 </vlex>...
+119207	H1	parI	parI	icf	OK pari
+119411	H2	paruzI	paruzI	icf	OK ~za
+119924	H2	parva	parva	icf	OK ~van
+120488	H2	pavitrI	pavitrI	icf	OK pavitra
+120516	H1	paS	paS	icf	MAYBE <vlex type="root"></vlex> ...
+120679	H2	paSv	paSv	icf	OK paSu
+120706	H2	paScAc	paScAc	icf	OK ~cAt
+120726	H2	paScAd	paScAd	icf	OK ~cAt
+120742	H2	paScAn	paScAn	icf	OK ~cAt
+120746	H2	paScAl	paScAl	icf	OK ~cAt
+120802	H2A	pAtra	pAtra	icf	MAYBE <lex type="inh">n </lex> ...
+120856	H2	pAtrI	pAtrI	icf	OK pAtra
+121513	H2	pARI	pARI	icf	OK pARi
+121517	H2	pARy	pARy	icf	OK pARi
+121709	H2	pARqv	pARqv	icf	OK pARqu
+121851	H2	pATo	pATo	icf	OK ~Tas
+122331	H2	pAma	pAma	icf	OK ~man
+122432	H3B	pAramitA	pAra-m-itA	icf	MAYBE <lex type="inh">mfn </lex> ...
+122499	H1	pAra	pAra	icf	OK para
+122817	H2	pAry	pAry	icf	OK pAri
+123953	H2	piRqI	piRqI	icf	OK piRqa
+124175	H2	pitr	pitr	icf	OK pitf
+124291	H2	pinAki	pinAki	icf	OK ~kin
+125035	H2	puM	puM	icf	OK puMs
+125095	H2	puMS	puMS	icf	OK puMs
+125104	H2	puMsa	puMsa	icf	OK puMs
+125111	H2	pum	pum	icf	OK puMs
+125186	H2	puYjI	puYjI	icf	OK puYja
+125631	H2	putrI	putrI	icf	OK putra
+125805	H2	punaH	punaH	icf	OK punar
+125842	H2	punaS	punaS	icf	OK punar
+125847	H2	punas	punas	icf	OK punar
+125850	H2	punA	punA	icf	OK punar
+125868	H2	pura	pura	icf	OK puras
+125875	H2	puraH	puraH	icf	OK puras
+125892	H2	puraS	puraS	icf	OK puras
+125924	H2	purastAj	purastAj	icf	OK ~tAt
+125939	H2	purastAd	purastAd	icf	OK ~tAt
+125955	H2	purastAn	purastAn	icf	OK ~tAt
+125957	H2	purastAl	purastAl	icf	OK ~tAt
+126037	H2	puro	puro	icf	OK puras
+126231	H2	pUr	pUr	icf	OK pur
+126425	H2	purU	purU	icf	OK ~ru
+126739	H2	puloma	puloma	icf	OK ~man
+127307	H1	pU	pU	icf	MAYBE <vlex type="root"></vlex> ...
+128281	H2	pUza	pUza	icf	OK ~zan
+128291	H2	pUzaR	pUzaR	icf	OK ~zan
+128412	H2	pfTag	pfTag	icf	OK ~Tak
+128453	H2	pfTaN	pfTaN	icf	OK ~Tak
+128519	H2	pfTivy	pfTivy	icf	OK ~vI
+128756	H2	pfza	pfza	icf	OK ~zat
+128784	H2	pfzad	pfzad	icf	OK ~zat
+129316	H2	potri	potri	icf	OK ~trin
+130443	H2	praguRI	pra-guRI	icf	OK ~guRa
+130749	H2	pracurI	pracurI	icf	OK ~ra
+131398.64	H1A	prati	prati	icf	MAYBE <lex type="inh">ind </lex> or as prep...
+131604	H3	pratipApa	prati-pApa	icf	MAYBE <lex>mfn </lex> wicked ...
+131935	H2	praty	praty	icf	OK prati
+132505	H1	pratipad	prati-pad	icf	MAYBE <vlex>A1 </vlex> ...
+133559	H1	pratI	pratI	icf	OK prati
+133865	H2	pratyakzI	pratyakzI	icf	OK ~kza
+133929	H2	pratyak	pratyak	icf	OK ~tyaYc
+133952	H2	pratyag	pratyag	icf	OK ~tyaYc
+133977	H2	pratyaN	pratyaN	icf	OK ~tyaYc
+133982	H1	pratyad	praty-ad	icf	MAYBE <vlex>P </vlex>...
+134290	H2A	pratyAhAra	praty-AhAra	icf	MAYBE <lex type="inh">m </lex> in gram...
+135311	H2	prabalI	prabalI	icf	OK ~bala
+135876	H2	pramARI	pramARI	icf	OK ~Ra
+136273	H1	prayuj	pra-yuj	icf	MAYBE <vlex>A1 </vlex> ...
+136735	H2	pravad	pravad	icf	OK ~vat
+137215	H1	pravft	pra-vft	icf	MAYBE <vlex>A1 </vlex> ...
+137571	H2	praSiTilI	praSiTilI	icf	OK ~la
+137771	H2	prasaNga	pra-saNga	icf	MAYBE <lex>m </lex> adherence ...
+138752	H2	prahvI	prahvI	icf	OK pra-hva
+139216	H2	prAk	prAk	icf	OK prAYc
+139270	H2	prAg	prAg	icf	OK prAYc
+139379	H2	prAN	prAN	icf	OK prAYc
+139751	H2	prARi	prA@Ri	icf	OK prA<srs/>Rin
+139840	H2	prAtaS	prAtaS	icf	OK prAtar
+139843	H2	prAtas	prAtas	icf	OK prAtar
+139852	H1	prAti	prAti	icf	OK prati
+139933	H2	prAty	prAty	icf	OK prAti
+139958	H2	prAduz	prAduz	icf	OK prAdur
+140157	H2	prAyaS	prA@yaS	icf	OK prAyas
+140184	H2	prAyo	prA@yo	icf	OK prAyas
+140300	H2	prAvfw	prAvfw	icf	OK prAvfz
+140303	H2	prAvfq	prAvfq	icf	OK prAvfz
+140305	H2	prAvfR	prAvfR	icf	OK prAvfz
+140791	H2	prema	prema	icf	OK prem/an
+140833	H2	premA	premA	icf	OK prem/an
+140937	H3	pretaloka	pre@ta-loka	icf	MAYBE <lex>m </lex> the world of the dead...
+141453	H2	plIha	plIha	icf	OK plIhan
+141653	H2	PaRi	PaRi	icf	OK PaRin
+142006	H2	PalI	PalI	icf	OK Pala
+142489	H2	bandi	bandi	icf	OK ~din
+142497	H2	bandi	bandi	icf	OK ~din
+142815	H2	banDU	banDU	icf	OK ~Du
+142986	H2	barhi	barhi	icf	OK ~hin
+143000	H2	barhi	barhi	icf	OK ~his
+143005	H2	barhiH	barhiH	icf	OK ~his
+143023	H2	barhir	barhir	icf	OK ~his
+143028	H2	barhiz	barhiz	icf	OK ~his
+144028	H2	bahulI	bahulI	icf	OK bahula
+144042	H2	bahv	bahv	icf	OK bahu
+144091	H2	bahiH	bahiH	icf	OK bah/is
+144104	H2	bahir	bahir	icf	OK bah/is
+144179	H2	bahiS	bahiS	icf	OK bahis
+144184	H2	bahiz	bahiz	icf	OK bahis
+144217	H2	bahI	bahI	icf	OK bahis
+144449	H2	bArhad	bArhad	icf	OK bArhat
+145013	H2	bAhv	bAhv	icf	OK bAhu
+145018	H1	bAhu	bAhu	icf	OK bahu
+146055	H2	bfhac	bfhac	icf	OK bfhat
+146078	H2	bfhaj	bfhaj	icf	OK bfh/at
+146091	H2	bfhaw	bfhaw	icf	OK bfh/at
+146094	H2	bfhaq	bfhaq	icf	OK brih/at
+146224	H2	bfhad	bfhad	icf	OK bfh/at
+146357	H2	bfhan	bfhan	icf	OK brih/at
+146392	H2	bfhal	bfhal	icf	OK bfh/at
+146575	H2	brahma	brahma	icf	OK brahman
+147275	H2	brahmI	brahmI	icf	OK ~ma
+147279	H2	brAhma	brAhma	icf	MAYBE <lex>mf<s>I</s>n </lex> ...
+147429	H2	brAhmaRi	brAhmaRi	icf	OK ~RI
+147804	H2	Bagavac	Bagavac	icf	OK ~vat
+147844	H2	Bagavad	Bagavad	icf	OK ~vat
+147872	H2	Bagavan	Bagavan	icf	OK ~vat
+147880	H2	Bagaval	Bagaval	icf	OK ~vat
+148777	H2	Barad	Barad	icf	OK ~rat
+149114	H2	Bavad	Bavad	icf	OK Bavat
+149128	H2	Bavan	Bavan	icf	OK Bavat
+149156	H2	BavA	BavA	icf	OK Bavat
+149234	H2	Bavizyad	Bavizyad	icf	OK ~zyat
+149316	H2	Basma	Basma	icf	OK Basman
+149405	H2	BasmI	BasmI	icf	OK Basman
+149648	H2	BAgin	BAgin	icf	MAYBE <lex>mfn </lex> entitled to ...
+150397	H2	BAvi	BAvi	icf	OK BAvin
+150929	H2	Bizak	Bizak	icf	OK Bizaj
+150937	H2	Bizag	Bizag	icf	OK Bizaj
+150944	H2	BizaN	BizaN	icf	OK Bizaj
+151469	H2	Buvad	Buvad	icf	OK ~vat
+152267	H2	BUmI	BUmI	icf	OK BUmi
+152277	H2	BUmy	BUmy	icf	OK BUmi
+152291	H2	BUyaH	BUyaH	icf	OK BUyas
+152295	H2	BUyaS	BUyaS	icf	OK BUyas
+152325	H2	BUyo	BUyo	icf	OK BUyas
+152437	H2	BUry	BUry	icf	OK BUri
+152624	H2	Bfgv	Bfgv	icf	OK Bfgu
+153096	H2	Bogi	Bogi	icf	OK Bogin
+153354	H2	Bo	Bo	icf	OK Bos
+153358	H2	BoH	BoH	icf	OK Bos
+153803	H2	Bf	Bf	icf	OK BrU
+153817	H2	Bra	Bra	icf	OK BrU
+153823	H2	Bru	Bru	icf	OK BrU
+154358	H2	majja	majja	icf	OK majjan
+154995	H2	maRqalI	maRqalI	icf	OK maRqala
+155258	H2	mac	mac	icf	OK mad
+155261	H2	mat	mat	icf	OK mad
+155285	H2	man	man	icf	OK mad
+156319	H2	maDv	maDv	icf	OK maDu
+156526	H4	maDyamapadalopa	maDyama-pada-lopa	icf	MAYBE <lex>m </lex> the omission ...
+156626	H1	man	man	icf	MAYBE <vlex type="root"></vlex> ...
+156714	H2	mana	mana	icf	OK manas
+156722	H2	manaH	manaH	icf	OK manas
+156773	H2	manaS	manaS	icf	OK manas
+156797	H3	manasvi	manas-vi	icf	OK -vin
+156992	H2	mano	mano	icf	OK manas
+157453	H2	mantri	mantri	icf	OK mantrin
+157481	H2	manma	manma	icf	OK manman
+157510	H2	manv	manv	icf	OK manu
+157594	H2	manTi	manTi	icf	OK manT/in
+157885	H2	mandI	mandI	icf	OK manda
+157892	H2	mandu	mandu	icf	MAYBE for 1 <see/> <pcol>p 787 , col 3</pcol> prob <eq/> <s>mandurA</s> in comp
+158011	H2	mayo	mayo	icf	OK mayas
+158346	H2	marud	marud	icf	OK marut
+158374	H2	marun	marun	icf	OK marut
+158381	H2	marul	marul	icf	OK marut
+158447	H2	markawI	markawI	icf	OK markawa
+158524	H2	marma	marma	icf	OK marman
+158751	H2	malinI	malinI	icf	OK malina
+159055	H2	mazy	mazy	icf	OK mazI
+159174	H2	maha	maha	icf	OK mahA
+159191	H2	mahac	mahac	icf	OK mahat
+159245	H2	mahad	mahad	icf	OK mahat
+159292	H2	mahA	mahA	icf	OK mahat
+161416	H2	mahi	mahi	icf	OK mahI
+161420	H2	mahi	mahi	icf	MAYBE in comp for 2 <s>mahin</s>
+161436	H2	mahima	mahima	icf	OK mahiman
+161611	H2	mahI	mahI	icf	OK maha
+161697	H1	mA	mA	icf	MAYBE <vlex type="root"></vlex>...
+162375	H2	mAtuH	mAtuH	icf	OK mAtur
+162519	H2	mAdri	mAdri	icf	OK mAdrI
+162804	H2	mAni	mAni	icf	OK mAnin
+163163	H2	mAyi	mAyi	icf	OK mAyin
+163365	H2A	mArga	mArga	icf	MAYBE <lex type="inh">m </lex> ...
+164302	H2	mitrI	mitrI	icf	OK mitra
+164312	H2	miTa	miTa	icf	OK miTaH
+164314	H2	miTaH	miTaH	icf	OK miTas
+164338	H2	miTunI	miTunI	icf	OK miTuna
+164350	H2	miTo	miTo	icf	OK miTas
+164540	H2	miSrI	miSrI	icf	OK miSra
+164589	H2	mIQuz	mIQuz	icf	OK mIQv/as
+164590	H3	mI|uz	mI|uz	icf	OK mIQv/as
+164826	H2	mukulI	mukulI	icf	OK mukula
+165681	H2	muny	muny	icf	OK muni
+165956	H2	muzwI	muzwI	icf	OK muzwi
+165959	H2	muzwy	muzwy	icf	OK muzwi
+166062	H2	muhuS	muhuS	icf	OK muhur
+166064	H2	muhus	muhus	icf	OK muhur
+166278	H2	mUrDa	mUrDa	icf	OK mUrDan
+166525	H2	mUlI	mUlI	icf	OK mUla
+167220	H2	mfc	mfc	icf	OK mfd
+167224	H2	mft	mft	icf	OK mfd
+167382	H2	mfdU	mfdU	icf	OK mfdu
+167387	H2	mfdv	mfdv	icf	OK mfdu
+167393	H2	mfn	mfn	icf	OK mfd
+167399	H2	mfl	mfl	icf	OK mfd
+167806	H2	meda	meda	icf	OK medas
+167808	H2	medaH	medaH	icf	OK medas
+167815	H2	medaS	medaS	icf	OK medas
+167852	H2	medo	medo	icf	OK medas
+167989	H1	meru	meru	icf	MAYBE <lex>m </lex>  N of a fabulous...
+168418	H2	moGI	moGI	icf	OK moGa
+169001	H2	yakfd	yakfd	icf	OK yakft
+169009	H2	yakfn	yakfn	icf	OK yakft
+169011	H2	yakfl	yakfl	icf	OK yakft
+169100	H2	yakzma	yakzma	icf	OK ~man
+169170	H2	yajuH	yajuH	icf	OK yajus
+169175	H2	yajur	yajur	icf	OK yajus
+169195	H2	yajuz	yajuz	icf	OK yajus
+169552	H1	yat	yat	icf	MAYBE <vlex type="root"></vlex> ...
+169612	H2A	yatna	yatna	icf	MAYBE <lex type="inh">m </lex> ...
+169619	H2	yaty	yaty	icf	MAYBE in comp for 1 <s>yati</s>
+169631	H2	yato	yato	icf	OK yatas
+170006	H3C	yaTAsaMKyam	yaTA-saMKyam	icf	MAYBE <lex>ind </lex> <abE>acc</abE>according to number ...
+170006.1	H3C	yaTAsaMKyena	yaTA-saMKyena	icf	MAYBE <lex>ind </lex> <abE>acc</abE>according to number...
+170148	H1	yad	yad	icf	MAYBE nom and acc sg ...
+170186	H2	yac	yac	icf	OK yad
+170190	H2	yat	yat	icf	OK yad
+170208	H2	yan	yan	icf	OK yad
+170871	H2	yaSaH	yaSaH	icf	OK yaSas
+170883	H2	yaSaS	yaSaS	icf	OK yaSas
+170892	H2	yaSo	yaSo	icf	OK yaSas
+170990	H2	yazwI	yazwI	icf	PROBABLE <lex>f </lex> <eq/> <s>yazwi</s> Also in comp for <s>yazwi</s>
+170995	H2	yazwy	yazwy	icf	OK yazwi
+171175	H2	yAma	yAma	icf	MAYBE in comp for 2 <s>y/Aman</s>
+171179	H2	yAmaka	yAmaka	icf	MAYBE for 2 <see/> <pcol>p 851 , col 3</pcol> , in comp = <s>yAma</s>1
+171384	H2	yAda	yAda	icf	OK yAdas
+171386	H2	yAdaH	yAdaH	icf	OK yAdas
+171397	H2	yAdo	yAdo	icf	OK yAdas
+171433	H2	yAdfg	yAdfg	icf	OK yAdfS
+171455	H1B	yAma	yAma	icf	MAYBE <lex>mf<s>/I</s>n </lex> fr <s>yama</s> , of which it is also the <as0>Vr2iddhi</as0><as1><s>vfdDi</s></as1> form in comp relating to or derived from or destined for <as0>Yama</as0><as1><s>yama</s></as1>
+171579	H2	yAvac	yAvac	icf	OK yAvat
+171590	H2	yAvaj	yAvaj	icf	OK yAvat
+171598	H2	yAvad	yAvad	icf	OK yAvat
+171642	H2	yAvan	yAvan	icf	OK yAvat
+171731	H1	yuj	yuj	icf	MAYBE <vlex type="root"></vlex> ...
+172013	H2	yut	yut	icf	MAYBE for 1 <see/> <pcol>p 853 , col 1</pcol> ; for 2 <see/> above , in comp for 2 <s>yuD</s>
+172015	H2	yud	yud	icf	OK yuD
+172154	H2	yuvA	yuvA	icf	MAYBE for 2 <see/> col 3 , in comp for 1 <s>yuva</s>
+172165	H2	yuva	yuva	icf	OK yuvan
+172212	H2	yuzmat	yuzmat	icf	OK yuzmad
+172222	H2	yuzmA	yuzmA	icf	OK yuzmad
+172658	H2	yogi	yogi	icf	OK yogin
+172711	H2	yoginy	yoginy	icf	OK yoginI
+172900	H2	yozid	yozid	icf	OK yozit
+173058	H2	rakza	rakza	icf	OK rakzas
+173060	H2	rakzaH	rakzaH	icf	OK rakzas
+173123	H2	rakzi	rakzi	icf	OK rakzin
+173141	H2	rakzo	rakzo	icf	OK rakzas
+173866	H2	raja	raja	icf	OK rajas
+173873	H2	rajaH	rajaH	icf	OK rajas
+174002	H2	rajo	rajo	icf	OK rajas
+174809	H1	raD	raD	icf	MAYBE <vlex type="root"></vlex> ...
+174975	H2A	rati	rati	icf	MAYBE <lex type="inh">f </lex> ///
+175440	H2	raSana	raSana	icf	OK raSanA
+175876	H2A	rasika	rasika	icf	MAYBE <lex type="inh">mf<s>A</s>n ...
+175933	H2	rahaH	rahaH	icf	OK rakas
+175998	H2	rahI	rahI	icf	OK raha,rahas
+176002	H2	raho	raho	icf	OK rahas
+176079	H2	rAkzasI	rAkzasI	icf	OK rAkzasa
+176092	H1A	rAga	rAga	icf	MAYBE <lex type="inh">m </lex> ...
+176179	H2	rAgi	rAgi	icf	OK rAgin
+176249	H2	rAja	rAja	icf	OK rAjan
+177122	H2A	rAtrika	rAtrika	icf	MAYBE <lex type="inh">mfn </lex> ...
+177131	H2	rAtry	rAtry	icf	OK rAtrI
+177249	H2	rADo	rADo	icf	OK rADas
+177428	H3	rAmanAma	rAma-nAma	icf	OK rAmanAman
+177777	H2	rASI	rASI	icf	OK rASi
+177785	H2	rASy	rASy	icf	OK rASi
+178000	H2	riktI	riktI	icf	OK rikta
+178245	H2	ruk	ruk	icf	OK ruj,ruc
+178291	H2	rukmi	rukmi	icf	OK rukmin
+178354	H2A	ruci	ruci	icf	MAYBE <lex type="inh">f </lex> liking...
+178447	H2	ruk	ruk	icf	OK ruj
+178451	H2	rug	rug	icf	OK ruj
+178466	H2	ruN	ruN	icf	OK ruj
+178799	H2	roDaH	roDaH	icf	OK roDas
+178817	H2	roDo	roDo	icf	OK roDas
+178908	H2	ruSad	ruSad	icf	OK ruSat
+178920	H2	ruzad	ruzad	icf	OK ruzat
+179425	H2	retaH	retaH	icf	OK retas
+179450	H2	reto	reto	icf	OK retas
+179525	H2	rezma	rezma	icf	OK rezman
+179545	H2	rAyo	rAyo	icf	OK rAyas
+179719	H2	rogi	rogi	icf	OK rogin
+179817	H2	rodaH	rodaH	icf	OK rodas
+179824	H2	rodo	rodo	icf	OK rodas
+179896	H2	roma	roma	icf	OK roman
+180216	H2	rOdrI	rOdrI	icf	OK rudra
+180466	H2	lakzI	lakzI	icf	OK lakza
+180518	H2	lakzmi	lakzmi	icf	OK lakzmI
+180660	H2	lakzmy	lakzmy	icf	OK lakzmI
+180699	H2	lakzyI	lakzyI	icf	OK lakzya
+181043	H2	laGU	laGU	icf	OK laGu
+181050	H2	laGv	laGv	icf	OK laGu
+182261	H1	lAlasa	lAlasa	icf	MAYBE <lex>mf<s>A</s>n </lex> fr Intens...
+183107	H2	lolad	lolad	icf	OK lolat
+183615	H1	loRa	loRa	icf	OK lavaRa
+183643	H2	loma	loma	icf	OK loman
+184472	H2	vakrI	vakrI	icf	OK vakra
+184522	H2	vakzaH	vakzaH	icf	OK vakzas
+184536	H2	vakzaS	vakzaS	icf	OK vakzas
+184629	H2	vaktu	vaktu	icf	OK vaktum
+184698	H2	vacaH	vacaH	icf	OK v/acas
+184782	H2	vaco	vaco	icf	OK vacas
+185112	H2	vajri	vajri	icf	OK vajrin
+185121	H2	vajrI	vajrI	icf	OK vajra
+185309	H2	vaRik	vaRik	icf	OK vaRij
+185324	H2	vaRig	vaRig	icf	OK vaRij
+185333	H2	vaRiN	vaRiN	icf	OK vaRik
+186069	H2	vanar	vanar	icf	OK vanas
+186337	H2	vapur	vapur	icf	OK vapus
+186341	H2	vapuz	vapuz	icf	OK vapus
+186482	H2	vayaH	vayaH	icf	OK vayas
+186532	H2	vayo	vayo	icf	OK vayas
+186656	H2	varivo	varivo	icf	OK varivas
+187278	H2	varco	varco	icf	OK varcas
+187495	H2	varRi	varRi	icf	OK varRin
+187600	H2	varti	varti	icf	OK vartin
+187652	H2	vartma	vartma	icf	OK vartman
+187804	H2	varma	varma	icf	OK varman
+188060	H2	varzma	varzma	icf	OK varzman
+188118	H2	valayI	valayI	icf	OK valaya
+188342	H2	valli	valli	icf	PROBABLE <lex>f </lex> the earth ...
+188459	H2	vaSi	vaSi	icf	OK vaSin
+188484	H2	vaSI	vaSI	icf	OK vaSa
+188987	H2	vasv	vasv	icf	OK vasu
+189097.2	H2A	uzita	uzita	icf	MAYBE <lex type="inh">mfn </lex> one who has halted ...
+189112	H2	vasana	vasana	icf	MAYBE <lex>n </lex> for 1 <see/> col 1 dwelling ...
+189178	H2	vastv	vastv	icf	OK vastu
+189227	H2	vasty	vasty	icf	OK vasti
+189238	H1	vah	vah	icf	MAYBE <vlex type="root">...
+189713	H2	vAtI	vAtI	icf	OK vAta
+189813	H2	vAk	vAk	icf	OK vAc
+189974	H2	vAg	vAg	icf	OK vAc
+190119	H2	vAN	vAN	icf	OK vAc
+190146	H2	vAcaM	vAcaM	icf	OK vAcam
+190230	H2	vAco	vAco	icf	OK vAcas
+190377	H2	vAjasaneyi	vAjasaneyi	icf	OK ~yin
+190386	H2	vAji	vAji	icf	OK vAjin
+190446	H2	vAjI	vAjI	icf	OK vAja
+190732	H2	vAdi	vAdi	icf	OK vAdin
+190921	H2	vAntI	vAntI	icf	OK vAnta
+191169	H2	vAmanI	vAmanI	icf	OK vAmana
+191222	H2	vAyasI	vAyasI	icf	OK vAyasa
+191387	H2	vAyv	vAyv	icf	OK vAyu
+191428	H2	vAH	vAH	icf	OK vAr
+191578	H2	vAry	vAry	icf	OK vAri
+192139	H2	vAli	vAli	icf	OK vAlin
+192306	H2	vAsaH	vAsaH	icf	OK vAsas
+192326	H2	vAso	vAso	icf	OK vAsas
+192749	H2	vAhanI	vAhanI	icf	OK vAhana
+192761	H2	vAhi	vAhi	icf	OK vAhin
+193477	H3	vilakzaRa	vi-lakzaRa	icf	MAYBE <lex>mf<s>A</s>n </lex> ...
+193777	H2	viMSaty	viMSaty	icf	OK viMSati
+194312	H2	viklavI	vi-klavI	icf	OK viklava
+195493	H2	vitatI	vitatI	icf	OK vi-tata
+195518	H2	vitAnI	vitAnI	icf	OK vi-tAna
+195897	H2	vidvac	vidvac	icf	OK vidvat
+195900	H2	vidvaj	vidvaj	icf	OK vidvat
+195904	H2	vidvat	vidvat	icf	OK vidvas
+195913	H2	vidvad	vidvad	icf	OK vidvat
+195922	H2	vidvan	vidvan	icf	OK vidvat
+195939	H1	vid	vid	icf	MAYBE <vlex type="root"></vlex> 
+195993	H2	vidad	vidad	icf	OK vidat
+196284	H2	vidyuc	vidyuc	icf	OK vidyut
+196287	H2	vidyuj	vidyuj	icf	OK vidyut
+196333	H2	vidyud	vidyud	icf	OK vidyut
+196347	H2	vidyun	vidyun	icf	OK vidyut
+196362	H2	vidyul	vidyul	icf	OK vidyut
+196456	H2	viDava	viDava	icf	OK viDavA
+196486	H1	viDA	vi-DA	icf	MAYBE <vlex>P A1 </vlex> <s>-daDAti</s>
+196659	H2	viDeyI	viDeyI	icf	OK ~Deya
+196662	H2	viDy	viDy	icf	OK viDi
+197422	H2	vipaS	vipaS	icf	OK vipas
+197591	H2	vipat	vi-pat	icf	OK vi-pad
+198096	H2	viPalI	viPalI	icf	OK vi-Pala
+198473	H2	viBU	vi-BU	icf	OK vi-Bu
+198515	H2	viBva	viBva	icf	OK vi-Bvan
+198791	H2	vimuKI	vimuKI	icf	OK vimuKa
+198978	H2	viyac	viyac	icf	OK vi-yat
+198981	H2	viyad	viyad	icf	OK vi-yat
+198987	H2	viyan	viyan	icf	OK vi-yat
+199085	H2	virajI	virajI	icf	OK vi-raja,vi-rajas
+199238	H2	virAw	virAw	icf	OK vi-rAj
+199257	H2	virAq	virAq	icf	OK vi-rAj
+199444	H2	viroDi	vi-roDi	icf	OK vi-roDin
+199644	H2	vilasan	vi-lasan	icf	OK vi-lasat
+200377	H2	viw	viw	icf	OK viS
+200410	H1	viSaMs	vi-SaMs	icf	MAYBE <vlex>P </vlex> 
+201486	H2	viSvakarma	viSva-karma	icf	OK viSva-karman
+201503	H2	viSvataS	viSva-taS	icf	OK viSva-tas
+201509	H2	viSvato	viSva-to	icf	OK viSva-tas
+201526	H2	viSvA	viSvA	icf	OK viSva
+201542	H2	viSvAmitra	viSvA-mitra	icf	MAYBE <lex>m </lex> prob <quote> friend of all
+201615	H2	viw	viw	icf	OK viz
+201625	H2	viq	viq	icf	OK viz
+201644	H2	viR	viR	icf	OK viz
+202015	H2	vizamI	vizamI	icf	OK vi-zama
+202109	H2	vizayI	vizayI	icf	OK vizaya
+202189	H2	vizuvad	vizuvad	icf	OK ~vat
+202196	H2	vizuvan	vizuvan	icf	OK ~vat
+202212	H2	vizvak	vizvak	icf	OK ~vaYc
+202229	H2	vizvag	vizvag	icf	OK ~vaYc
+202651	H2	vizRv	vizRv	icf	OK vizRu
+202925	H2	vispazwI	vispazwI	icf	OK ~zwa
+203535	H2	vITI	vITI	icf	OK vITi
+203539	H2	vITy	vITy	icf	OK vITi
+204558	H2	vftty	vftty	icf	OK vftti
+204759	H2	vfdDy	vfdDy	icf	OK vfdDi
+204993	H2	vfza	vfza	icf	OK vfzan
+205042	H2	vfzaR	vfzaR	icf	OK vfzan
+205055	H2	vfzad	vfzad	icf	OK vfzat
+205148	H2	vfzA	vfzA	icf	OK vfza
+205358	H2	vegi	vegi	icf	OK vegin
+205436	H1A	veRi	veRi	icf	MAYBE <lex type="inh">f </lex> 
+205648	H1A	veda	veda	icf	MAYBE <lex type="inh">m </lex> N of 
+205937	H2	vedANga	vedA@Nga	icf	MAYBE <lex>n </lex> <quote>
+206058	H2	vedi	vedi	icf	OK vedin
+206102	H2	vedi	vedi	icf	MAYBE <lex>f </lex> later also 
+206139	H2	vedy	vedy	icf	OK vedi
+206399	H2	veSma	veSma	icf	OK veSman
+207185	H3	vEDahiMsAGatimiramArtaRqodaya	vEDa-hiMsA@Ga-timiramArtaRqo@daya	icf	MAYBE <lex>m </lex> N of wk containing an 
+207550	H2	vEri	vEri	icf	OK vErin
+208195	H1	vy	vy	icf	OK vi
+208372	H2	vyajanI	vyajanI	icf	OK vyajana
+208426	H2	vyaktI	vyaktI	icf	OK vy-akta
+208567	H2	vyatireki	vy-atireki	icf	OK vyatirekin
+208855	H2	vyaBicAri	vy-aBicAri	icf	OK ~cArin
+208900	H2	vyayi	vyayi	icf	OK vyayin
+208908	H2	vyayI	vyayI	icf	OK vyaya
+209096	H2A	vyavasTita	vy-avasTita	icf	MAYBE <lex type="inh">mfn </lex> persevering in , 
+209218	H2A	vyavahArin	vy-avahArin	icf	MAYBE <lex type="inh">mfn </lex> fit or competent 
+209303	H2	vyasani	vyasani	icf	OK vyasanin
+209434	H2	vyAkulI	vyAkulI	icf	OK vy-Akula
+209664	H2	vyAjI	vyAjI	icf	OK vy-Aja
+209736	H2	vyADy	vyADy	icf	OK vy-ADi
+209766	H2	vyApi	vyApi	icf	OK vy-Apin
+209803	H2	vyApty	vyApty	icf	OK vy-Apti
+209976	H2	vyAlI	vyAlI	icf	OK vyAla
+210364	H2	vyoma	vyoma	icf	OK vyoman
+210805	H2	vrIhy	vrIhy	icf	OK vrIhi
+210897	H1	Sak	Sak	icf	MAYBE <vlex type="root"></vlex>
+211027	H2	Sakty	Sakty	icf	OK Sakti
+211304	H2	SakalI	SakalI	icf	OK Sakala
+211408	H2	Sakfd	Sakfd	icf	OK Sakft
+211413	H2	Sakfn	Sakfn	icf	OK Sakft
+212365	H2	SatA	SatA	icf	OK Sata
+212515	H2	SanEr	SanEr	icf	OK SanEs
+212521	H2	SanES	SanES	icf	OK SanEs
+213070	H2	SaM	SaM	icf	OK Sam
+213691	H2	SaraRI	SaraRI	icf	OK SaraRa
+213728	H2	Sarac	Sarac	icf	OK Sarad
+213737	H2	Saraj	Saraj	icf	OK Sarad
+213739	H2	Sarat	Sarat	icf	OK Sarad
+213755	H2	Saran	Saran	icf	OK Sarad
+214014	H2	Sarma	Sarma	icf	OK Sarman
+214392	H2	SaSi	SaSi	icf	OK SaSin
+214486	H2	SaSI	SaSI	icf	OK SaSa
+215449	H2	SAnty	SAnty	icf	OK SAnti
+215878	H2	SArNgi	SArNgi	icf	OK SArNgin
+216031	H2	SAli	SAli	icf	OK SAlin
+216057	H2	SAlInI	SAlInI	icf	OK SAlIna
+216163	H2	SAly	SAly	icf	OK SAli
+216601	H2	SiKaRqi	SiKaRqi	icf	OK ~Rqin
+216717	H2	SiKari	SiKari	icf	OK ~rin
+216744	H2	SiKi	SiKi	icf	OK SiKin
+216848	H2	SiYjad	SiYjad	icf	OK ~jat
+216923	H2	Sity	Sity	icf	OK Siti
+216957	H2	SiTilI	SiTilI	icf	OK SiTila
+217100	H2	Sira	Sira	icf	OK Siras
+217104	H2	SiraH	SiraH	icf	OK Siras
+217138	H2	SiraS	SiraS	icf	OK Siras
+217154	H2	Siro	Siro	icf	OK Siras
+217381	H2	Sila	Sila	icf	OK SilA
+217409	H2	SilI	SilI	icf	OK SilA
+217480	H2	Silpi	Silpi	icf	OK Silpin
+218015	H2	SiSirI	SiSirI	icf	OK SiSira
+218501	H2	SItalI	SItalI	icf	OK SItala
+218510	H2	SItI	SItI	icf	OK Sita
+218640	H2	SIrzaR	SIrzaR	icf	OK SIrzan
+218924	H2	Sukty	Sukty	icf	OK Sukti
+219154	H2	SuklI	SuklI	icf	OK Sukla
+219291	H2	SucI	SucI	icf	OK Suci
+219296	H2	Sucy	Sucy	icf	OK Suci
+219576	H2	SunaH	SunaH	icf	OK Sunas
+219606	H2	Suno	Suno	icf	OK Sunas
+219773	H2	SuBaM	SuBaM	icf	OK SuBam
+220129	H2	SUnyI	SUnyI	icf	OK SUnya
+220720	H2	SfNgi	SfNgi	icf	OK SfNgin
+220767	H2	SftaM	SftaM	icf	OK Sft/am
+220806	H2	SeKarI	SeKarI	icf	OK SeKara
+221201	H2	SElAli	SElAli	icf	OK SElAlin
+221417	H2	Sociz	Sociz	icf	OK Soc/is
+221599	H1B	SoBa	SoBa	icf	PROBABLE <lex type="inh">m </lex> lustre in comp for <s>SoBA</s> <qv/>
+221972	H2	SmaSA	SmaSA	icf	MAYBE <lex>f </lex> prob connected ...
+222153	H2	SyAmalI	SyAmalI	icf	OK SyAmala
+222202	H2	SyAmI	SyAmI	icf	OK SyAma
+222321	H1	Srat	Srat	icf	MAYBE or <s>Sr/ad</s> <lex>ind </lex> ...
+222494	H2	Srava	Srava	icf	OK Sravas
+222575	H2	Sravo	Sravo	icf	OK Sravas
+223385	H2	Sry	Sry	icf	OK SrI
+223652	H2	Sruty	Sruty	icf	OK Sruti
+223744	H2	SreyaH	SreyaH	icf	OK Sreyas
+223751	H2	Sreyo	Sreyo	icf	OK Sreyas
+223984	H2	SlakzRI	SlakzRI	icf	OK SlakzRa
+224081	H2	Slezma	Slezma	icf	OK Slezman
+224195	H1	Svan	Svan	icf	MAYBE <lex>m </lex> ...
+224197	H2	Sva	Sva	icf	OK Svan
+224302	H2	SvA	SvA	icf	OK Svan
+224330	H2	SvAvic	SvAvic	icf	OK Sv/a-viD
+224333	H2	SvAvid	SvAvid	icf	OK SvA-viD
+224339	H2	SvAvil	SvAvil	icf	OK SvA-viD
+224432	H2	SvaH	SvaH	icf	OK Sv/as
+224451	H2	Svo	Svo	icf	OK Sv/as
+224900	H1	zaw	zaw	icf	OK zaz
+224940	H1	zaz	zaz	icf	MAYBE <lex>mfn pl </lex> prob for orig...
+224944	H2	zaw	zaw	icf	OK zaz
+225065	H2	zaq	zaq	icf	OK zaz
+225265	H2	zaR	zaR	icf	OK zaz
+225299	H2	zaL	zaL	icf	OK zaz
+225342	H2	zazwy	zazwy	icf	OK zazwi
+225395	H2	zazWy	zazWy	icf	OK zazwi
+225400	H2	zo	zo	icf	OK zaz
+225419	H2	zoqaSa	zoqaSa	icf	OK z/o-qaSan
+225486	H2	zoqaSi	zoqaSi	icf	OK ~qaSin
+225619	H2	saMyad	saM-yad	icf	OK saM-yat
+227174	H1	saMsTA	saM-sTA	icf	MAYBE <vlex>A1 </vlex> <s>-tizWate</s> ...
+227783	H2	sakalI	sakalI	icf	OK sa-kala
+227808	H2	sakfd	sakfd	icf	OK sakft
+227829	H2	sakfn	sakfn	icf	OK sakft
+227833	H2	sakfl	sakfl	icf	OK sakft
+227913	H1B	sagara	sa-gara	icf	MAYBE <lex type="inh">m </lex> N of ...
+228116	H2	saMkarI	saMkarI	icf	OK saMkara
+228415	H2A	saMKyA	saM-KyA	icf	MAYBE <lex type="inh">f </lex> in geom ...
+228789	H2	saMGI	saMGI	icf	OK saMGa
+229043	H2	sajjI	sajjI	icf	OK sajja
+229120	H2	saMcAri	saMcAri	icf	OK saM-cArin
+229645	H2	sac	sac	icf	OK sat
+229663	H2	saccid	saccid	icf	OK sac-cit
+229677	H2	saccin	saccin	icf	OK sac-cit
+229679	H2	saj	saj	icf	OK sat
+230178	H2	satyA	satyA	icf	OK satya
+230196	H2	sad	sad	icf	OK sat
+230226	H3	sadasad	sad-asad	icf	OK sadasat
+230227	H3	sadasan	sad-asan	icf	OK sadasat
+230344	H2	san	san	icf	OK sat
+230460	H2	sataH	sataH	icf	OK satas
+230462	H2	sato	sato	icf	OK satas
+230557	H2	sadaH	sadaH	icf	OK sadas
+230581	H2	sado	sado	icf	OK sadas
+230590	H2	sadma	sadma	icf	OK sadman
+230844	H2	sadfg	sadfg	icf	OK sadfS
+230875	H2	sadya	sadya	icf	OK sadyas
+230878	H2	sadyaH	sadyaH	icf	OK sadyas
+230911	H2	sadyaS	sadyaS	icf	OK sadyas
+230917	H2	sadyo	sadyo	icf	OK sadyas
+231029	H2	sanad	sanad	icf	OK sanat
+231061	H2	sanaH	sanaH	icf	OK sanas
+231102	H2	sano	sano	icf	OK sanas
+231587	H1	saMDA	saM-DA	icf	MAYBE <vlex>P A1 </vlex> <s>-daDAti</s>...
+231774	H2	saMDy	saMDy	icf	OK saMDi
+232425	H2	sapiRqI	sapiRqI	icf	OK sapiRqa
+232432	H2	sapta	sapta	icf	OK saptan
+232812	H2	saPalI	saPalI	icf	OK saPala
+232987	H1	sam	sam	icf	MAYBE <lex>ind </lex> connected with...
+233288	H2	samAvac	samAvac	icf	OK sam/Avat
+233290	H2	samAvaj	samAvaj	icf	OK samAvat
+233294	H2	samAvad	samAvad	icf	OK samAvat
+233300	H2	samI	samI	icf	OK sama
+233896	H2	samavAyi	samavA@yi	icf	OK samavAyin
+234093	H2	samAcAra	sam-AcAra	icf	MAYBE <lex>m </lex> ...
+234860	H2	samayA	samayA	icf	OK samaya
+234899	H2	samit	samit	icf	OK samiD
+234909	H2	samid	samid	icf	OK samiD
+235003	H2	samIpI	samIpI	icf	OK samIpa
+235784	H2	samuhya	sam-uhya	icf	OK sam-Uhya
+235982	H1	sampad	sam-pad	icf	MAYBE <vlex>A1 </vlex> <s>-padyate</s>...
+235983	H2	sampac	sampac	icf	OK sampad
+235986	H2	sampat	sampat	icf	OK sampad
+236171	H2	sampuwI	sampuwI	icf	OK sam-puwa
+236781	H2	sambanDi	sam-banDi	icf	PROBABLE <lex>mfn </lex> ...
+237148	H2A	sammita	sam-mita	icf	MAYBE <lex type="inh">mfn </lex> ...
+237200	H2	sammuKI	sammuKI	icf	OK ~Ka
+237324	H2	samyak	samyak	icf	OK samyaYc
+237352	H2	samyag	samyag	icf	OK samyaYc
+237385	H2	samyaN	samyaN	icf	OK samyaYc
+237398	H2	samrAw	samrAw	icf	OK samrAj
+237400	H2	samrAq	samrAq	icf	OK samrAj
+237446	H1B	sara	sara	icf	MAYBE <lex type="inh">m </lex> ...
+237452	H1B	sara	sara	icf	PROBABLE <lex>n </lex> a lake , pool also irregularly in comp for <s>saras</s>
+237460	H2	saraH	saraH	icf	OK saras
+237546	H2	saralI	saralI	icf	OK sarala
+237575	H2	sarasvati	sarasvati	icf	OK sarasvatI
+237647	H2	sarid	sarid	icf	OK sarit
+237657	H2	sarin	sarin	icf	OK sarit
+237668	H2	saro	saro	icf	OK saras
+238067	H2	sarpiH	sarpiH	icf	OK sarpis
+238076	H2	sarpir	sarpir	icf	OK sarpis
+238086	H2	sarpiz	sarpiz	icf	OK sarpis
+238102	H2	sarpI	sarpI	icf	OK sarpa
+239187	H2	sarvataH	sarvataH	icf	OK sarvatas
+239192	H2	sarvataS	sarvataS	icf	OK sarvatas
+239196	H2	sarvato	sarvato	icf	OK sarvatas
+240057	H2	saho	saho	icf	OK sahas
+240425	H2	sahAyI	sahA@yI	icf	OK sahA<srs/>ya
+240499	H1	sahasra	sahasra	icf	MAYBE <lex>n </lex> ...
+240963	H2	sAkaM	sAkaM	icf	OK sAkam
+241033	H2	sAkzAd	sA@kzAd	icf	OK sA<srs/>kzAt
+241039	H2	sAkzi	sA@kzi	icf	OK sA<srs/>kzin
+241059	H2	sAkzI	sA@kzI	icf	OK sA<srs/>kza
+241331	H2	sAcI	sAcI	icf	OK sAci
+241416	H2	sAtma	sA@tma	icf	OK sA<srs/>tman
+241422	H2	sAtmI	sA@tmI	icf	OK sA<srs/>tma
+241581	H2	sADanI	sADanI	icf	OK sADana
+241793	H2	sADv	sADv	icf	OK sADu
+241848	H2	sADAraRI	sA@DAraRI	icf	OK ~raRa
+242028	H2	sAndrI	sAndrI	icf	OK sAndra
+242217	H2	sAma	sAma	icf	OK sAman
+242239	H2	sAma	sAma	icf	OK sAman
+242694	H2	sAyaM	sAyaM	icf	OK sAyam
+243221	H1	sArva	sArva	icf	MAYBE <lex>mfn </lex> fr <s>sarva</s> ..
+243391	H2	sAvaDAnI	sA@vaDAnI	icf	OK sA<srs/>vaDAna
+243505	H2	sAvitry	sAvitry	icf	OK sAvitri
+243994	H2	siMhI	siMhI	icf	OK siMha
+244043	H2	sig	sig	icf	OK sic
+244743	H2	sidDy	sidDy	icf	OK sidDi
+244753	H2	siDrakA	siDrakA	icf	OK siDraka
+244761	H2	siDma	siDma	icf	OK siDman
+245132	H2	sIma	sIma	icf	OK sIman
+245327	H2	sutI	sutI	icf	OK suta
+245935	H2	suKi	suKi	icf	OK suKin
+247305	H2	sub	sub	icf	OK sup
+248264	H3	sumanaH	su-manaH	icf	OK sumanas
+248291	H3	sumano	su-mano	icf	OK sumanas
+248334	H3	sumahA	su-mahA	icf	OK sumahat
+248477	H2	sumaj	sumaj	icf	OK sumat
+248479	H2	sumad	sumad	icf	OK sumat
+249685	H2	suraBy	suraBy	icf	OK ~Bi
+250704	H2	suhfc	suhfc	icf	OK suhfd
+250706	H2	suhfj	suhfj	icf	OK suhfd
+250709	H2	suhft	suhft	icf	OK suhfd
+250719	H2	suhfn	suhfn	icf	OK suhfd
+250723	H2	suhfl	suhfl	icf	OK suhfd
+250799	H2	sUtI	sUtI	icf	OK sUti
+250804	H2	sUty	sUty	icf	OK sUti
+250898	H2	sUkty	sU@kty	icf	OK sUkti
+250987	H2	sUkzmI	sUkzmI	icf	OK sUkzma
+251124	H2	sUcy	sUcy	icf	OK sUci,sUcI
+251973	H2	sfzwy	sfzwy	icf	OK sfzwi
+252205	H2	sena	sena	icf	OK senA
+252264	H2	sevaka	sevaka	icf	MAYBE <lex>mfn </lex> ...
+252271	H2	sevana	sevana	icf	MAYBE <lex>n </lex> for 2 <see/> ...
+252275	H2A	sevana	sevana	icf	MAYBE <lex type="inh">n </lex> devotion...
+252305	H2	sevi	sevi	icf	OK sevin
+253258	H2	sozma	so@zma	icf	OK sozman
+254235	H2	skanDo	skanDo	icf	OK skanDas
+254275	H2	sKalad	sKalad	icf	OK sKalat
+254278	H2	sKalan	sKalan	icf	OK sKalat
+254500	H2	stabDI	stabDI	icf	OK stabDa
+254893	H2	steyi	steyi	icf	OK steyin
+255144	H2	stry	stry	icf	OK strI
+255201	H2	sTapuwI	sTapuwI	icf	OK sTapuwa
+255276	H2	sTalI	sTalI	icf	OK sTala
+255365	H2	sTARv	sTARv	icf	OK sTARu
+255471	H2	sTAni	sTAni	icf	OK sTAnin
+255475	H2A	sTAnika	sTAnika	icf	MAYBE <lex type="inh">mfn </lex> ...
+255490	H2	sTAny	sTAny	icf	OK sTAnin
+255553	H2	sTAma	sTAma	icf	OK sTAman
+255564	H2	sTAyi	sTAyi	icf	OK sTAyin
+255704	H2	sTity	sTity	icf	OK sTiti
+255832	H2	sTirI	sTirI	icf	OK sTira
+255845	H2	sTema	sTema	icf	OK sTeman
+256180	H2	sTUlI	sTUlI	icf	OK sTUla
+256184	H2	sTOla	sTOla	icf	MAYBE <lex>mf<s>/A</s>n </lex> ...
+256284	H2	snAyv	snAyv	icf	OK snAyu
+256287	H2	snAva	snAva	icf	OK snAvan
+256476	H2	snuk	snuk	icf	OK snuh
+256528	H2	sparDA	sparDA	icf	MAYBE <lex>f </lex> emulation ...
+256572	H2	spazwI	spazwI	icf	OK spazwa
+256730	H2	spfhA	spfhA	icf	MAYBE <lex>f </lex> ifc ...
+256837	H2	sPItI	sPItI	icf	OK sPIta
+256847	H2	sPik	sPik	icf	OK sPic
+256849	H2	sPig	sPig	icf	OK sPic
+256916	H2	sPuwI	sPuwI	icf	OK sPuwa
+256981	H2	sPurad	sPurad	icf	OK sPurat
+256988	H2	sPuran	sPuran	icf	OK sPurat
+257064	H2	smad	smad	icf	OK smat
+257388	H2	smfty	smfty	icf	OK smfti
+257474	H2	syAd	syAd	icf	OK syAt
+257506	H2	syUma	syUma	icf	OK sy/Uman
+257573	H2	srag	srag	icf	OK sraj
+257641	H2	sravad	sravad	icf	OK sravat
+257695	H2	srota	srota	icf	OK srotas
+257715	H2	sroto	sroto	icf	OK srotas
+257740	H2	sruk	sruk	icf	OK sruc
+257749	H2	srug	srug	icf	OK sruc
+257781	H1B	sva	sva	icf	MAYBE <lex type="inh">n </lex> ...
+258275	H3	svasTa	sva-sTa	icf	MAYBE <lex>mf<s>A</s>n </lex> self-abiding ...
+258510	H2	svayaM	svayaM	icf	OK svayam
+258675	H2	svI	svI	icf	OK sva
+258726	H2	svEri	svE@ri	icf	OK svEriN
+258881	H2	svAdv	svAdv	icf	OK svAdu
+259080	H2	svaH	svaH	icf	OK svar
+259239	H2	svargi	svargi	icf	OK svargin
+259251	H2	svaS	svaS	icf	OK svar
+259253	H2	svA	svA	icf	OK svar
+259558	H2	svasty	svasty	icf	OK svasti
+259671	H2	svAmi	svAmi	icf	OK svAmin
+259703	H2	svAminy	svAminy	icf	OK svAminI
+259705	H2	svAmy	svAmy	icf	OK svAmin
+260486	H2	hanumac	hanumac	icf	OK ~mat
+260488	H2	hanumaj	hanumaj	icf	OK ~mat
+260507	H2	hanumad	hanumad	icf	OK ~mat
+260527	H2	hanuman	hanuman	icf	OK ~mat
+260533	H2	hanumanta	hanumanta	icf	OK ~mat
+261509	H2	harin	harin	icf	OK harit
+261519	H2	hary	hary	icf	OK h/ari
+261805	H2	hali	hali	icf	OK halin
+261905	H2	haviH	haviH	icf	OK havis
+261913	H2	havir	havir	icf	OK havis
+261961	H2	haviz	haviz	icf	OK havis
+262289	H2	hasti	hasti	icf	OK hastin
+262453	H2	hasty	hasty	icf	OK hasti
+263548	H2	huM	huM	icf	OK hum
+263570	H2	huraS	huraS	icf	OK huras
+263706	H2	hfc	hfc	icf	OK hfd
+263715	H2	hfj	hfj	icf	OK hfd
+263717	H2	hft	hft	icf	OK hfd
+263737	H2	hftsv	hftsv	icf	OK hftsu
+263906	H2	hfl	hfl	icf	OK hfd
+264003	H2	hetu	hetu	icf	MAYBE <lex>m </lex> <quote> ...
+264059	H2	hetv	hetv	icf	OK hetu
+264126	H2	hema	hema	icf	OK heman
+264654	H2	hyaH	hyaH	icf	OK hyas
+264660	H2	hyo	hyo	icf	OK hyas

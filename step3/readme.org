@@ -131,7 +131,7 @@ and for each of those not discarded writes a tab-delimited 5-field record:
    NONE
    SEE  (if <see type="nonhier"/> is part of the mw.xml record)
 The discarded records are:
-  - H code ends in 'A'
+  - H code ends in 'A'  AND (key1 is same as previous record whose H-code was a number (1,2,3,4))
   - <lex type="inh"> is part of record
   - H code ends in 'B' AND key1 is same as that for the
     previous record whose H-code was a number (1,2,3,4).

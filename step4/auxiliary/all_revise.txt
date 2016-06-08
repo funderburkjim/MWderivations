@@ -1,0 +1,107 @@
+; all_revise.txt.  Begun May 23, 2016
+; Lines beginning with ';' are comments
+; Other lines have same format as all.txt
+;3	73	aMSumatPalA	aMSu-matPalA	f
+4	73	aMSumatPalA	aMSu-mat-PalA	f
+;3	122	aMhasaspati	aMhasas-pati	m
+; aMhasas=new
+;3	129	aMhuBedI	aMhu-BedI	f
+; BedI=new 
+;2	179.1	akarRIya	a-karRIya	m:f:n
+; karRIya=new  
+;1	224.1	akasyavid	a-kasya-vid	m:f:n
+; kasya=new  (gen. of kim)
+;2	274	akiYcaniman	a-kiYcaniman	m
+; kiYcaniman=new
+;3	289	akutracaBaya	a-kutraca-Baya	m:f:n
+; kutraca=new
+;1	291.2	akutsayat	a-kutsayat	m:f:n
+; kutsayat=new  (prap of kuts 10)
+;1	293	akuDryaYc	a-kuDryaYc	ind
+;1	293	akuDryaYc	a-kuDryaYc	ind
+; kuDryaYc=new in-pwg
+;1	296.1	akupyat	a-kupyat	m:f:n
+; kupyat=new (prap of kup 4)
+1	305.2	akuzWipfzat	a-kuzWi-pfzat	m:f:n
+;1	384	akra	a-kra	m:f:n
+; kra=new (from kf)
+;3	510	akzastuza	akza-stuza	m
+; stuza=new  (akzastuza also in pd, yat. a plant)
+;3	513	akzAtivApa	akzA@tivApa	m
+; akza+ativApa   ativApa=new (in pd, pwg)
+;1	541	akzaRvat	a-kzaRvat	m:f:n
+; kzaRvat=new  (cf. root kzan) (Huet prap of kzan)
+;2B	624	akzaryaMrevat	akzaryaM-revat	n
+3	624	akzaryaMrevat	akzaryaM-revat	n
+;3	656	akzivikURita	akzi-vikURita	n
+; vikURita=new  (vi-kURita)
+3	659	akzyAmayin	akzy-Amayin	m:f:n
+; Amayin=new (in pw,pwg)
+;2	675.1	akziRvat	a-kziRvat	m:f:n
+; kziRvat=new (prap of kziR ?) (Huet: prap of kzI)
+;1	686	akziyat	a-kziyat	m:f:n
+; kziyat=new (prap of kzi - cf. Huet)
+;2	705	akzuDya	a-kzuDya	m:f:n
+; kzuDya=new (in PW,PWG) (fr. kzuD)
+;1	740	aKanat	a-Kanat	m:f:n
+; Kanat=new (prap Kan)
+;1C	744.1	aKarvan	a-Karvan	m:f:n
+1	744.1	aKarvan	a-Karvan	m:f:n
+; Karvan=new
+;3	828.1	agastyagfhaspatika	agastya-gfhaspatika	m:f:n
+; gfhaspatika=new   (agastyagfhapatika in PD, SCH) PD agastyagfha-pati-ka = agastaya-gfhapati-ka
+;3	830.1	agastyaSAsta	agastya-SAsta	m:f:n
+; SAsta=new  (ppp. of SAs ?)
+;3	850.1	agoHprApaRam	a-goH-prA@paRam	ind
+;1B	878	agocareRa	a-gocareRa	ind
+1C	878	agocareRa	a-gocareRa	ind
+;3	975	agniD	agni-D	m
+; variant of agnID
+;4	1146	agnihotrAyaRin	agni~hotrAyaRin	m:f:n
+; agnihotra-AyaRin or agnihotra-ayaRin  AyaRin=new, ayaRin=new
+;3	1154	agnIDra	agnI@Dra	m
+4	1154	agnIDra	agnI@Dra	m
+; note this now solved with suffix 'ra' (w 1226); but it may be that
+; this had undesired side effects (e.g., avAntara
+; 3	1281	agrahAyaRa	agra-hAyaRa	m
+; hAyaRa is from hAyana, with n-R sandhi, apparently from agra
+;3	1316	agreRI	agre-RI	m
+; agre-RI  RI for nI (leader) due to n-R sandhi, apparently from agra
+;3	1318	agredaDus	agre-daDus	m
+; daDus=new  only instance of 'daDu' in any dictionary. This word also in PD, SCH
+;1	1381	aGawamAna	a-GawamAna	m:f:n
+; GawamAna = prmp of Gaw ? (in sch);
+;1	1388	aGArin	a-GArin	m:f:n
+;GArin=new, from Gf-hom1 - to besprinkle, prob. causal.
+;1	1391.1	aGodaka	aGo@daka	n
+; TODO aGa+udaka.  L should be changed to 1376.1, within the compounds of aGa
+;3	1546.1	aNgadin	aNgadin	m:f:n
+;3	1546.2	aNgadIya	aNga~dIya	m:f:n
+; WRONG L.  aNgadIya is aNgada+Iya.  Not sure if aNgadin similarly derived.
+;2	1698.11	aNgiroDAman	aNgiro-DAman	m:f:n
+3	1698.11	aNgiroDAman	aNgiro-DAman	m:f:n
+;3	1769	ajanta	aj-anta	m:f:n
+; ac -> aj by sandhi before vowel?
+;3	1775	acakzuzwva	acakzuz-wva	n
+; acakzus + tva -> acakzuz-wva by sandhi?
+;1	1786.11	acarat	a-carat	m:f:n
+; carat=new (prap of car)
+;1	1786.4	acaraRIya	a-caraRIya	m:f:n
+; caraRIya=new. Gerundive from car
+;2	1788.2	acarizyat	a-carizyat	LEXID=fap,STEM=a-carizyat,ROOTCLASS=car
+; carizyat=new, fap (future active participle) of car 
+;2	1851	acetAna	a-cetAna	m:f:n
+; cetAna=new
+;1	1856	acodat	a-codat	m:f:n
+; codat=new (prap of cud)
+; NOTE: There are 228 "TODO" items in analysis2.txt that end in 'at'.  These
+;  are probably almost all participles (usu. present participles).
+; Similarly, there are 99 that end in 'mAna', (middle participles).
+; Also, the 'INFLECTID' items are usually in TODO category (about 50 of these)
+; May 24, 2016
+;2	8730.41	anvaksTAnin	anvak-sTAnin	m:f:n
+3	8730.41	anvaksTAnin	anvak-sTAnin	m:f:n
+;2	8730.42	anvaksTAnIya	anvak-sTAnIya	m:f:n
+3	8730.42	anvaksTAnIya	anvak-sTAnIya	m:f:n
+;1	5534	anAdeSakara	anAdeSa-kara	m:f:n
+1	5534	anAdeSakara	an-AdeSa-kara	m:f:n

@@ -524,7 +524,7 @@
 2	164350	miTo	miTo	ICF:miTas
 2	164540	miSrI	miSrI	ICF:miSra
 2	164589	mIQuz	mIQuz	ICF:mIQvas
-3	164590	mi|uz	mi|uz	ICF:mIQvas
+3	164590	mI|uz	mI|uz	ICF:mIQvas
 2	164826	mukulI	mukulI	ICF:mukula
 2	165681	muny	muny	ICF:muni
 2	165956	muzwI	muzwI	ICF:muzwi
