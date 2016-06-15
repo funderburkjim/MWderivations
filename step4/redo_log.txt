@@ -1,0 +1,80 @@
+create allnom.txt
+198459 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
+286809 records from ../../mwxml/mw.xml
+198459 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
+NO longer copying verb_step0a.txt
+Creating icf.txt from icf_prep1.txt
+1015 records read from auxiliary/icf_prep1.txt
+create mw_extract.txt from mw.xml
+MW SKIP: <?xml version="1.0" encoding="UTF-8"?>
+
+MW SKIP: <!DOCTYPE mw SYSTEM "mw.dtd">
+
+MW SKIP: <!-- Copyright Universitat Koln and The Sanskrit LIbrary 2012; for details see MWHeader.xml -->
+
+MW SKIP: <mw>
+
+MW SKIP: </mw>
+
+MW SKIP: 
+
+286815 records read from ../../mwxml/mw.xml
+220265 records written to auxiliary/mw_extract.txt
+merge files into all.txt
+Revising all.txt
+writing output to all.txt
+220265 Lexdata records read from all.txt
+11 Lexdata records read from auxiliary/all_revise.txt
+220265 records written to all.txt
+11 of these records adjusted from auxiliary/all_revise.txt
+redoing analysis2.txt
+220265 records read from all.txt
+18 records read from auxiliary/wsfx.txt
+6153 records read from auxiliary/pfxderiv.txt
+DBG: removesfx: aparAhRetana [u'na', u'tana']
+DBG: removesfx: avAntara [u'tara', u'ra']
+DBG: removesfx: aspfzwapuruzAntara [u'tara', u'ra']
+DBG: removesfx: ahoraTantara [u'tara', u'ra']
+DBG: removesfx: AkASAnantyAyatana [u'na', u'tana']
+DBG: removesfx: AScyotana [u'na', u'tana']
+DBG: removesfx: upottara [u'tara', u'ra']
+DBG: removesfx: kAyamAnikaniketana [u'na', u'tana']
+DBG: removesfx: kArottara [u'tara', u'ra']
+DBG: removesfx: kiMcitkzaRAntara [u'tara', u'ra']
+DBG: removesfx: kzemaRIyatara [u'tara', u'ra']
+DBG: removesfx: trEtana [u'na', u'tana']
+DBG: removesfx: durnizprapatana [u'na', u'tana']
+DBG: removesfx: druhaMtara [u'tara', u'ra']
+DBG: removesfx: nirAkftAnyottara [u'tara', u'ra']
+DBG: removesfx: nEvasaMjYAnAsaMjYAnAyatana [u'na', u'tana']
+DBG: removesfx: praniGAtana [u'na', u'tana']
+DBG: removesfx: prAntara [u'tara', u'ra']
+DBG: removesfx: prAhRetana [u'na', u'tana']
+DBG: removesfx: mUlotpAtana [u'na', u'tana']
+DBG: removesfx: lakzmInfsiMhamahAzwottara [u'tara', u'ra']
+DBG: removesfx: laGuKartara [u'tara', u'ra']
+DBG: removesfx: vijYAnAntyAyatana [u'na', u'tana']
+DBG: removesfx: sAntara [u'tara', u'ra']
+DBG: removesfx: sAyatana [u'na', u'tana']
+DBG: removesfx: suKEkAyatana [u'na', u'tana']
+DBG: removesfx: sUttara [u'tara', u'ra']
+DBG: removesfx: sottara [u'tara', u'ra']
+DBG: removesfx: sopArakapattana [u'na', u'tana']
+DBG: removesfx: svalpAtivistara [u'tara', u'ra']
+ 22100  NTD init
+ 85770 DONE cpd1
+  1418 DONE cpd1a
+  4379 DONE cpd3
+  1095 DONE cpd4
+  1792 DONE cpd5
+  3295 DONE cpd_nan
+ 12547 DONE gender
+  1188 DONE inflected
+ 42772 DONE noparts
+  8666 DONE pfx1
+  2583 DONE pfx2
+  1576 DONE pfxderiv
+ 15048 DONE srs2
+  6492 DONE wsfx
+   651 DONE wsfx1
+  8893 TODO init
