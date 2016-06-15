@@ -1,4 +1,4 @@
-220268 records from auxiliary/mw_extract.txt
+220265 records from auxiliary/mw_extract.txt
 198459 Lexdata records read from allnom.txt
 10476 records read from ../../MWvlex/step0/verb_step0a.txt
 1015 records read from auxiliary/icf.txt
