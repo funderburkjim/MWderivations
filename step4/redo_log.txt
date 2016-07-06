@@ -1,7 +1,7 @@
 create allnom.txt
-198459 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
+198458 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
 286809 records from ../../mwxml/mw.xml
-198459 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
+198458 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
 NO longer copying verb_step0a.txt
 Creating icf.txt from icf_prep1.txt
 1015 records read from auxiliary/icf_prep1.txt
@@ -19,16 +19,16 @@ MW SKIP: </mw>
 MW SKIP: 
 
 286815 records read from ../../mwxml/mw.xml
-220265 records written to auxiliary/mw_extract.txt
+220264 records written to auxiliary/mw_extract.txt
 merge files into all.txt
 Revising all.txt
 writing output to all.txt
-220265 Lexdata records read from all.txt
+220264 Lexdata records read from all.txt
 11 Lexdata records read from auxiliary/all_revise.txt
-220265 records written to all.txt
+220264 records written to all.txt
 11 of these records adjusted from auxiliary/all_revise.txt
 redoing analysis2.txt
-220265 records read from all.txt
+220264 records read from all.txt
 18 records read from auxiliary/wsfx.txt
 6153 records read from auxiliary/pfxderiv.txt
 DBG: removesfx: aparAhRetana [u'na', u'tana']
@@ -70,7 +70,7 @@ DBG: removesfx: svalpAtivistara [u'tara', u'ra']
   3295 DONE cpd_nan
  12547 DONE gender
   1188 DONE inflected
- 42772 DONE noparts
+ 42771 DONE noparts
   8666 DONE pfx1
   2583 DONE pfx2
   1576 DONE pfxderiv
