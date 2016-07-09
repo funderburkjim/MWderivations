@@ -62,6 +62,7 @@ DBG: removesfx: sottara [u'tara', u'ra']
 DBG: removesfx: sopArakapattana [u'na', u'tana']
 DBG: removesfx: svalpAtivistara [u'tara', u'ra']
  22100  NTD init
+   651 DONE +wsfx1
  85770 DONE cpd1
   1418 DONE cpd1a
   4379 DONE cpd3
@@ -76,5 +77,4 @@ DBG: removesfx: svalpAtivistara [u'tara', u'ra']
   1576 DONE pfxderiv
  15048 DONE srs2
   6492 DONE wsfx
-   651 DONE wsfx1
   8893 TODO init

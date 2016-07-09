@@ -1040,7 +1040,7 @@ def analyze_rec_cC(recorig,wrecs,zipped,unimplemented):
  # analysis succeeded. Modify recorig accordingly
  recorig.analysis = rec.analysis
  recorig.status = rec.status
- recorig.note = rec.note + ':-cC'  # so we'll know this route required
+ recorig.note = rec.note + ':+cC'  # so we'll know this route required
 
 def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
@@ -1061,7 +1061,7 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  if key1 in drec:
   recorig.analysis = key1+"+"+sfx
   recorig.status = 'DONE'
-  recorig.note = 'wsfx1:%s'%sfx  # so we'll know this route required
+  recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
   return
  # otherwise, try an analysis after removing the suffix
  # construct a copy of rec. A 'Shallow' copy suffices
@@ -1075,7 +1075,7 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  # analysis succeeded. Modify recorig accordingly
  recorig.analysis = rec.analysis+"+"+sfx
  recorig.status = rec.status
- recorig.note = rec.note + ':+sfx:%s'%sfx  # so we'll know this route required
+ recorig.note = rec.note + ':+wsfx:%s'%sfx  # so we'll know this route required
 
 def analyze_rec_fauxcpd(recorig,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
@@ -1101,7 +1101,7 @@ def analyze_rec_fauxcpd(recorig,wrecs,zipped,unimplemented):
  # analysis succeeded. Modify recorig accordingly
  recorig.analysis = rec.analysis
  recorig.status = rec.status
- recorig.note = rec.note + ':fauxcpd'  # so we'll know this route required
+ recorig.note = rec.note + ':+fauxcpd'  # so we'll know this route required
 
 def analyze_rec_z(recorig,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
@@ -1114,13 +1114,13 @@ def analyze_rec_z(recorig,wrecs,zipped,unimplemented):
   key2 = re.sub(r'-zW','-sT',recorig.key2)
   key2 = re.sub(r'-zw','-st',key2)
   key2 = re.sub(r'-z','-s',key2)
-  case = '-z'
+  case = '+z'
  elif re.search(r'a-r',recorig.key2):
   key2 = re.sub(r'a-r','a-f',recorig.key2)
-  case = 'a-r'
+  case = '+a-r'
  elif re.search(r'a-R',recorig.key2):
   key2 = re.sub(r'a-R','a-n',recorig.key2)
-  case = 'a-R'
+  case = '+a-R'
  else:  # this analysis fails
   return
  # construct a copy of rec. A 'Shallow' copy suffices
