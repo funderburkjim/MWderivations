@@ -808,6 +808,54 @@ def analysis2_srs2(rec):
   else:
    rec.note = 'srs2?'
 
+def analysis2_srs3(rec):
+ """ More general than srs2, in that there is no requirement that the
+ first be the parent. It is limited, in that only 2 parts (defined by @) are
+ allowed.
+ """
+ drec = hwcpd_dict
+ parts = re.split(r'@',rec.key2)
+ parentRec=rec.parent
+ if len(parts) == 1: # no @
+  return
+ #if len(parts) > 2:
+ # return
+ # continue with analysis
+ firstpart = parts[0]
+ firstpart = re.sub(r'[~-]','',firstpart)
+ firstpart0 = firstpart[0:-1] # all but last character, which is the sandhi
+ c0 = firstpart[-1:] # last character
+ presandhi = presandhi_hash[c0]
+ srsbegs=[]
+ firstpart1=None
+ for (end,beg) in presandhi:
+  firstpart = firstpart0+end
+  if firstpart in drec:
+   if beg not in srsbegs: # don't repeat
+    srsbegs.append(beg)
+    firstpart1=firstpart
+ if len(srsbegs) == 0:
+  # no luck. Should not happen
+  return
+ lastpart0 = ''.join(parts[1:])
+ lastpart0 = re.sub(r'~','',lastpart0)
+ lastanswers=[]
+ for beg in srsbegs:
+  # analyze the rest of the word. 
+  lastpart = beg+lastpart0
+  current_lastanswers = floating_compounds(lastpart,allowOne=True)
+  for temp in current_lastanswers:
+   lastanswers.append(temp)
+ if len(lastanswers)>0:
+  # success. 
+  analyses = ["%s+%s"%(firstpart1,lastpart) for lastpart in lastanswers]
+  rec.analysis = ','.join(analyses)
+  rec.status = 'DONE'
+  if len(lastanswers) == 1:
+   rec.note = 'srs3'
+  else:
+   rec.note = 'srs3?'
+
 known_prefixes = [
  'a', 'an',  
  'aBi', 'aBy',
@@ -1164,7 +1212,7 @@ def analysis_all(recs):
  'gender',
  'cpd_nan','cpd3','inflected','pfx1',
  'cpd1a','pfx2','cpd4','srs2','pfxderiv',
- 'cpd5' 
+ 'cpd5','srs3'
  ]
  unimplemented = []
  noptions=len(options)
