@@ -1,0 +1,93 @@
+July 22, 2016
+Some random notes:
+
+* akarRIya
+2	179.1	akarRIya	a-karRIya	m:f:n		TODO	init:parent=akarRa
+karRIya may be gerund of karR, to hear.  My computation shows karRanIya
+:karR potp 10a:(karRayitavya karRanIya karRya)
+* akutracaBaya
+3	289	akutracaBaya	a-kutraca-Baya	m:f:n		TODO	init:parent=akutas
+kutraca is surely some form of kutra
+* a-kutsayat   prap kuts
+1	291.2	akutsayat	a-kutsayat	m:f:n		TODO	init
+* a-kupyat  prap kup
+1	296.1	akupyat	a-kupyat	m:f:n		TODO	init
+* a-kra
+1	384	akra	a-kra	m:f:n		TODO	init
+kra a derivative under kf (Whitney)
+* akza-stuza
+3	510	akzastuza	akza-stuza	m		TODO	init:parent=akza
+also in PD, YAT
+* akzA@tivApa = akza + ati + vApa
+3	513	akzAtivApa	akzA@tivApa	m		TODO	init:parent=akza
+* a-kzaRvat  prap kzaR = kzan
+1	541	akzaRvat	a-kzaRvat	m:f:n		TODO	init
+* akzi-vikURita  vi-kURita, kURita = ppp of kuR, vikuR
+3	656	akzivikURita	akzi-vikURita	n		TODO	init:parent=akzi
+* akzy-Amayin  akzi+Amayin, Amayin from Amaya
+3	659	akzyAmayin	akzy-Amayin	m:f:n		TODO	init:parent=akzi
+* a-kziRvat, kziRvat prap of kzi
+2	675.1	akziRvat	a-kziRvat	m:f:n		TODO	init:parent=akziRI
+* a-kziyat, kziyat prap of zki
+1	686	akziyat	a-kziyat	m:f:n		TODO	init
+* a-kzuDya  kzuDya from kzuD (be hungry). I have 'kzoDya' for potp ? WRONG?
+2	705	akzuDya	a-kzuDya	m:f:n		TODO	init:parent=akzuD
+* a-Kanat, Kanat prap of Kan
+1	740	aKanat	a-Kanat	m:f:n		TODO	init
+* a-Karvan.  Note I now have as H1C (wrong?). Somehow related to a-Karva
+1	744.1	aKarvan	a-Karvan	m:f:n		TODO	init
+* agastya-gfhaspatika  gfhaspatika =? gfhapati+ka
+3	828.1	agastyagfhaspatika	agastya-gfhaspatika	m:f:n		TODO	init:parent=agastya
+* agastya-SAsta  SAsta = ppp of SAs (But I have Sizwa; Whitney shows SAsta)
+3	830.1	agastyaSAsta	agastya-SAsta	m:f:n		TODO	init:parent=agastya
+* a-goH-prA@paRam:  key2=> a-goH-prApaRam.  goH inflected of go; prApaRa+m
+3	850.1	agoHprApaRam	a-goH-prA@paRam	ind		TODO	init:parent=ago
+* agDA@d = a-gDa + ad.  gDa = ppp of Gas (ejf missing this ppp). ad ifc = eating
+1	884	agDAd	agDA@d	m:f:n		TODO	init
+* agnA-marutO, agnA-vizRU both dual of agnA-marut, agnA-vizRu
+3	886	agnAmarutO	agnA-marutO	INFLECTID=m1d,STEM=agnAmarut		TODO	init:parent=agnA
+3	887	agnAvizRU	agnA-vizRU	INFLECTID=m1d,STEM=agnAvizRu		TODO	init:parent=agnA
+* agni-D  D for iD (MW)
+3	975	agniD	agni-D	m		TODO	init:parent=agni
+* agni-m-IyAma better key2=>agnim-IyAma. What is derivation of IyAma ?
+3	1029.1	agnimIyAma	agni-m-IyAma	m		TODO	init:parent=agni
+* agni~hotrAyaRin better: agnihotra@AyaRin = agnihotra+Ayanin, Ayanin (Ayana + in?)
+4	1146	agnihotrAyaRin	agni~hotrAyaRin	m:f:n		TODO	init:parent=agnihotra
+* agra-hAyaRa = agra+hAyana (irr. n->R)
+3	1281	agrahAyaRa	agra-hAyaRa	m		TODO	init:parent=agra
+* agrA@yaRIya = ? agra + AyanIya; AyanIya = A + ayanIya, ayanIya = potp of 'i'
+3	1290	agrAyaRIya	agrA@yaRIya	n		TODO	init:parent=agra
+* agre-RI = agre + nI , 
+3	1316	agreRI	agre-RI	m		TODO	init:parent=agre
+* agre-daDus  daDus derviation unknown
+3	1318	agredaDus	agre-daDus	m		TODO	init:parent=agre
+* a-GawamAna GawamAna= prmp of Gaw
+1	1381	aGawamAna	a-GawamAna	m:f:n		TODO	init
+* a-GArin, GArin = GAra+(in-sfx)
+1	1388	aGArin	a-GArin	m:f:n		TODO	init
+* aGo@daka  = aGa + udaka.  Should this be among cpds of aGa ?
+1	1391.1	aGodaka	aGo@daka	n		TODO	init
+* aNgadin, aNgadIya  H3 -> H4, under aNgada
+3	1546.1	aNgadin	aNgadin	m:f:n	aNgadin	DONE	noparts
+3	1546.2	aNgadIya	aNga~dIya	m:f:n		TODO	init:par
+* aNgirasAm-ayana.  How aNgirasAm derived from aNgiras or aNigrasa ?
+2	1700	aNgirasAmayana	aNgirasAm-ayana	n		TODO	init:parent=aNgir
+* aj-anta,  ac+anta,  ac = Gram. term for all vowels
+3	1769	ajanta	aj-anta	m:f:n		TODO	init:parent=ac
+* a-cakfvas, cakfvas = rpp of kf (reduplicative past participle)
+1	1769.1	acakfvas	a-cakfvas	m:f:n		TODO	init
+* acakzuz-wva = (sanDhi) acakzus+tva
+3	1775	acakzuzwva	acakzuz-wva	n		TODO	init:parent=acakzus
+* a-cyAvin  cyAvin <- cyava <- cyu
+1	1857.1	acyAvin	a-cyAvin	m:f:n		TODO	init
+* acCawA-Sabda , acCawA-saMGAta.  acCawA onomatopoeic?
+1	1866.1	acCawASabda	acCawA-Sabda	m		TODO	init
+1	1866.2	acCawAsaMGAta	acCawA-saMGAta	m		TODO	init
+* a-cCambawkArAya  4s of Cambaw-kAra.  Cambaw not independently found
+1	1866.4	acCambawkArAya	a-cCambawkArAya	ind		TODO	init
+* acCe@ta pfx. acCa + ita (?)
+2	1890	acCeta	acCe@ta	m:f:n		TODO	init:parent=acCambawkArAya
+* acCe@tya acCa + itya, itya = potp of 'i'
+2	1891	acCetya	acCe@tya	m:f:n		TODO	init:parent=acCambawkArAya
+* acCo@kti acca + ukti
+2	1892	acCokti	acCo@kti	f		TODO	init:parent=acCambawkArAya
