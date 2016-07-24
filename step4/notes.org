@@ -91,3 +91,20 @@ also in PD, YAT
 2	1891	acCetya	acCe@tya	m:f:n		TODO	init:parent=acCambawkArAya
 * acCo@kti acca + ukti
 2	1892	acCokti	acCo@kti	f		TODO	init:parent=acCambawkArAya
+* muKa-poYCana  poYCana 'for proYCana' (MW)
+3	164898	muKapoYCana	muKa-poYCana	n		TODO	init:parent=muKa
+* muKa-maR~qinikA  . maRqinikA is variant of maRqikA in this cpd (MW)
+3	164924	muKamaRqinikA	muKa-maR~qinikA	f		TODO	init:parent=muKa
+* muKa-maRqI  a proper name. Is there a derivation of maRqI from, e.g., maRqa ?
+3	164925	muKamaRqI	muKa-maRqI	f		TODO	init:parent=muKa
+* muKa-zWIla for 'muKA@zWIla' (muKa+azWIla)
+3	164984	muKazWIla	muKa-zWIla	m:f:n		TODO	init:parent=muKa
+* muRqako@pani~zat-KaRqA@rTa = muRqakopanizad+(KaRqa + arTa)
+4	165414	muRqakopanizatKaRqArTa	muRqako@pani~zat-KaRqA@rTa	m		TODO	init:parent=muRqakopanizad
+* muTa~Silin  eq muTaSila + sfx-in .
+2	165447	muTaSilin	muTa~Silin	m:f:n		TODO	init:parent=muTaSila
+ 'in' suffix. Whitney 1230.
+ Previous word muTaSilita prob. also derived from muTaSila - By what means ?
+* mudgA@Ba = mudga+ABa  (note ABa is ifc m. form of headword ABA
+3	165495	mudgABa	mudgA@Ba	m:f:n		TODO	init:parent=mudga
+How should we add ABa as a valid word in compounds ?

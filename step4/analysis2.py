@@ -864,7 +864,7 @@ known_prefixes = [
  'aDi','aDy',
  'A',
  'upa', 
- 'ut','ud','ul',
+ 'ut','ud','ul','uc','uj','un'
  'ni','ny',
  'nir','nih',
  'pari', 'pary',
@@ -894,6 +894,17 @@ def analysis2_pfx1(rec):
   rec.status = 'DONE'
   rec.note = 'pfx1:%s' %(firstpart)
   return
+ # Example uc-CiKaRqa
+ if (firstpart == 'uc') and (lastpart.startswith('C')):
+  # In example. Look up SiKaRqa
+  lastpart = 'S' + lastpart[1:]
+  if (lastpart in drec):
+   # success
+   rec.analysis = "%s+%s" % (firstpart,lastpart)
+   rec.status = 'DONE'
+   rec.note = 'pfx1:%s' %(firstpart)
+   return
+
  # Example aDi-vedanIyA
  lastparta = [x for x in adjective_stems(lastpart) if x in drec]
  if len(lastparta)>0:
