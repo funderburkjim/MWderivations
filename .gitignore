@@ -1,3 +1,5 @@
+# Useful files that should not be copied
+prev_*
 # EMACS backup files
 *~
 # Temporary files
