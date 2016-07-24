@@ -108,3 +108,5 @@ also in PD, YAT
 * mudgA@Ba = mudga+ABa  (note ABa is ifc m. form of headword ABA
 3	165495	mudgABa	mudgA@Ba	m:f:n		TODO	init:parent=mudga
 How should we add ABa as a valid word in compounds ?
+* uKA-saMBaraRa  uKA is f. form; since it is a 'B' form, cpd1 misses it.
+3	30106	uKAsaMBaraRa	uKA-saMBaraRa	n		TODO	init:parent=uKa

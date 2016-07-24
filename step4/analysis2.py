@@ -73,6 +73,7 @@ class Analysis(object):
    exit(1)
   self.parent = None  # determined by init_parents. 
   self.parenta = None # determined by init_parentsa.
+  self.childrena = [] # determined by init_parentsa
 
  def __repr__(self):
   note=self.note
@@ -123,6 +124,9 @@ def init_parentsa(recs):
  """ establish the 'parent' record for reach rec. This
      parent may be None.  If rec.H is x[ABC], then this
      parent is the previous rec0 with rec0.H==x
+     July 24, 2016.  Also, determine childrena attribute.
+     For a substantive with A(probably never), B or C children,
+      the childrena attribute contains the spelling of these A,B,C children.
  """
  for irec in xrange(0,len(recs)):
   rec=recs[irec]
@@ -141,6 +145,10 @@ def init_parentsa(recs):
   if irec0<0:
    continue # won't happen, but safe programming
   rec.parenta=recs[irec0]
+  # update childrena of irec0
+  rec0 = recs[irec0]
+  if rec.key1 not in rec0.childrena:
+   rec0.childrena.append(rec)
 
 def analysis2_noparts(rec):
   found = rec.lex.startswith('LOAN') or (not re.search(r'[~@-]',rec.key2))
@@ -497,7 +505,12 @@ def analysis2_cpd1(rec):
  # Jan 31, 2016 require that firstpart be a substantive
  if (not parentRec) or (not parentRec.substantiveP()):
   return
- parentKey = parentRec.key1
+ parentKeys = [parentRec.key1]
+ for r in parentRec.childrena:
+  parentKeys.append(r.key1)
+ if rec.key1 == 'uKAsaMBaraRa':
+  print rec.key1,"has parentKeys=",parentKeys
+ #parentKey = parentRec.key1
  parts = re.split(r'-',rec.key2)
  nparts = len(parts)
  # find the break point identifying the parent
@@ -510,8 +523,10 @@ def analysis2_cpd1(rec):
   lastpart = ''.join(parts[ipart:])
   firstpart = re.sub(r'[~@-]','',firstpart)
   lastpart = re.sub(r'[~@-]','',lastpart)
-  if  ((firstpart==parentKey) or compound_pairP(parentKey,firstpart,lastpart)):
-   firstparts.append((ipart,firstpart,lastpart))
+  for parentKey in parentKeys:
+   if  ((firstpart==parentKey) or compound_pairP(parentKey,firstpart,lastpart)):
+    firstparts.append((ipart,firstpart,lastpart))
+    break
  if len(firstparts)==0: # couldn't identify the paretn
   return
  # take the 'longest' firstpart
@@ -520,7 +535,11 @@ def analysis2_cpd1(rec):
   # success
   rec.analysis = "%s-%s" %(firstpart,lastpart)
   rec.status = 'DONE'
-  rec.note = 'cpd1'
+  if parentKey != parentRec.key1:
+   t = ':*'
+  else:
+   t = ''
+  rec.note = 'cpd1%s'%t
   return
  # Is last part a feminine form of a substantive?
  # Example aja-kUlA.  Here kUla is a headword, and kUlA is a feminine form
