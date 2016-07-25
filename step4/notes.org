@@ -110,3 +110,16 @@ also in PD, YAT
 How should we add ABa as a valid word in compounds ?
 * uKA-saMBaraRa  uKA is f. form; since it is a 'B' form, cpd1 misses it.
 3	30106	uKAsaMBaraRa	uKA-saMBaraRa	n		TODO	init:parent=uKa
+ saMBaraRa is spelled samBaraRa as headword. How to deal with this
+ inconsistency of MW in the derivations?
+* az~wA@SvasamADi change key2 to 'azwA@Sva-samADi'
+3	20300.1	azwASvasamADi	az~wA@SvasamADi	m		TODO	init:parent=azwA
+* a-saMsUkta-gila  saMsUkta = sam+sUkta
+1	20414	asaMsUktagila	a-saMsUkta-gila	m:f:n		TODO	init
+* plakza-samudra-vAcakA vAcakA was not found
+3	141423	plakzasamudravAcakA	plakza-samudra-vAcakA	f		TODO	init:parent=plakza
+Under vAcaka, MW states vAcakA is 'w.r.' and it should be 'vacikA'.
+However, the reason this is not matched is probably because the
+
+* saM-hata-BrUkuwi-muKa.  BRUkuwi is a variant of BRUkuwI (mw)
+3	227386	saMhataBrUkuwimuKa	saM-hata-BrUkuwi-muKa	m:f:n		TODO	init:parent=saMhata

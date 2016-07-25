@@ -250,7 +250,6 @@ def gender_form(key1,lex):
   if lex == 'f':
    return key1+'I'  # not always correct, sometimes key1[0:-1]+'RI'
   return key1
-
  return key1
 
 def inflected_forms(key1):
@@ -259,6 +258,8 @@ def inflected_forms(key1):
  forms=[]
  if key1.endswith('i'):
   forms.append(key1[0:-1]+"yA") # 3s
+ elif key1 == 'go':
+  forms.append('goH')
  return forms
 
 additional_forms_special = {
@@ -269,6 +270,9 @@ additional_forms_special = {
  "hiNkAra":"hiMkAra", # dvi-hiMkAra
  "kiMcana":"kiYcana", # akiYcana
  "kilbiza":"kilviza", # akilviza
+ "stana":["stanI","stanA"], # ifc f. forms
+ "ABA":"ABa", # apramARA@Ba, etc
+ "BrUkuwI":"BrUkuwi", # saM-hata-BrUkuwi-muKa
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
@@ -287,7 +291,11 @@ def additional_forms(rec):
   forms.append(key1[0:-1])  # drop final 'n'
  # some special, adhoc cases
  if key1 in additional_forms_special:
-  forms.append(additional_forms_special[key1])
+  a = additional_forms_special[key1]
+  if not isinstance(a,list):
+   a = [a]
+  for a1 in a:
+   forms.append(a1)
  # some inflected forms
  for x in inflected_forms(key1):
   forms.append(x)
@@ -508,8 +516,8 @@ def analysis2_cpd1(rec):
  parentKeys = [parentRec.key1]
  for r in parentRec.childrena:
   parentKeys.append(r.key1)
- if rec.key1 == 'uKAsaMBaraRa':
-  print rec.key1,"has parentKeys=",parentKeys
+ #if rec.key1 == 'uKAsaMBaraRa':
+ # print rec.key1,"has parentKeys=",parentKeys
  #parentKey = parentRec.key1
  parts = re.split(r'-',rec.key2)
  nparts = len(parts)
@@ -994,6 +1002,8 @@ def gender_formP(b,a):
   return 'f'
  if b == a:
   return 'same' # assume different gender in a (e.g. a is 'm', b is m:f:n')
+ #if a in masculine_forms(b):
+ # return 'm'
  return None
 
 def analysis2_gender(rec):
