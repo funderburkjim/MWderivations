@@ -273,6 +273,7 @@ additional_forms_special = {
  "stana":["stanI","stanA"], # ifc f. forms
  "ABA":"ABa", # apramARA@Ba, etc
  "BrUkuwI":"BrUkuwi", # saM-hata-BrUkuwi-muKa
+ "GoRA":"GoRa", # ud-GoRa
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
@@ -306,6 +307,19 @@ def additional_forms(rec):
   forms.append(key1a)
  if key1b != key1:
   forms.append(key1b)
+ key1a = re.sub(r'san([tTdDn])',r'saM\1',key1)
+ key1b = re.sub(r'saM([tTdDn])',r'san\1',key1)
+ if key1a != key1:
+  forms.append(key1a)
+ if key1b != key1:
+  forms.append(key1b)
+ key1a = re.sub(r'sam(kx)',r'saM\1',key1)
+ key1a = re.sub(r'saM(kx)',r'sam\1',key1)
+ if key1a != key1:
+  forms.append(key1a)
+ if key1b != key1:
+  forms.append(key1b)
+
  return forms
 
 def init_hwcpd_dict(recs):
@@ -399,6 +413,65 @@ def analysis2_cpd_nan(rec):
     return     
 
 def analysis2_cpd3(rec):
+  """ uses parent 
+  """
+  drec = hwcpd_dict
+  parentRec=rec.parent
+  if (not parentRec) or (not parentRec.substantiveP()):
+   return
+  parts = re.split(r'-',rec.key2)
+  nparts = len(parts)
+  parentKey = parentRec.key1
+  starFlag=False
+  star = '*'
+  for ipart in xrange(1,nparts):
+   firstpart = ''.join(parts[0:ipart])   
+   firstpart = re.sub(r'[~@-]','',firstpart)
+   #if (firstpart != parentKey):
+   # continue
+   # are all of the remaining parts compound components?
+   lastparts = parts[ipart:]
+   ok = True
+   okparts=[]
+   for p in lastparts:
+    p = re.sub(r'[~@-]','',p)
+    if p in drec:
+     okparts.append(p)
+     continue
+    tempparts = [x for x in adjective_stems(p) if x in drec]
+    if len(tempparts) > 0:
+     okparts.append(p+star)
+     starFlag=True
+     continue
+    # fails
+    ok = False
+    break
+   if ok:
+    if (firstpart == parentKey):
+     # success
+     rec.analysis = "%s-%s" %(parentKey,'-'.join(okparts))
+     rec.status = 'DONE'
+     rec.note = 'cpd3'
+     if starFlag:
+      rec.note = rec.note + ':'+star
+     break # ipart loop
+    # try sandhi
+    # example: prati~pat-tUrya, parent=pratipad
+    sandhi = ScharfSandhi()
+    sandhi.simple_sandhioptions('C') # compound sandhi
+    lastpart = ''.join(okparts)
+    lastpart = lastpart.replace(star,'')
+    sandhijoin = sandhi.sandhi('%s-%s'%(parentKey,lastpart))
+    if sandhijoin == rec.key1:
+     # success
+     rec.analysis = "%s-%s" %(parentKey,'+'.join(okparts))
+     rec.status = 'DONE'
+     rec.note = 'cpd3:%s<-%s(sandhi)'%(firstpart,parentKey)
+     if starFlag:
+      rec.note = rec.note + star
+     break # ipart loop
+
+def prev_analysis2_cpd3(rec):
   """ uses parent """
   drec = hwcpd_dict
   parentRec=rec.parent
@@ -898,7 +971,7 @@ known_prefixes = [
  'aDi','aDy',
  'A',
  'upa', 
- 'ut','ud','ul','uc','uj','un'
+ 'ut','ud','ul','uc','uj','un',
  'ni','ny',
  'nir','nih',
  'pari', 'pary',
