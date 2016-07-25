@@ -299,6 +299,13 @@ def additional_forms(rec):
  # some inflected forms
  for x in inflected_forms(key1):
   forms.append(x)
+ # July 25, 2016.  anusvAra variants.
+ key1a = re.sub(r'sam([pPbBm])',r'saM\1',key1)
+ key1b = re.sub(r'saM([pPbBm])',r'sam\1',key1)
+ if key1a != key1:
+  forms.append(key1a)
+ if key1b != key1:
+  forms.append(key1b)
  return forms
 
 def init_hwcpd_dict(recs):
