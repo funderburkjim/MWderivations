@@ -44,6 +44,8 @@ class Analysis(object):
    print "line=",line.encode('utf-8')
    exit(1)
   (self.H,self.L,self.key1,self.key2,self.lex) = parts[0:5]
+  # July 25, 2016
+  self.adjust_key2()
   # use self.lex to get self.type (type of record)
   m = re.search(r'^(m|f|n|ind|LEXID|INFLECTID|LOAN|NONE|VERB|ICF|SEE)',self.lex)
   if not m:
@@ -74,6 +76,18 @@ class Analysis(object):
   self.parent = None  # determined by init_parents. 
   self.parenta = None # determined by init_parentsa.
   self.childrena = [] # determined by init_parentsa
+ 
+ corrections_key2 = {
+  "4860":"anati-dfSya",
+  "4860.1":"anati-dfSna",
+ }
+ def adjust_key2(self):
+  """ Correct some errors in key2
+  """
+  if self.L in Analysis.corrections_key2:
+   old = self.key2
+   self.key2 =  Analysis.corrections_key2[self.L]
+   print "Correcting key2:",self.L,self.key1,old,"=>",self.key2
 
  def __repr__(self):
   note=self.note
@@ -250,6 +264,8 @@ def gender_form(key1,lex):
   if lex == 'f':
    return key1+'I'  # not always correct, sometimes key1[0:-1]+'RI'
   return key1
+ if key1.endswith(('a','I','i')) and (lex in ['f#I','f#i']):
+  return key1[0:-1] + lex[-1:]
  return key1
 
 def inflected_forms(key1):
@@ -274,6 +290,7 @@ additional_forms_special = {
  "ABA":"ABa", # apramARA@Ba, etc
  "BrUkuwI":"BrUkuwi", # saM-hata-BrUkuwi-muKa
  "GoRA":"GoRa", # ud-GoRa
+ "icCA":"icCa", # pUrRe@cCa
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
@@ -615,7 +632,7 @@ def analysis2_cpd1(rec):
    if  ((firstpart==parentKey) or compound_pairP(parentKey,firstpart,lastpart)):
     firstparts.append((ipart,firstpart,lastpart))
     break
- if len(firstparts)==0: # couldn't identify the paretn
+ if len(firstparts)==0: # couldn't identify the parent
   return
  # take the 'longest' firstpart
  (ipart,firstpart,lastpart) = firstparts[-1] # last one is longest
@@ -985,7 +1002,53 @@ known_prefixes = [
  'antar',
  'sam','saM',
 ]
+def pfx1_main(key2):
+ """ main logic of analysis2_pfx1, but doesn't use the 'rec'
+ """
+ drec = hwcpd_dict
+ parts = re.split(r'-',key2)
+ if len(parts)==1:
+  return None
+ firstpart=parts[0]
+ lastpart = ''.join(parts[1:])
+ lastpart = re.sub(r'[~@-]','',lastpart)
+ if not (firstpart in known_prefixes):
+  return
+ if  (lastpart in drec):
+  # success
+  analysis = "%s-%s" % (firstpart,lastpart)
+  status = 'DONE'
+  note = 'pfx1:%s' %(firstpart)
+  return (analysis,status,note)
+ # Example uc-CiKaRqa
+ if (firstpart == 'uc') and (lastpart.startswith('C')):
+  # In example. Look up SiKaRqa
+  lastpart = 'S' + lastpart[1:]
+  if (lastpart in drec):
+   # success
+   analysis = "%s+%s" % (firstpart,lastpart)
+   status = 'DONE'
+   note = 'pfx1:%s' %(firstpart)
+   return (analysis,status,note)
+
+ # Example aDi-vedanIyA
+ lastparta = [x for x in adjective_stems(lastpart) if x in drec]
+ if len(lastparta)>0:
+  # success
+  analysis = "%s-%s" %(firstpart,lastpart)
+  status = 'DONE'
+  stems = ','.join(lastparta)
+  note = 'pfx1:%s:%s<-%s'%(firstpart,lastpart,stems)
+  return (analysis,status,note)
+
 def analysis2_pfx1(rec):
+ result = pfx1_main(rec.key2)
+ if not result:
+  return
+ (rec.analysis,rec.status,rec.note)=result
+ return
+
+def prev_analysis2_pfx1(rec):
  drec = hwcpd_dict
  parts = re.split(r'-',rec.key2)
  if len(parts)==1:
@@ -1190,17 +1253,20 @@ def analyze_rec(rec,wrecs,zipped,unimplemented):
 
 def analyze_rec_cC(recorig,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
+     July 26, 2016. expanded slightly
  """
  # Often, when a compound has a 2nd part whose spelling starts with 'C',
  # the spelling of that second part starts with 'cC'.
- m = re.search(r'^(.*?)-cC(.*)$',recorig.key2)
+ #m = re.search(r'^(.*?)-cC(.*)$',recorig.key2)
+ #July 26. include
+ m = re.search(r'^(.*?[-~])cC(.*)$',recorig.key2)
  if not m: # this analysis not applicable
   return
  # construct a copy of rec. A 'Shallow' copy suffices
  rec = copy.copy(recorig)
  # remove the 'm' from the end of key1 and key2
  # replace 'cC' with 'C' in key2
- rec.key2 = m.group(1)+'-C'+m.group(2)
+ rec.key2 = m.group(1)+'C'+m.group(2)
  # Try to analyze this modified record
  analyze_rec(rec,wrecs,zipped,unimplemented)
  if rec.status == 'TODO':  #analysis failed
