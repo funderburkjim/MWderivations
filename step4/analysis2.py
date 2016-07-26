@@ -1252,29 +1252,49 @@ def analyze_rec(rec,wrecs,zipped,unimplemented):
    f(rec)
 
 def analyze_rec_cC(recorig,wrecs,zipped,unimplemented):
- """ zipped in a list of tuples (option,analysis_function_for_option)
-     July 26, 2016. expanded slightly
+ """ zipped is a list of tuples (option,analysis_function_for_option)
+     July 26, 2016. expanded slightly to include ~.
+     Also, included cases where 'c-C' should be analyzed as 'c-S'
  """
  # Often, when a compound has a 2nd part whose spelling starts with 'C',
  # the spelling of that second part starts with 'cC'.
  #m = re.search(r'^(.*?)-cC(.*)$',recorig.key2)
  #July 26. include
  m = re.search(r'^(.*?[-~])cC(.*)$',recorig.key2)
- if not m: # this analysis not applicable
-  return
- # construct a copy of rec. A 'Shallow' copy suffices
- rec = copy.copy(recorig)
- # remove the 'm' from the end of key1 and key2
- # replace 'cC' with 'C' in key2
- rec.key2 = m.group(1)+'C'+m.group(2)
- # Try to analyze this modified record
- analyze_rec(rec,wrecs,zipped,unimplemented)
- if rec.status == 'TODO':  #analysis failed
-  return
- # analysis succeeded. Modify recorig accordingly
- recorig.analysis = rec.analysis
- recorig.status = rec.status
- recorig.note = rec.note + ':+cC'  # so we'll know this route required
+ if m: 
+  # construct a copy of rec. A 'Shallow' copy suffices
+  rec = copy.copy(recorig)
+  # remove the 'm' from the end of key1 and key2
+  # replace 'cC' with 'C' in key2
+  rec.key2 = m.group(1)+'C'+m.group(2)
+  # Try to analyze this modified record
+  analyze_rec(rec,wrecs,zipped,unimplemented)
+  if rec.status != 'TODO':  #analysis failed
+   # analysis succeeded. Modify recorig accordingly
+   recorig.analysis = rec.analysis
+   recorig.status = rec.status
+   recorig.note = rec.note + ':+cC'  # so we'll know this route required
+   return
+ #-----------------
+ # first part failed. Try another
+ # second part (July 26, 2016)
+ m = re.search(r'^(.*?c-)C(.*)$',recorig.key2)
+ if m: 
+  # construct a copy of rec. A 'Shallow' copy suffices
+  rec = copy.copy(recorig)
+  # remove the 'm' from the end of key1 and key2
+  # replace 'c-C' with 'c-S' in key2
+  rec.key2 = m.group(1)+'S'+m.group(2)
+  # Try to analyze this modified record
+  analyze_rec(rec,wrecs,zipped,unimplemented)
+  if rec.status != 'TODO':  #analysis failed
+   # analysis succeeded. Modify recorig accordingly
+   recorig.analysis = rec.analysis
+   recorig.status = rec.status
+   recorig.note = rec.note + ':+cC'  # so we'll know this route required
+   return
+ # no luck
+ return
 
 def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
