@@ -1,5 +1,5 @@
-220264 records from auxiliary/mw_extract.txt
-198458 Lexdata records read from allnom.txt
+220256 records from auxiliary/mw_extract.txt
+198450 Lexdata records read from allnom.txt
 10476 records read from ../../MWvlex/step0/verb_step0a.txt
 1015 records read from auxiliary/icf.txt
 allnom.txt UNUSED: 1A	97152	dohada	dohada	f#A

@@ -1,7 +1,7 @@
 create allnom.txt
-198458 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
-286809 records from ../../mwxml/mw.xml
-198458 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
+198450 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
+286801 records from ../../mwxml/mw.xml
+198450 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
 NO longer copying verb_step0a.txt
 Creating icf.txt from icf_prep1.txt
 1015 records read from auxiliary/icf_prep1.txt
@@ -18,28 +18,27 @@ MW SKIP: </mw>
 
 MW SKIP: 
 
-286815 records read from ../../mwxml/mw.xml
-220264 records written to auxiliary/mw_extract.txt
+286807 records read from ../../mwxml/mw.xml
+220256 records written to auxiliary/mw_extract.txt
 merge files into all.txt
 Revising all.txt
 writing output to all.txt
-220264 Lexdata records read from all.txt
+220256 Lexdata records read from all.txt
 11 Lexdata records read from auxiliary/all_revise.txt
-220264 records written to all.txt
+220256 records written to all.txt
 11 of these records adjusted from auxiliary/all_revise.txt
 redoing analysis2.txt
-220264 records read from all.txt
+Correcting key2: 4860 anatidfSya an-atidfSya => anati-dfSya
+Correcting key2: 4860.1 anatidfSna an-atidfSna => anati-dfSna
+220256 records read from all.txt
 18 records read from auxiliary/wsfx.txt
 6153 records read from auxiliary/pfxderiv.txt
 DBG: removesfx: aparAhRetana [u'na', u'tana']
-DBG: removesfx: avAntara [u'tara', u'ra']
 DBG: removesfx: aspfzwapuruzAntara [u'tara', u'ra']
 DBG: removesfx: ahoraTantara [u'tara', u'ra']
 DBG: removesfx: AkASAnantyAyatana [u'na', u'tana']
 DBG: removesfx: AScyotana [u'na', u'tana']
-DBG: removesfx: upottara [u'tara', u'ra']
 DBG: removesfx: kAyamAnikaniketana [u'na', u'tana']
-DBG: removesfx: kArottara [u'tara', u'ra']
 DBG: removesfx: kiMcitkzaRAntara [u'tara', u'ra']
 DBG: removesfx: kzemaRIyatara [u'tara', u'ra']
 DBG: removesfx: trEtana [u'na', u'tana']
@@ -48,33 +47,29 @@ DBG: removesfx: druhaMtara [u'tara', u'ra']
 DBG: removesfx: nirAkftAnyottara [u'tara', u'ra']
 DBG: removesfx: nEvasaMjYAnAsaMjYAnAyatana [u'na', u'tana']
 DBG: removesfx: praniGAtana [u'na', u'tana']
-DBG: removesfx: prAntara [u'tara', u'ra']
 DBG: removesfx: prAhRetana [u'na', u'tana']
 DBG: removesfx: mUlotpAtana [u'na', u'tana']
 DBG: removesfx: lakzmInfsiMhamahAzwottara [u'tara', u'ra']
 DBG: removesfx: laGuKartara [u'tara', u'ra']
 DBG: removesfx: vijYAnAntyAyatana [u'na', u'tana']
-DBG: removesfx: sAntara [u'tara', u'ra']
-DBG: removesfx: sAyatana [u'na', u'tana']
 DBG: removesfx: suKEkAyatana [u'na', u'tana']
-DBG: removesfx: sUttara [u'tara', u'ra']
-DBG: removesfx: sottara [u'tara', u'ra']
 DBG: removesfx: sopArakapattana [u'na', u'tana']
 DBG: removesfx: svalpAtivistara [u'tara', u'ra']
  22100  NTD init
-   651 DONE +wsfx1
- 85770 DONE cpd1
-  1418 DONE cpd1a
-  4379 DONE cpd3
-  1095 DONE cpd4
-  1792 DONE cpd5
-  3295 DONE cpd_nan
- 12547 DONE gender
+   577 DONE +wsfx1
+ 86388 DONE cpd1
+   943 DONE cpd1a
+  4414 DONE cpd3
+  1091 DONE cpd4
+  1769 DONE cpd5
+  3338 DONE cpd_nan
+ 12548 DONE gender
   1188 DONE inflected
  42771 DONE noparts
-  8666 DONE pfx1
-  2583 DONE pfx2
-  1576 DONE pfxderiv
- 15048 DONE srs2
-  6492 DONE wsfx
-  8893 TODO init
+  8841 DONE pfx1
+  2599 DONE pfx2
+  1540 DONE pfxderiv
+ 15121 DONE srs2
+   983 DONE srs3
+  6498 DONE wsfx
+  7547 TODO init
