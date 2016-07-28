@@ -800,6 +800,7 @@ def previ_floating_compounds(lastpart,allowOne=False):
  return lastanswers
 
 def floating_compounds(lastpart,allowOne=False):
+ star='*'
  drec = hwcpd_dict
  lastanswers=[]
  lparts = re.split(r'-',lastpart)
@@ -818,6 +819,10 @@ def floating_compounds(lastpart,allowOne=False):
    subword2 = re.sub(r'[@]','',subword1)
    if subword2 in drec:
     okwords.append(subword2)
+    continue
+   # July 28, 2016. Maybe subword2 is a gender variant of a headword?
+   if len([x for x in adjective_stems(subword2) if x in drec]) > 0:
+    okwords.append(subword2 + star)
     continue
    # Second, if there is an @, try analyzing as a srs compound
    if '@' in subword1:
