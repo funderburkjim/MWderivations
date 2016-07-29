@@ -123,3 +123,21 @@ However, the reason this is not matched is probably because the
 
 * saM-hata-BrUkuwi-muKa.  BRUkuwi is a variant of BRUkuwI (mw)
 3	227386	saMhataBrUkuwimuKa	saM-hata-BrUkuwi-muKa	m:f:n		TODO	init:parent=saMhata
+* laNka-SAntamuKa   SAntamuKa is a name in BHS
+3	181067	laNkaSAntamuKa	laNka-SAntamuKa
+* lalaj-jihva  = lalat+jihva  (lalat = prap of lal)
+2	181594	lalajjihva	lalaj-jihva
+* lalad-ambu = lalat+ambu (lalat = prap of lal)
+2	181598	laladambu	lalad-ambu
+* lalitA-stavaratna === lalitA-stava-ratna
+3	181707	lalitAstavaratna	lalitA-stavaratna
+* lasad-aMSu = lasat+aMSu (lasat = prap. of lat)
+2	182005	lasadaMSu	lasad-aMSu
+* lIlA-mAtreRa  mAtreRa = 3s of mAtra
+3	182844	lIlAmAtreRa	lIlA-mAtreRa	ind
+* loha-cumbakanyAya = loha-cumbaka-nyAya  (typo in key2)
+3	183811.1	lohacumbakanyAya	loha-cumbakanyAya
+* vana-cCandatA = vana+Canda+tA  (key2 = vana-cCanda-tA)
+3	185784.1	vanacCandatA	vana-cCandatA
+* vaDya-diRqima  diRqima a word in PUI
+3	185639	vaDyadiRqima	vaDya-diRqima

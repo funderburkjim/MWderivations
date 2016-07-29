@@ -290,7 +290,8 @@ additional_forms_special = {
  "ABA":"ABa", # apramARA@Ba, etc
  "BrUkuwI":"BrUkuwi", # saM-hata-BrUkuwi-muKa
  "GoRA":"GoRa", # ud-GoRa
- "icCA":"icCa", # pUrRe@cCa
+ "icCA":"icCa", # pUrRe@cCa,
+ "AKyA":"AKya", # SakrAKya
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
