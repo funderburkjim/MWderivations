@@ -292,6 +292,7 @@ additional_forms_special = {
  "GoRA":"GoRa", # ud-GoRa
  "icCA":"icCa", # pUrRe@cCa,
  "AKyA":"AKya", # SakrAKya
+ "apekzA":"apekza", # sarvApekza
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives

@@ -141,3 +141,5 @@ However, the reason this is not matched is probably because the
 3	185784.1	vanacCandatA	vana-cCandatA
 * vaDya-diRqima  diRqima a word in PUI
 3	185639	vaDyadiRqima	vaDya-diRqima
+* samid-Doma = samid+homa = samiD+homa
+3	234916	samidDoma	samid-Doma
