@@ -80,6 +80,12 @@ class Analysis(object):
  corrections_key2 = {
   "4860":"anati-dfSya",
   "4860.1":"anati-dfSna",
+  "20739.1":"a-sam-pramARa",
+  "20735.2":"a-sam-prajYAna",
+  "20707":"a-sam-azwa-kAvya",
+  "20713.1":"asamApta-praBa",
+  "2659":"ati-dur-lamBa",
+  "3151":"atirAja-kumAri",
  }
  def adjust_key2(self):
   """ Correct some errors in key2
@@ -288,11 +294,21 @@ additional_forms_special = {
  "kilbiza":"kilviza", # akilviza
  "stana":["stanI","stanA"], # ifc f. forms
  "ABA":"ABa", # apramARA@Ba, etc
+ "praBA":"praBa", # asamAptapraBa
  "BrUkuwI":"BrUkuwi", # saM-hata-BrUkuwi-muKa
  "GoRA":"GoRa", # ud-GoRa
  "icCA":"icCa", # pUrRe@cCa,
  "AKyA":"AKya", # SakrAKya
  "apekzA":"apekza", # sarvApekza
+ "sAmpratika":"sAMpratika", # a-sAMpratika-tA
+ "sAmprata":"sAMprata", # a-sAMprata
+ "sAmpratam":"sAMpratam", # a-sAMpratam
+ "sAmpradAyika":"sAMpradAyika", # a-sAMpradAyika
+ "sAMtapana":"sAntapana", # ati-sAntapana
+ "maDyaMdina":"maDyandina", # ati-maDyandina
+ "UDas":"UDnI", # atyUDnI   UDan is alternate stem of UDas.
+ "nidrA":"nidram", # ati-nidram (3044)
+ "atirAjan":"atirAja", # rAja is cpd. form of rAjan. in atirAjakumAri
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
@@ -338,8 +354,18 @@ def additional_forms(rec):
   forms.append(key1a)
  if key1b != key1:
   forms.append(key1b)
-
  return forms
+
+class Participle_rec(object):
+ def __init__(self,line):
+  line = line.rstrip('\r\n')
+  (empty,head,data) = line.split(':')
+  (self.root,self.code,self.cv) = head.split(' ')
+  if data.startswith('('):
+   data = data[1:]
+  if data.endswith(')'):
+   data = data[0:-1]
+  self.stems = data.split(' ')
 
 def init_hwcpd_dict(recs):
  """ hwcpd_dict is a dictionary with 'key1' as key1
@@ -361,6 +387,23 @@ def init_hwcpd_dict(recs):
   for form in forms:
    if form not in drec:
     drec[form]=rec
+ # Aug 8, 2016. participles.txt
+ partdict = {}
+ partfile='auxiliary/participles.txt'
+ with open(partfile,'r') as f:
+  for line in f:
+   prec = Participle_rec(line)
+   for stem in prec.stems:
+    if stem not in partdict:
+     partdict[stem]=[]
+    partdict[stem].append(prec)
+ print len(partdict.keys())," stems from",partfile
+ n=0
+ for stem in partdict:
+  if stem not in drec:
+   drec[stem]=partdict[stem]
+   n = n + 1
+ print n,"new participle words added to drec"
  return drec
 
 

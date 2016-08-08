@@ -21,4 +21,34 @@ deriv.txt
 
 See step3/readme.org for icf.txt
 
-prederi
+participlies.txt is a concatenation of several files of participle
+stems from the elispsanskrit repository in directory 
+elispsanskrit/grammar/prod/outputs/.  The redo_participles.sh script
+does the concatenation.
+
+MW-verb-fap.txt
+MW-verb-fmp.txt
+MW-verb-fpp.txt
+MW-verb-ipp.txt
+MW-verb-ippa.txt
+MW-verb-pap.txt
+MW-verb-potp.txt
+MW-verb-ppp.txt
+MW-verb-prap.txt
+MW-verb-prmp.txt
+MW-verb-prpp.txt
+MW-verb-rpp.txt
+
+
+These are files with line-based records of the following structure:
+:VERB Code ClassVoice:STEMS
+
+where 
+ - VERB is an root
+ - Code is one of the codes above (fap,...,rpp)
+ - ClassVoice is like 1a (class 1 verb, active (Parasmaipada) voice)
+                      1m (class 1 verb, middle (Atmanepada) voice)
+ - STEMS is one or more stems. This field may also have the formal detail
+   of beginning and ending with parentheses.
+
+There are 25890 lines in participles.txt at the time of this writing.
