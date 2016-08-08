@@ -309,6 +309,16 @@ additional_forms_special = {
  "UDas":"UDnI", # atyUDnI   UDan is alternate stem of UDas.
  "nidrA":"nidram", # ati-nidram (3044)
  "atirAjan":"atirAja", # rAja is cpd. form of rAjan. in atirAjakumAri
+ "jala":"jalAt",  # abl. in maDye-jalAt
+ "okas":"okasa",  # marandOkasa
+ "nagna":"RagnI", # mahA-RagnI
+ "harivaMSa":"hArivaMSa", # mahA-deva-hArivaMSa. vfdDi
+ "dvaMdva":"dvandva",  # mahA-dvandva
+ "nAman":"nAmnI", # f. form. mahA-nAmnI
+ "nAman":"nAmnika", # tadDita from nAmnI(?); mahA-nAmnika
+ #"deva":"devIya", # tadDita; mahA-devIya
+ "pArizada":"pArizad", #mahA-pArizad
+ "Bawwa":"BawwI", # mahA-BawwI-vyAkaraRa
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
@@ -1361,12 +1371,21 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  sfx = suffixes[0]
  key1 = re.sub("%s$"%sfx,'',key1)
  key2 = re.sub("%s$"%sfx,'',key2)
+
  # one possibility is that this modified key1 is already a substantive
  if key1 in drec:
   recorig.analysis = key1+"+"+sfx
   recorig.status = 'DONE'
   recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
   return
+ if (sfx == 'Iya')and ((key1+'a') in drec):
+  key1a = key1+'a'
+  key2a = key2+'a'
+  recorig.analysis = key1a+"+"+sfx
+  recorig.status = 'DONE'
+  recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
+  return
+   
  # otherwise, try an analysis after removing the suffix
  # construct a copy of rec. A 'Shallow' copy suffices
  rec = copy.copy(recorig)
@@ -1374,6 +1393,11 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  rec.key1 = key1
  # Try to analyze this modified record
  analyze_rec(rec,wrecs,zipped,unimplemented)
+ if rec.status == 'TODO':  #analysis failed
+  if (sfx == 'Iya'):
+   rec.key2 = key2+'a'
+   rec.key1 = key1+'a'
+   analyze_rec(rec,wrecs,zipped,unimplemented)
  if rec.status == 'TODO':  #analysis failed
   return
  # analysis succeeded. Modify recorig accordingly
