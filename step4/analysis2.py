@@ -1378,48 +1378,64 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  key1 = recorig.key1
  key2 = recorig.key2
  suffixes = [sfx for sfx in Whitney_sfx.d if key1.endswith(sfx)]
+ # There can be more than one sfx in suffixes.
+ # for example, if key1 = XIka and if both 'Ika' and 'ka' are suffixes,
+ # then suffixes contains them both.
+ """
  if len(suffixes) != 1:
   if len(suffixes) > 1:  # currently never happens (Feb 9, 2016)
-   # does now happen (Aug 9, 2016). Not sure of significance.
    #print "DBG: removesfx:",key1,suffixes
    pass
   return
- sfx = suffixes[0]
- key1 = re.sub("%s$"%sfx,'',key1)
- key2 = re.sub("%s$"%sfx,'',key2)
+ """
+ """
+ # sort suffixes with long ones first
+ suffixes.sort(key=lambda x: len(x),reverse=True)
+ """
+ # sort suffixes with short ones first
+ suffixes.sort(key=lambda x: len(x))
+ for sfx in suffixes:
+  key1 = recorig.key1
+  key2 = recorig.key2
+  key1 = re.sub("%s$"%sfx,'',key1)
+  key2 = re.sub("%s$"%sfx,'',key2)
 
- # one possibility is that this modified key1 is already a substantive
- if key1 in drec:
-  recorig.analysis = key1+"+"+sfx
-  recorig.status = 'DONE'
-  recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
-  return
- if (sfx in ['Iya','in'])and ((key1+'a') in drec):
-  key1a = key1+'a'
-  key2a = key2+'a'
-  recorig.analysis = key1a+"+"+sfx
-  recorig.status = 'DONE'
-  recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
-  return
-   
- # otherwise, try an analysis after removing the suffix
- # construct a copy of rec. A 'Shallow' copy suffices
- rec = copy.copy(recorig)
- rec.key2 = key2
- rec.key1 = key1
- # Try to analyze this modified record
- analyze_rec(rec,wrecs,zipped,unimplemented)
- if rec.status == 'TODO':  #analysis failed
-  if (sfx in ['Iya','in']):
-   rec.key2 = key2+'a'
-   rec.key1 = key1+'a'
-   analyze_rec(rec,wrecs,zipped,unimplemented)
- if rec.status == 'TODO':  #analysis failed
-  return
- # analysis succeeded. Modify recorig accordingly
- recorig.analysis = rec.analysis+"+"+sfx
- recorig.status = rec.status
- recorig.note = rec.note + ':+wsfx:%s'%sfx  # so we'll know this route required
+  # one possibility is that this modified key1 is already a substantive
+  if key1 in drec:
+   recorig.analysis = key1+"+"+sfx
+   recorig.status = 'DONE'
+   recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
+   return
+  if (sfx in ['Iya','in','ika','ikA']) and ((key1+'a') in drec):
+   key1a = key1+'a'
+   key2a = key2+'a'
+   recorig.analysis = key1a+"+"+sfx
+   recorig.status = 'DONE'
+   recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
+   return
+    
+  # otherwise, try an analysis after removing the suffix
+  # construct a copy of rec. A 'Shallow' copy suffices
+  rec = copy.copy(recorig)
+  rec.key2 = key2
+  rec.key1 = key1
+  # Try to analyze this modified record
+  analyze_rec(rec,wrecs,zipped,unimplemented)
+  if rec.status == 'TODO':  #analysis failed
+   if (sfx in ['Iya','in','ika','ikA']):
+    rec.key2 = key2+'a'
+    rec.key1 = key1+'a'
+    analyze_rec(rec,wrecs,zipped,unimplemented)
+  if rec.status != 'TODO':  
+   # analysis succeeded. Modify recorig accordingly
+   recorig.analysis = rec.analysis+"+"+sfx
+   recorig.status = rec.status
+   recorig.note = rec.note + ':+wsfx:%s'%sfx 
+   return 
+  # this particular sfx failed. continue with suffixes loop above
+ # otherwise, failure for all suffixes
+ return False
+
 
 def analyze_rec_fauxcpd(recorig,wrecs,zipped,unimplemented):
  """ zipped in a list of tuples (option,analysis_function_for_option)
