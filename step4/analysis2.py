@@ -86,6 +86,8 @@ class Analysis(object):
   "20713.1":"asamApta-praBa",
   "2659":"ati-dur-lamBa",
   "3151":"atirAja-kumAri",
+ "200173":"vivekA@Srama",
+  "204435":"vftta-maRi-koSa",  # hyphen at line break in maRi-koSa
  }
  def adjust_key2(self):
   """ Correct some errors in key2
