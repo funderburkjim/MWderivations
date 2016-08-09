@@ -24,4 +24,4 @@ ra w1226
 in w1230
 ika w1222
 ; f. of ika
-;ikA w1222
+ikA w1222
