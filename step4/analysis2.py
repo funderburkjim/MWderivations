@@ -1378,7 +1378,7 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
   recorig.status = 'DONE'
   recorig.note = '+wsfx1:%s'%sfx  # so we'll know this route required
   return
- if (sfx in ['Iya','in'])and ((key1+'a') in drec):
+ if (sfx == 'Iya')and ((key1+'a') in drec):
   key1a = key1+'a'
   key2a = key2+'a'
   recorig.analysis = key1a+"+"+sfx
@@ -1394,7 +1394,7 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  # Try to analyze this modified record
  analyze_rec(rec,wrecs,zipped,unimplemented)
  if rec.status == 'TODO':  #analysis failed
-  if (sfx in ['Iya','in']):
+  if (sfx == 'Iya'):
    rec.key2 = key2+'a'
    rec.key1 = key1+'a'
    analyze_rec(rec,wrecs,zipped,unimplemented)
