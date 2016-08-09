@@ -319,6 +319,18 @@ additional_forms_special = {
  #"deva":"devIya", # tadDita; mahA-devIya
  "pArizada":"pArizad", #mahA-pArizad
  "Bawwa":"BawwI", # mahA-BawwI-vyAkaraRa
+ "kaTA":"kaTa", # vi-SrAnta-vigraha-kaTa
+ "dAtf":"dAtrI", # vfdDi-dAtrI, f. form. hw in SKD
+ "manas":"maRas", # vfza-maRas  Sandhi after 'z'? Why cross pada?
+ "manyu":"maRyu", # vfza-maRyu  Same question as above
+ "smfti":"smftI", # (?) veda-smftI
+ "aDyAyin":"aDyayin", # vedA@Dyayin
+ "diRqi":"diRqima", # vedA@nta-diRqima, diRqimain PUI.  from diRqi ? or dindima?
+ "veSas":"veSo", # veSo-BagIna, veSo-Bagya
+ "vidUra":"vEdUra", # vEdUra-pati,  vfddhi
+ "triMSat":"triMSaw", # vEdya-triMSaw-wIkA
+ "karman":"karmaRa", # vESva-karmaRa
+ "devatA":"devata", # vESva~devata
 }
 def additional_forms(rec):
  """ Crude generation of additional forms for substantives
@@ -1366,7 +1378,9 @@ def analyze_rec_removesfx(recorig,wrecs,zipped,unimplemented):
  suffixes = [sfx for sfx in Whitney_sfx.d if key1.endswith(sfx)]
  if len(suffixes) != 1:
   if len(suffixes) > 1:  # currently never happens (Feb 9, 2016)
-   print "DBG: removesfx:",key1,suffixes
+   # does now happen (Aug 9, 2016). Not sure of significance.
+   #print "DBG: removesfx:",key1,suffixes
+   pass
   return
  sfx = suffixes[0]
  key1 = re.sub("%s$"%sfx,'',key1)
