@@ -1114,6 +1114,33 @@ def pfx1_main(key2):
   stems = ','.join(lastparta)
   note = 'pfx1:%s:%s<-%s'%(firstpart,lastpart,stems)
   return (analysis,status,note)
+# example vi~zwaBita
+ if firstpart.endswith('i') and lastpart.startswith('zw'):
+  lastparta = 'st' + lastpart[2:]
+  if lastparta in drec:
+   # success
+   analysis = "%s+%s" %(firstpart,lastparta)
+   status = 'DONE'
+   note = 'pfx1:%s:%s<-%s'%(firstpart,lastpart,lastparta)
+   return (analysis,status,note)
+ # vi~zW...
+ if firstpart.endswith('i') and lastpart.startswith('zW'):
+  lastparta = 'sT' + lastpart[2:]
+  if lastparta in drec:
+   # success
+   analysis = "%s+%s" %(firstpart,lastparta)
+   status = 'DONE'
+   note = 'pfx1:%s:%s<-%s'%(firstpart,lastpart,lastparta)
+   return (analysis,status,note)
+ # vi~z...
+ if firstpart.endswith('i') and lastpart.startswith('z'):
+  lastparta = 's' + lastpart[1:]
+  if lastparta in drec:
+   # success
+   analysis = "%s+%s" %(firstpart,lastparta)
+   status = 'DONE'
+   note = 'pfx1:%s:%s<-%s'%(firstpart,lastpart,lastparta)
+   return (analysis,status,note)
 
 def analysis2_pfx1(rec):
  result = pfx1_main(rec.key2)

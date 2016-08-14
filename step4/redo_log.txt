@@ -28,48 +28,36 @@ writing output to all.txt
 220256 records written to all.txt
 11 of these records adjusted from auxiliary/all_revise.txt
 redoing analysis2.txt
+Correcting key2: 2659 atidurlamBa ati-durlamBa => ati-dur-lamBa
+Correcting key2: 3151 atirAjakumAri ati-rAjakumAri => atirAja-kumAri
 Correcting key2: 4860 anatidfSya an-atidfSya => anati-dfSya
 Correcting key2: 4860.1 anatidfSna an-atidfSna => anati-dfSna
+Correcting key2: 20707 asamazwakAvya a-samazwa-kAvya => a-sam-azwa-kAvya
+Correcting key2: 20713.1 asamAptapraBa a-samAptapraBa => asamApta-praBa
+Correcting key2: 20735.2 asamprajYAna a-samprajYAna => a-sam-prajYAna
+Correcting key2: 20739.1 asampramARa a-sampramARa => a-sam-pramARa
+Correcting key2: 200173 vivekASrama vi-ve~kASrama => vivekA@Srama
+Correcting key2: 204435 vfttamaRikoSa vftta-maRikoSa => vftta-maRi-koSa
 220256 records read from all.txt
-18 records read from auxiliary/wsfx.txt
+20544  stems from auxiliary/participles.txt
+18642 new participle words added to drec
+21 records read from auxiliary/wsfx.txt
 6153 records read from auxiliary/pfxderiv.txt
-DBG: removesfx: aparAhRetana [u'na', u'tana']
-DBG: removesfx: aspfzwapuruzAntara [u'tara', u'ra']
-DBG: removesfx: ahoraTantara [u'tara', u'ra']
-DBG: removesfx: AkASAnantyAyatana [u'na', u'tana']
-DBG: removesfx: AScyotana [u'na', u'tana']
-DBG: removesfx: kAyamAnikaniketana [u'na', u'tana']
-DBG: removesfx: kiMcitkzaRAntara [u'tara', u'ra']
-DBG: removesfx: kzemaRIyatara [u'tara', u'ra']
-DBG: removesfx: trEtana [u'na', u'tana']
-DBG: removesfx: durnizprapatana [u'na', u'tana']
-DBG: removesfx: druhaMtara [u'tara', u'ra']
-DBG: removesfx: nirAkftAnyottara [u'tara', u'ra']
-DBG: removesfx: nEvasaMjYAnAsaMjYAnAyatana [u'na', u'tana']
-DBG: removesfx: praniGAtana [u'na', u'tana']
-DBG: removesfx: prAhRetana [u'na', u'tana']
-DBG: removesfx: mUlotpAtana [u'na', u'tana']
-DBG: removesfx: lakzmInfsiMhamahAzwottara [u'tara', u'ra']
-DBG: removesfx: laGuKartara [u'tara', u'ra']
-DBG: removesfx: vijYAnAntyAyatana [u'na', u'tana']
-DBG: removesfx: suKEkAyatana [u'na', u'tana']
-DBG: removesfx: sopArakapattana [u'na', u'tana']
-DBG: removesfx: svalpAtivistara [u'tara', u'ra']
  22100  NTD init
-   577 DONE +wsfx1
- 86388 DONE cpd1
-   943 DONE cpd1a
-  4414 DONE cpd3
-  1091 DONE cpd4
-  1769 DONE cpd5
-  3338 DONE cpd_nan
- 12548 DONE gender
+  1203 DONE +wsfx1
+ 86714 DONE cpd1
+   890 DONE cpd1a
+  4438 DONE cpd3
+  1138 DONE cpd4
+  1945 DONE cpd5
+  3442 DONE cpd_nan
+ 12550 DONE gender
   1188 DONE inflected
  42771 DONE noparts
-  8841 DONE pfx1
-  2599 DONE pfx2
-  1540 DONE pfxderiv
- 15121 DONE srs2
-   983 DONE srs3
-  6498 DONE wsfx
-  7547 TODO init
+  9151 DONE pfx1
+  2717 DONE pfx2
+  1386 DONE pfxderiv
+ 15416 DONE srs2
+  1034 DONE srs3
+  6500 DONE wsfx
+  5673 TODO init

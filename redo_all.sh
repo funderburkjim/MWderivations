@@ -10,4 +10,4 @@ echo "recomputing step4"
 echo "---------------------------------------"
 cd ../step4
 sh redo.sh > redo_log.txt
-
+echo "check output step4/redo_log.txt "
