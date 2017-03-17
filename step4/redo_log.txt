@@ -1,7 +1,7 @@
 create allnom.txt
-198445 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
+198444 Lexdata records read from ../../MWlexnorm/step1b/lexnorm-all.txt
 286801 records from ../../mwxml/mw.xml
-198445 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
+198444 records processed from ../../MWlexnorm/step1b/lexnorm-all.txt
 NO longer copying verb_step0a.txt
 Creating icf.txt from icf_prep1.txt
 1015 records read from auxiliary/icf_prep1.txt
@@ -19,13 +19,13 @@ MW SKIP: </mw>
 MW SKIP: 
 
 286807 records read from ../../mwxml/mw.xml
-220250 records written to auxiliary/mw_extract.txt
+220249 records written to auxiliary/mw_extract.txt
 merge files into all.txt
 Revising all.txt
 writing output to all.txt
-220250 Lexdata records read from all.txt
+220249 Lexdata records read from all.txt
 11 Lexdata records read from auxiliary/all_revise.txt
-220250 records written to all.txt
+220249 records written to all.txt
 11 of these records adjusted from auxiliary/all_revise.txt
 redoing analysis2.txt
 Correcting key2: 2659 atidurlamBa ati-durlamBa => ati-dur-lamBa
@@ -38,26 +38,26 @@ Correcting key2: 20735.2 asamprajYAna a-samprajYAna => a-sam-prajYAna
 Correcting key2: 20739.1 asampramARa a-sampramARa => a-sam-pramARa
 Correcting key2: 200173 vivekASrama vi-ve~kASrama => vivekA@Srama
 Correcting key2: 204435 vfttamaRikoSa vftta-maRikoSa => vftta-maRi-koSa
-220250 records read from all.txt
+220249 records read from all.txt
 20544  stems from auxiliary/participles.txt
 18642 new participle words added to drec
 21 records read from auxiliary/wsfx.txt
 6153 records read from auxiliary/pfxderiv.txt
  22100  NTD init
   1203 DONE +wsfx1
- 86715 DONE cpd1
+ 86716 DONE cpd1
    889 DONE cpd1a
-  4438 DONE cpd3
+  4439 DONE cpd3
   1138 DONE cpd4
   1945 DONE cpd5
   3442 DONE cpd_nan
  12550 DONE gender
   1188 DONE inflected
- 42766 DONE noparts
+ 42765 DONE noparts
   9151 DONE pfx1
   2717 DONE pfx2
   1386 DONE pfxderiv
  15416 DONE srs2
   1034 DONE srs3
   6500 DONE wsfx
-  5672 TODO init
+  5670 TODO init
