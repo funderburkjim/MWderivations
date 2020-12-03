@@ -3,6 +3,9 @@
    
 """
 import codecs,re,sys
+import transcoder
+transcoder.transcoder_set_dir("transcoder");
+transcode = transcoder.transcoder_processElements
 
 hwcpd_dict={} # module global
 
@@ -1606,27 +1609,36 @@ def init_children(recs):
  print('init_children',nc,'recs identified as children of H1 or H2 records')
 
 def write_fields(rec):
+ tranin = 'slp1'
+ tranout = 'roman'
  nc = len(rec.children)
  a = []
  a.append('%04d' % nc)
  if rec.lex.startswith('VERB'):
-  a.append("%s(VERB)" %rec.key1) # parent
+  b ="<s>%s</s> VERB" %rec.key1
  else:
-  a.append(rec.key1) # parent
+  b = "<s>%s</s>" %rec.key1
+ b1 = transcode(b,tranin,tranout,'s')
+ a.append(b1)
  kp = rec.key1 
  k2p = rec.key2
  def childF(k):
   # remove ~
   x = re.sub('~','',k)
   if x.startswith(k2p+'-'):
-   return re.sub(r'^%s-'%k2p,'+',x)
+   y = re.sub(r'^%s-'%k2p,'+',x)
   elif x.startswith(kp+'-'):
-   return re.sub(r'^%s-'%kp,'+',x)
-  return x
+   y = re.sub(r'^%s-'%kp,'+',x)
+  else:
+   y = x
+  z = '<s>%s</s>' % y
+  w = transcode(z,tranin,tranout,'s')
+  return w
  children = [childF(x.key2) for x in rec.children]
  childstring = ' '.join(children)
  a.append(childstring)
  return a
+
 def write_txt(recs,fileout):
  with codecs.open(fileout,"w","utf-8") as f:
   n1 = 0  # number of parents
@@ -1681,6 +1693,84 @@ The columns of the table are:
    f.write(out + '\n')
  print(n1,"records written to",fileout)
 
+def write_html(recs,fileout):
+ outarr = """<!DOCTYPE html>
+<html>
+<head>
+<title>MW H3 compounds</title>
+<style>
+ table {
+  width: 600px;
+ }
+ table,th,td {
+  border: 1px solid black;
+ }
+
+ .centertop {  /* for text in <td> */
+  vertical-align: top;
+  text-align:center;
+ }
+</style>
+</head>
+<body>
+<H2>MW <i>compounds</i></H2>
+<p>
+The table shows data  from Cologne digitization of Monier-Williams
+Sanskrit Dictionary of 1899. There are 12609 records in the table.
+Each corresponds to a headword which 
+</p>
+<ul>
+
+<li> is marked as H1 or H2 (MW's first or second line of headwords)
+</li>
+<li> and has one or more H3 <i>children</i>.
+  <br/>
+  H3 headwords can also have H4 <i>children</i>, but this table ignores these
+</li>
+</ul>
+The columns of the table are:
+<ul>
+<li> number of children
+</li><li> the 'parent' headword.
+  <br/> The parent may be marked as a VERB -- 1247 of these.
+    Clearly the children in such cases are not compounds, but the
+    current (H3) markup of the children is the same as for samasas.
+</li><li> the children (compounds) of the parent. In most cases, the
+  child headword spelling in the 'key2' field of MW digitization is of
+  the form 'X-Y', where X is the spelling of the parent.
+  In such cases, the table shortens the child spelling to '+Y'.
+</li>
+</ul>
+<table>
+<tr><th>count</th><th>headword</th><th><i>compounds</i></th></tr>
+
+""".splitlines()
+ n1 = 0  # number of parents
+ for rec in recs:
+  nc = len(rec.children)
+  if nc == 0:
+   continue
+  n1 = n1 + 1
+  fields = write_fields(rec)
+  #fields[0] = '<span class="centertop">%s</span>'% fields[0]
+  #fields[1] = '<span class="centertop">%s</span>'% fields[1]
+  a = []
+  a.append('<tr>')
+  a.append('<td class="centertop">%s</td>' %fields[0])
+  a.append('<td class="centertop">%s</td>' %fields[1])
+  a.append('<td>%s</td>' % fields[2])
+  a.append('</tr>')
+  outarr = outarr + a
+ temp = """
+</table>
+</body>
+</html>""".splitlines()
+ outarr = outarr + temp
+ with codecs.open(fileout,"w","utf-8") as f:
+  for out in outarr:
+   f.write(out + '\n')
+ print(n1,"records written to",fileout)
+
 if __name__ == "__main__":
  option = sys.argv[1]
  filein  = sys.argv[2] # either all.txt or a previous analysis of all.txt
@@ -1692,6 +1782,8 @@ if __name__ == "__main__":
   write_txt(recs,fileout)
  elif option == 'md':
   write_md(recs,fileout)
+ elif option == 'html':
+  write_html(recs,fileout)
  else:
   print('unknown option',option)
  exit(1)

@@ -6,3 +6,6 @@ We use step4/all.txt as input.
 python compounds.py txt ../step4/all.txt compounds.txt
 python compounds.py md ../step4/all.txt compounds.md
 
+python compounds.py html ../step4/all.txt compounds.html
+
+
