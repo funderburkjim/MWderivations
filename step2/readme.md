@@ -1,3 +1,5 @@
+_Created: 28-12-2015 · Last updated: 05-09-2026_
+
 
 This readme.md provides an overview of the computations and results. 
 
@@ -62,3 +64,5 @@ Current success rate:
 
 For some additional procedural discussion, consult the
 readme_procedure.org file.
+
+_Dr. Mārcis Gasūns_

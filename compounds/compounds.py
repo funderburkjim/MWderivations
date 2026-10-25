@@ -1,6 +1,36 @@
 """ compounds.py
-   Dec 2, 2020. 
+   Dec 2, 2020.
    
+ARCHIVED LEGACY — Python 2 research script, kept for provenance only (H7243,
+24-10-2026). Do not port and do not wire a lint gate over this file.
+
+Decision: ARCHIVE, not port. Reasons, each verified 24-10-2026:
+
+* `xrange` at 12 sites (158, 169, 529, 585, 633, 654, 711, 780, 869, 895, 957,
+  1002) — a builtin in Python 2 only. This file itself *parses* under Python 3;
+  what makes it Python 2 is the builtin plus the helpers below.
+* `partition` at 868, 892 and 1001 is not a builtin in either version — it is
+  defined in `step3/partition.py` and `step4/partition.py`, which are not on
+  this directory's import path, so the script cannot run from `compounds/`.
+  Both of those helpers are themselves Python 2: `py_compile` on each stops at
+  `print` without parentheses (SyntaxError), so a port means converting four
+  files, not one.
+* Missing imports: `copy.copy` (1383, 1401, 1462, 1498, 1530, 1548) and
+  `Counter` (1842) are used without `import copy` / `from collections import
+  Counter`.
+* `ScharfSandhi` (562, 611) is never imported here; the class lives in
+  `step3/scharfsandhi.py` and `step4/scharfsandhi.py`, and that module is Py2
+  too (same `print` SyntaxError).
+* The repository README states it is "a research workspace, not a software
+  product"; there is no Python CI in this repo (only dependabot).
+
+The data product, not the code, is what the estate consumes: `compounds.txt` is
+read by `issue15/build_reverse_compound_index.py`. Porting would mean
+reconstructing the original driver (the missing partition/ScharfSandhi wiring),
+which this repository does not record; a port would therefore be speculative.
+
+The 22 ruff F821 sites this file contributes are therefore a documented legacy
+exclusion, not an open repair item.
 """
 import codecs,re,sys
 import transcoder
@@ -1557,7 +1587,8 @@ def analysis_all(recs):
    continue
   try:
    functions.append(localdict[fcnname])
-  except:
+  except Exception as e:
+   sys.stderr.write('compounds.py analysis_all: option %s: error at py line %s: %s: %s\n' % (option,sys.exc_info()[2].tb_lineno,type(e).__name__,e))
    print("analysis_all. Unknown option:",option, fcnname)
    exit(1)
 
